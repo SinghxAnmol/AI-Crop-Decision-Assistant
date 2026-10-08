@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Crop Decision Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">&#127806;</span>
+    <div>
+      <div class="brand-title">AI Crop Decision Assistant</div>
+      <div class="brand-sub">Intelligent Crop Selection &amp; Profit Prediction</div>
+    </div>
+  </div>
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
+    <button class="tab-btn" data-tab="recommend">Recommend</button>
+    <button class="tab-btn" data-tab="whatif">What-If</button>
+    <button class="tab-btn" data-tab="about">About</button>
+  </nav>
+</header>
+
+{% if not models_loaded %}
+<div class="banner-error">
+  Trained models were not found. Please run <code>python train_model.py</code> first, then restart the app.
+</div>
+{% endif %}
+
+<main class="content">
+
+  <!-- ================= DASHBOARD TAB ================= -->
+  <section id="dashboard" class="tab-panel active">
+    <h1 class="page-title">Farm Data Overview</h1>
+    <p class="page-sub">A quick snapshot of the agricultural dataset this system learns from.</p>
+
+    <div class="stat-grid" id="statGrid">
+      <div class="stat-card">
+        <div class="stat-value" id="statCrops">--</div>
+        <div class="stat-label">Crops in dataset</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="statRecords">--</div>
+        <div class="stat-label">Historical records</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="statYield">--</div>
+        <div class="stat-label">Avg yield (quintal/acre)</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="statProfit">--</div>
+        <div class="stat-label">Avg profit / acre (&#8377;)</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>Average Yield by Crop</h3>
+        <canvas id="yieldChart"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>Average Profit by Crop (&#8377;/acre)</h3>
+        <canvas id="profitChart"></canvas>
+      </div>
+      <div class="chart-card wide">
+        <h3>Market Demand Score by Crop</h3>
+        <canvas id="demandChart"></canvas>
+      </div>
+    </div>
+
+    <div class="cta-row">
+      <p>Ready to get a recommendation for your own land?</p>
+      <button class="btn-primary" onclick="switchTab('recommend')">Go to Recommend &rarr;</button>
+    </div>
+  </section>
+
+  <!-- ================= RECOMMEND TAB ================= -->
+  <section id="recommend" class="tab-panel">
+    <h1 class="page-title">Get a Crop Recommendation</h1>
+    <p class="page-sub">Tell us about your land and we'll suggest the most suitable crop.</p>
+
+    <form id="predictForm" class="form-card">
+      <div class="form-grid">
+        <div class="field">
+          <label for="state">State</label>
+          <select id="state" name="state" required>
+            <option value="">Select state</option>
+            {% for s in dropdowns.states %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+          </select>
+        </div>
+        <div class="field">
+          <label for="district">District</label>
+          <select id="district" name="district" required>
+            <option value="">Select district</option>
+            {% for d in dropdowns.districts %}<option value="{{ d }}">{{ d }}</option>{% endfor %}
+          </select>
+        </div>
+        <div class="field">
+          <label for="soil_type">Soil Type</label>
+          <select id="soil_type" name="soil_type" required>
+            <option value="">Select soil type</option>
+            {% for s in dropdowns.soil_types %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+          </select>
+        </div>
+        <div class="field">
+          <label for="season">Season</label>
+          <select id="season" name="season" required>
+            <option value="">Select season</option>
+            {% for s in dropdowns.seasons %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+          </select>
+        </div>
+        <div class="field">
+          <label for="land_size">Land Size (acres)</label>
+          <input type="number" id="land_size" name="land_size" min="0.1" step="0.1" placeholder="e.g. 5" required>
+        </div>
+        <div class="field">
+          <label for="budget">Budget (&#8377;)</label>
+          <input type="number" id="budget" name="budget" min="0" step="500" placeholder="e.g. 40000" required>
+        </div>
+        <div class="field">
+          <label for="water_availability">Water Availability</label>
+          <select id="water_availability" name="water_availability" required>
+            <option value="">Select level</option>
+            <option value="Low">Low</option>
+            <option value="Medium">Medium</option>
+            <option value="High">High</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="previous_crop">Previous Crop (optional)</label>
+          <select id="previous_crop" name="previous_crop">
+            <option value="">None / not sure</option>
+            {% for c in dropdowns.crops %}<option value="{{ c }}">{{ c }}</option>{% endfor %}
+          </select>
+        </div>
+      </div>
+
+      <button type="submit" class="btn-primary" id="predictBtn">Get Recommendation</button>
+      <div id="formError" class="form-error"></div>
+    </form>
+
+    <div id="resultsArea" class="results-area"></div>
+  </section>
+
+  <!-- ================= WHAT-IF TAB ================= -->
+  <section id="whatif" class="tab-panel">
+    <h1 class="page-title">What-If Analysis</h1>
+    <p class="page-sub">See how changing irrigation availability changes your outcome. Get a recommendation first, then come back here.</p>
+
+    <div id="whatifEmpty" class="empty-state">
+      No recommendation yet. Go to the <strong>Recommend</strong> tab and submit the form first.
+    </div>
+
+    <div id="whatifContent" class="whatif-content" style="display:none;">
+      <div class="whatif-controls">
+        <label for="irrigationSlider">Increase irrigation / water availability by:
+          <strong><span id="irrigationValue">20</span>%</strong>
+        </label>
+        <input type="range" id="irrigationSlider" min="0" max="100" step="5" value="20">
+        <button class="btn-primary" id="runWhatIfBtn">Recalculate</button>
+      </div>
+
+      <div class="whatif-compare">
+        <div class="whatif-col">
+          <h3>Before</h3>
+          <div id="whatifBefore" class="whatif-box"></div>
+        </div>
+        <div class="whatif-col">
+          <h3>After</h3>
+          <div id="whatifAfter" class="whatif-box"></div>
+        </div>
+      </div>
+
+      <div id="whatifDiff" class="whatif-diff"></div>
+    </div>
+  </section>
+
+  <!-- ================= ABOUT TAB ================= -->
+  <section id="about" class="tab-panel">
+    <h1 class="page-title">About This Project</h1>
+    <div class="about-card">
+      <p><strong>AI Crop Decision Assistant</strong> is an MCA academic project that helps a farmer decide
+      which crop to grow based on their land, soil, water, season, budget and location, using machine
+      learning trained on agricultural data.</p>
+
+      <h3>SDG Alignment</h3>
+      <p>This project supports <strong>UN Sustainable Development Goal 2 - Zero Hunger</strong>, by helping
+      farmers make more informed, data-driven decisions that can improve yield and income.</p>
+
+      <h3>Technology Used</h3>
+      <ul>
+        <li>Python, Flask (backend)</li>
+        <li>Scikit-learn - Random Forest Classifier &amp; Regressor (machine learning)</li>
+        <li>Pandas, NumPy (data processing)</li>
+        <li>HTML, CSS, JavaScript, Chart.js (frontend)</li>
+        <li>SQLite-ready structure / CSV dataset (data storage)</li>
+      </ul>
+
+      <h3>Disclaimer</h3>
+      <p class="disclaimer">Predictions are estimates based on historical/sample data and should be validated
+      with local agricultural experts and current market conditions before making real farming decisions.
+      This project does not guarantee profit or yield outcomes.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  AI Crop Decision Assistant &middot; MCA Final Year Project &middot; SDG 2: Zero Hunger
+</footer>
+
+<script src="{{ url_for('static', filename='chart.umd.js') }}"></script>
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

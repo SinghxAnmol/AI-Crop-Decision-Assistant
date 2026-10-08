@@ -1,0 +1,1201 @@
+State,District,Season,Soil_Type,Crop,Land_Size,Water_Availability,N,P,K,pH,Rainfall,Temperature,Yield,Market_Price,Cost_Per_Acre,Water_Requirement,Market_Demand,Risk
+Punjab,Ludhiana,Rabi,Clay,Cotton,5.2,43,103.7,30.7,37.1,7.21,933.8,29.1,9.78,6382.8,32252.37,Medium,67.7,Low
+Haryana,Karnal,Kharif,Red,Maize,7.8,42,93.5,50.7,34.3,6.15,971.3,21.9,27.23,2187.78,23131.91,Medium,80.0,Low
+Punjab,Amritsar,Rabi,Red,Soybean,4.1,36,60.5,66.9,43.8,6.14,1170.1,28.6,11.6,4145.19,22930.82,Medium,66.7,Low
+Punjab,Ludhiana,Zaid,Sandy,Groundnut,8.5,25,32.2,45.9,50.7,7.29,752.8,35.4,14.66,5174.77,26752.48,Medium,61.3,Medium
+Maharashtra,Nagpur,Rabi,Alluvial,Gram,11.1,59,17.4,51.8,19.7,7.21,513.9,26.4,11.42,5033.35,18563.14,Low,62.6,Low
+Madhya Pradesh,Ujjain,Kharif,Black,Sugarcane,11.2,80,150.9,59.7,70.0,6.98,1468.6,35.9,487.45,291.56,51487.52,High,72.7,Low
+Haryana,Panipat,Zaid,Loamy,Groundnut,19.3,62,28.0,48.2,51.9,6.68,550.1,21.7,14.65,5111.26,22353.24,Medium,61.8,Low
+Uttar Pradesh,Lucknow,Kharif,Sandy,Bajra,5.1,26,53.5,26.9,36.8,6.46,349.7,33.3,14.85,1920.48,11696.51,Low,34.6,Medium
+Punjab,Ludhiana,Kharif,Black,Sugarcane,9.0,87,162.9,67.4,57.2,7.91,1567.7,34.5,481.68,289.93,40879.53,High,51.2,Low
+Uttar Pradesh,Meerut,Rabi,Red,Gram,13.6,60,31.8,44.4,38.7,6.17,553.0,9.7,10.03,4645.07,18309.1,Low,57.2,Low
+Maharashtra,Nashik,Kharif,Sandy,Groundnut,12.8,22,35.6,60.9,52.4,6.28,598.5,32.8,15.58,6296.04,22439.56,Medium,61.4,Medium
+Uttar Pradesh,Lucknow,Rabi,Black,Gram,16.8,41,16.0,43.5,21.9,6.76,655.0,12.5,11.55,5398.85,15017.99,Low,55.9,Low
+Uttar Pradesh,Varanasi,Rabi,Loamy,Maize,2.8,44,83.1,52.9,41.9,6.53,642.5,32.8,23.51,2134.77,18888.56,Medium,79.8,Low
+Punjab,Amritsar,Zaid,Black,Sugarcane,7.7,99,157.6,62.9,97.3,7.38,1181.1,34.8,479.13,327.72,43722.51,High,59.9,Low
+Haryana,Panipat,Rabi,Alluvial,Bajra,5.2,31,41.0,36.1,24.9,7.51,226.5,26.9,13.88,2207.36,10576.71,Low,59.9,Medium
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Sugarcane,9.3,88,172.2,62.8,56.2,7.35,1702.5,25.0,443.72,339.37,49950.81,High,76.2,Low
+Punjab,Patiala,Zaid,Red,Groundnut,7.2,33,14.2,47.3,49.2,6.1,736.3,26.5,14.8,5291.27,26053.76,Medium,45.8,Low
+Haryana,Panipat,Rabi,Alluvial,Mustard,12.8,28,68.4,35.1,37.1,7.55,524.2,21.1,11.37,5451.92,13737.86,Low,51.2,Medium
+Punjab,Ludhiana,Kharif,Loamy,Groundnut,9.8,8,16.1,36.7,52.5,6.33,821.1,28.1,15.62,5260.29,27168.97,Medium,47.3,Medium
+Uttar Pradesh,Varanasi,Zaid,Loamy,Groundnut,2.5,47,24.8,55.2,43.7,7.16,448.4,29.1,15.24,5954.49,26173.14,Medium,68.0,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Sugarcane,15.3,100,121.0,65.9,66.9,6.26,1342.9,30.5,480.68,296.57,49333.85,High,75.9,Low
+Madhya Pradesh,Ujjain,Kharif,Alluvial,Maize,17.5,57,86.8,53.5,39.7,6.97,856.6,27.3,28.41,1733.94,23743.71,Medium,81.3,Low
+Punjab,Ludhiana,Kharif,Black,Mustard,3.9,45,85.4,31.7,15.2,6.91,547.3,24.8,10.25,5546.21,17790.86,Low,46.9,Medium
+Punjab,Patiala,Zaid,Clay,Cotton,2.9,59,117.3,26.9,60.5,6.59,712.2,32.8,9.26,7035.29,32458.37,Medium,66.6,Low
+Haryana,Hisar,Zaid,Black,Sugarcane,12.7,100,131.9,71.1,67.4,7.34,1711.5,29.4,462.62,304.24,47313.25,High,64.2,Low
+Uttar Pradesh,Varanasi,Rabi,Clay,Gram,1.2,39,49.9,53.9,32.5,6.33,624.7,21.8,10.89,5194.62,16127.52,Low,67.9,Low
+Madhya Pradesh,Bhopal,Zaid,Red,Groundnut,5.8,47,26.0,51.0,41.1,6.35,545.9,27.6,15.69,5059.91,22084.89,Medium,53.7,Low
+Punjab,Patiala,Zaid,Red,Bajra,2.9,22,38.4,32.4,39.2,7.27,214.8,32.0,14.61,2185.09,11240.95,Low,66.9,Medium
+Madhya Pradesh,Bhopal,Zaid,Sandy,Groundnut,15.7,16,37.9,45.9,44.0,7.37,892.0,27.7,14.86,5361.3,24451.11,Medium,56.6,Medium
+Punjab,Ludhiana,Zaid,Red,Groundnut,2.4,24,23.4,60.6,56.9,6.37,570.1,25.6,15.54,6069.55,24634.92,Medium,49.6,Medium
+Maharashtra,Nagpur,Zaid,Red,Groundnut,10.5,33,20.9,47.0,45.2,7.16,885.6,32.3,14.89,5169.4,24823.0,Medium,49.7,Low
+Haryana,Panipat,Zaid,Loamy,Rice,9.9,57,114.7,45.3,40.9,6.11,1793.9,25.2,26.38,2304.99,22009.21,High,91.2,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Sugarcane,12.8,73,122.1,60.8,98.3,7.14,1679.9,31.7,474.62,296.1,52621.09,High,82.7,Low
+Haryana,Hisar,Rabi,Clay,Gram,14.4,53,19.3,49.8,25.4,7.5,472.4,25.1,10.54,4764.34,17630.25,Low,69.9,Low
+Madhya Pradesh,Ujjain,Rabi,Clay,Wheat,9.5,36,123.6,66.8,45.5,5.92,670.0,10.1,22.21,2257.62,20754.36,Medium,77.3,Low
+Punjab,Ludhiana,Zaid,Sandy,Groundnut,17.6,32,20.1,53.6,46.6,6.33,919.7,32.5,16.09,5789.04,23899.97,Medium,47.4,Low
+Maharashtra,Nagpur,Zaid,Alluvial,Sugarcane,20.0,89,115.4,72.8,83.9,7.87,1346.0,29.6,483.56,323.14,42549.75,High,82.2,Low
+Madhya Pradesh,Ujjain,Rabi,Black,Wheat,5.4,64,107.7,69.8,37.8,6.48,845.3,23.3,23.09,2226.76,21120.01,Medium,71.8,Low
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,19.9,28,54.4,38.5,51.8,5.77,894.0,27.4,14.39,5425.44,25725.35,Medium,54.4,Medium
+Haryana,Panipat,Zaid,Alluvial,Sugarcane,16.0,68,118.5,79.3,70.2,7.28,1650.7,28.8,487.77,352.39,44427.12,High,83.2,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Cotton,17.3,38,96.6,40.2,37.0,6.64,969.7,31.3,9.96,5511.8,25225.22,Medium,77.7,Low
+Madhya Pradesh,Indore,Kharif,Clay,Rice,18.3,72,108.4,60.4,43.8,6.84,1021.5,31.8,30.6,2096.13,25319.08,High,79.2,Low
+Punjab,Amritsar,Rabi,Sandy,Sugarcane,1.6,78,164.3,81.8,86.2,7.28,1295.4,26.6,394.78,324.3,48957.19,High,81.9,Low
+Haryana,Karnal,Kharif,Sandy,Groundnut,12.1,43,37.7,64.4,49.5,7.84,781.7,30.9,14.61,5839.86,22094.69,Medium,65.6,Low
+Uttar Pradesh,Lucknow,Zaid,Black,Sugarcane,15.2,64,142.6,41.2,61.4,7.42,1348.6,36.7,467.49,309.76,47354.03,High,70.6,Low
+Punjab,Amritsar,Kharif,Sandy,Bajra,12.9,21,55.7,27.2,20.6,7.68,241.9,27.1,15.61,2235.8,14137.1,Low,48.7,Medium
+Maharashtra,Pune,Kharif,Clay,Rice,13.6,78,140.2,42.4,40.0,6.75,1492.1,28.2,30.24,2009.48,28002.27,High,90.6,Low
+Uttar Pradesh,Varanasi,Rabi,Red,Rice,12.0,67,105.4,39.2,51.2,6.74,1929.2,27.3,24.31,1890.93,28635.69,High,74.5,Low
+Uttar Pradesh,Lucknow,Rabi,Black,Gram,18.5,24,26.9,60.6,42.9,5.85,444.0,11.8,12.14,5606.56,18416.71,Low,65.5,Low
+Punjab,Patiala,Rabi,Alluvial,Gram,10.2,50,26.9,50.6,27.0,7.17,610.5,20.2,12.11,4788.73,15277.6,Low,58.3,Low
+Uttar Pradesh,Lucknow,Rabi,Alluvial,Wheat,3.5,39,115.6,60.3,48.8,6.54,533.3,13.7,24.39,2095.71,21797.2,Medium,89.2,Low
+Maharashtra,Nagpur,Kharif,Red,Maize,5.6,87,95.6,45.5,35.3,6.67,483.4,24.6,24.75,2051.94,18878.67,Medium,60.4,Low
+Haryana,Karnal,Kharif,Sandy,Groundnut,4.4,42,25.8,44.4,54.9,6.21,700.9,27.3,15.81,5183.33,22337.03,Medium,53.1,Low
+Maharashtra,Nashik,Rabi,Alluvial,Rice,13.2,84,148.2,51.3,59.5,5.42,1862.5,28.7,25.26,2088.24,28699.02,High,81.8,Low
+Punjab,Patiala,Kharif,Clay,Rice,19.8,64,112.9,51.8,59.2,5.39,1276.8,27.5,29.68,2329.15,26821.61,High,83.9,Low
+Haryana,Hisar,Zaid,Red,Groundnut,3.5,45,43.0,56.1,52.0,7.28,1028.8,29.6,14.91,5548.39,24050.39,Medium,59.9,Low
+Maharashtra,Nashik,Kharif,Black,Soybean,17.0,70,63.2,70.9,46.4,6.07,1132.1,29.7,12.7,4069.77,22058.18,Medium,64.7,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Sugarcane,19.3,100,155.7,68.5,74.8,7.35,1410.5,26.8,449.51,282.58,45568.18,High,58.1,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,6.2,47,26.2,59.9,52.4,6.36,648.9,32.6,15.58,6131.99,25899.76,Medium,61.1,Low
+Uttar Pradesh,Meerut,Kharif,Clay,Rice,9.5,77,105.6,58.5,50.1,5.3,1280.2,27.6,29.67,1930.6,26773.91,High,73.5,Low
+Punjab,Patiala,Zaid,Sandy,Groundnut,6.5,53,31.5,40.8,41.9,6.45,715.4,24.6,15.29,5318.63,26483.9,Medium,58.1,Low
+Haryana,Panipat,Zaid,Clay,Rice,15.7,89,128.2,52.2,60.2,6.66,1596.5,20.1,27.56,1857.91,23595.76,High,73.3,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,5.8,40,21.9,58.6,39.1,6.75,862.9,29.8,15.5,5730.79,25115.66,Medium,64.1,Low
+Punjab,Amritsar,Kharif,Sandy,Bajra,2.9,5,47.4,39.6,18.2,7.7,509.3,30.0,15.35,2148.14,12565.43,Low,52.3,Medium
+Haryana,Karnal,Zaid,Black,Sugarcane,1.7,100,140.3,55.3,84.4,7.07,1599.5,27.5,489.09,283.57,51035.12,High,60.1,Low
+Madhya Pradesh,Indore,Rabi,Red,Bajra,5.1,25,48.3,7.0,25.5,7.65,676.9,30.0,13.75,2075.56,11499.78,Low,44.1,Medium
+Haryana,Panipat,Zaid,Clay,Wheat,16.1,42,105.8,53.1,40.0,6.68,549.2,8.3,23.21,2293.43,20614.99,Medium,81.4,Low
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Mustard,7.5,24,88.5,26.6,29.3,6.35,370.9,15.8,11.84,6187.81,17229.67,Low,49.9,Medium
+Uttar Pradesh,Lucknow,Zaid,Clay,Sugarcane,3.4,83,149.4,57.8,85.3,6.63,1400.1,33.7,445.03,320.93,49766.95,High,68.9,Low
+Punjab,Amritsar,Zaid,Clay,Sugarcane,13.2,74,132.6,71.3,77.0,6.46,1401.2,34.4,419.88,297.68,51409.97,High,89.6,Low
+Madhya Pradesh,Ujjain,Rabi,Alluvial,Wheat,6.1,50,112.3,54.9,44.8,6.06,617.9,18.3,24.01,2157.39,16139.06,Medium,88.9,Low
+Haryana,Karnal,Rabi,Sandy,Mustard,10.4,23,81.4,36.1,27.6,7.35,513.5,20.1,12.09,5261.06,16822.02,Low,66.5,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Rice,3.4,96,143.9,49.3,54.1,6.18,1719.2,30.5,27.57,2165.64,29450.95,High,78.7,Low
+Madhya Pradesh,Ujjain,Zaid,Red,Groundnut,14.5,53,29.1,49.1,51.9,6.46,933.5,33.1,15.57,5701.12,25501.14,Medium,46.5,Low
+Haryana,Panipat,Zaid,Clay,Mustard,15.7,9,77.4,40.5,25.7,6.46,503.7,15.3,10.26,5900.9,15593.42,Low,30.7,Medium
+Maharashtra,Nagpur,Rabi,Loamy,Bajra,18.3,5,41.9,41.2,30.5,6.4,320.6,34.2,12.94,2023.56,11585.2,Low,61.3,Medium
+Uttar Pradesh,Varanasi,Rabi,Clay,Sugarcane,3.3,83,152.2,83.2,69.1,6.37,1337.8,25.5,412.81,325.84,50442.57,High,75.2,Low
+Madhya Pradesh,Indore,Kharif,Black,Sugarcane,13.1,100,111.2,57.1,97.1,7.41,1535.6,27.6,488.12,303.64,53619.05,High,87.6,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,18.4,54,38.3,63.4,49.8,7.6,895.3,23.2,14.24,5854.1,27934.6,Medium,51.0,Low
+Haryana,Panipat,Rabi,Loamy,Wheat,7.3,45,114.3,43.9,34.7,6.72,591.9,14.4,23.51,2136.33,18864.72,Medium,87.1,Low
+Haryana,Karnal,Rabi,Red,Cotton,9.5,43,110.4,41.1,41.8,7.16,953.2,36.5,9.53,6626.09,33465.72,Medium,66.2,Low
+Haryana,Hisar,Rabi,Black,Gram,8.9,37,21.2,54.4,24.5,7.81,210.8,12.3,11.25,5240.99,16863.51,Low,56.9,Medium
+Haryana,Karnal,Zaid,Red,Groundnut,14.6,7,30.1,44.6,55.1,6.44,450.1,27.7,14.95,5034.32,26202.31,Medium,57.3,Medium
+Punjab,Amritsar,Rabi,Alluvial,Wheat,15.6,48,124.3,65.7,45.1,6.09,620.7,17.0,23.67,2221.29,20367.15,Medium,84.1,Low
+Haryana,Karnal,Rabi,Alluvial,Mustard,11.3,5,64.5,35.0,46.1,6.28,490.5,24.6,11.73,5034.41,15988.92,Low,56.3,Medium
+Punjab,Amritsar,Kharif,Loamy,Maize,3.7,50,121.5,62.6,42.9,5.58,1134.8,25.3,25.51,2042.78,19050.8,Medium,85.1,Low
+Maharashtra,Nagpur,Kharif,Loamy,Groundnut,15.9,33,30.5,47.7,51.3,6.16,817.7,31.6,15.36,5002.07,23220.02,Medium,49.1,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Maize,6.1,27,94.0,37.6,44.2,6.09,934.8,25.5,24.17,1846.52,20873.53,Medium,67.1,Medium
+Haryana,Panipat,Zaid,Sandy,Groundnut,11.5,42,22.9,46.7,55.9,6.43,909.3,30.8,15.96,5407.48,22875.54,Medium,58.7,Low
+Madhya Pradesh,Ujjain,Rabi,Loamy,Gram,5.4,64,31.7,65.2,27.2,6.74,432.8,16.4,11.92,5139.87,18951.62,Low,65.8,Low
+Punjab,Patiala,Kharif,Alluvial,Maize,15.5,30,97.3,60.1,37.8,6.46,745.6,28.9,25.8,1710.94,19648.44,Medium,76.5,Low
+Maharashtra,Nashik,Kharif,Alluvial,Maize,4.6,54,103.6,44.3,32.1,7.4,650.4,24.6,26.95,1725.66,21316.21,Medium,64.5,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,17.1,81,153.4,88.1,62.3,7.21,1193.0,33.5,463.91,317.52,42690.32,High,68.8,Low
+Haryana,Panipat,Zaid,Black,Rice,6.7,82,108.3,49.6,44.7,7.01,1805.9,27.7,26.41,1857.34,26910.92,High,85.3,Low
+Madhya Pradesh,Bhopal,Kharif,Red,Bajra,10.3,5,67.9,32.5,30.6,7.67,314.1,29.9,14.66,1946.93,10025.98,Low,52.3,Medium
+Uttar Pradesh,Lucknow,Kharif,Black,Bajra,11.6,38,58.1,32.4,34.1,5.93,447.6,27.4,15.21,2147.51,10847.51,Low,54.7,Low
+Uttar Pradesh,Meerut,Rabi,Red,Wheat,2.2,35,117.9,51.5,46.3,6.94,557.7,21.9,22.98,2282.06,18008.42,Medium,86.3,Low
+Madhya Pradesh,Indore,Rabi,Red,Mustard,19.0,5,57.9,61.3,23.9,6.54,280.0,18.5,11.21,5699.67,16408.56,Low,63.8,Medium
+Madhya Pradesh,Indore,Rabi,Clay,Cotton,9.3,39,124.6,41.0,52.2,6.23,888.1,24.3,9.25,6105.24,33283.53,Medium,66.4,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Groundnut,3.1,22,22.5,49.7,46.8,6.62,676.6,24.0,15.48,5662.3,23326.19,Medium,73.1,Low
+Uttar Pradesh,Meerut,Zaid,Loamy,Sugarcane,7.6,96,137.2,87.7,73.6,6.27,1453.1,26.4,486.56,293.16,52152.79,High,79.7,Low
+Punjab,Patiala,Zaid,Black,Sugarcane,11.5,100,125.3,76.4,88.0,7.0,1681.1,27.3,486.36,302.75,51940.12,High,68.2,Low
+Madhya Pradesh,Indore,Kharif,Sandy,Groundnut,9.7,37,46.4,47.1,47.8,6.58,815.4,29.5,16.24,4898.62,22707.17,Medium,58.3,Low
+Haryana,Panipat,Rabi,Loamy,Mustard,8.3,38,57.5,37.1,34.5,6.09,384.8,15.6,12.13,6123.61,15527.19,Low,57.3,Low
+Maharashtra,Pune,Rabi,Clay,Groundnut,14.5,31,33.0,56.2,45.8,6.36,784.9,25.9,13.3,5290.6,27945.36,Medium,47.0,Medium
+Maharashtra,Nagpur,Rabi,Black,Wheat,6.7,43,122.9,67.8,47.4,6.34,661.0,19.0,23.51,1995.38,17241.66,Medium,76.4,Low
+Punjab,Patiala,Zaid,Red,Groundnut,7.1,36,19.0,64.7,41.2,7.11,821.5,34.6,15.85,5360.65,26970.89,Medium,60.9,Low
+Maharashtra,Nashik,Zaid,Sandy,Groundnut,8.1,17,25.3,39.8,51.5,5.88,603.7,29.6,16.23,5746.01,27100.64,Medium,71.8,Medium
+Madhya Pradesh,Bhopal,Rabi,Black,Bajra,6.1,31,50.9,26.8,34.1,7.0,519.9,27.6,14.01,1987.31,11011.59,Low,53.4,Medium
+Uttar Pradesh,Lucknow,Kharif,Red,Groundnut,2.6,32,31.7,51.2,54.7,5.77,554.9,30.1,14.57,4929.72,22723.56,Medium,58.9,Low
+Maharashtra,Nagpur,Rabi,Black,Gram,2.7,32,23.8,39.2,43.6,6.91,470.1,20.7,12.3,5093.85,18599.47,Low,51.6,Low
+Haryana,Karnal,Kharif,Alluvial,Sugarcane,14.9,79,121.3,61.2,85.9,7.49,1316.8,33.1,482.67,306.56,45876.27,High,64.2,Low
+Punjab,Ludhiana,Rabi,Loamy,Gram,13.1,58,27.5,45.2,41.3,6.45,450.7,28.2,11.75,4674.28,18612.9,Low,65.6,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Groundnut,9.0,35,21.7,38.3,51.6,7.3,528.4,33.2,13.53,5276.97,27720.57,Medium,50.7,Medium
+Haryana,Karnal,Kharif,Black,Rice,9.6,74,125.3,60.6,59.4,6.09,1754.7,31.2,28.09,2139.91,29091.32,High,82.3,Low
+Maharashtra,Pune,Kharif,Sandy,Groundnut,10.4,36,45.1,46.7,44.7,6.04,557.3,31.6,15.7,5589.39,23073.77,Medium,60.2,Low
+Punjab,Patiala,Zaid,Clay,Groundnut,5.3,40,44.2,54.2,52.4,6.11,617.9,30.5,13.81,5664.23,22518.31,Medium,52.6,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,8.0,43,53.3,54.5,51.7,6.77,402.1,29.5,15.72,5687.68,26428.5,Medium,60.4,Low
+Uttar Pradesh,Lucknow,Zaid,Black,Groundnut,10.3,87,44.2,51.2,45.3,6.14,698.1,27.3,14.54,5109.25,24609.9,Medium,65.7,Low
+Uttar Pradesh,Meerut,Zaid,Loamy,Soybean,7.0,47,43.0,64.9,43.4,6.85,642.3,21.3,12.14,3750.96,22116.33,Medium,69.9,Low
+Madhya Pradesh,Indore,Rabi,Black,Wheat,19.4,46,110.5,72.1,58.0,6.71,429.7,21.6,24.1,2248.17,17188.8,Medium,70.1,Low
+Punjab,Patiala,Rabi,Sandy,Rice,1.4,98,109.7,39.5,60.2,5.33,1512.5,34.1,24.99,2071.53,23717.73,High,83.2,Low
+Haryana,Hisar,Rabi,Red,Wheat,1.7,41,104.8,56.6,35.0,6.4,768.3,20.0,20.8,2463.3,18154.67,Medium,71.1,Low
+Madhya Pradesh,Ujjain,Rabi,Red,Sugarcane,4.4,85,136.0,83.8,68.5,7.13,1836.0,31.1,406.95,320.16,54945.88,High,82.6,Low
+Haryana,Panipat,Rabi,Loamy,Wheat,4.3,27,113.0,75.9,50.3,6.67,775.2,20.6,23.5,2106.19,17395.74,Medium,81.9,Low
+Punjab,Amritsar,Kharif,Sandy,Soybean,14.6,67,61.5,37.0,49.2,7.01,1191.4,30.8,11.92,3865.41,18945.02,Medium,66.3,Low
+Maharashtra,Nagpur,Zaid,Loamy,Groundnut,5.2,32,23.5,59.4,64.8,6.2,1144.5,20.7,13.78,5800.98,25393.3,Medium,64.1,Medium
+Punjab,Ludhiana,Rabi,Red,Wheat,13.1,46,134.1,57.9,40.1,7.05,569.6,7.6,21.1,2048.77,21290.62,Medium,83.2,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Mustard,13.4,26,57.8,45.7,43.2,6.25,624.2,18.9,11.03,5739.72,15413.68,Low,75.8,Low
+Haryana,Panipat,Kharif,Loamy,Sugarcane,4.9,96,123.4,64.3,69.9,6.29,1525.0,27.0,465.19,322.93,42995.12,High,70.9,Low
+Punjab,Ludhiana,Zaid,Black,Sugarcane,10.0,100,148.1,76.2,82.6,6.41,1166.1,28.5,505.61,302.91,50447.06,High,77.8,Low
+Madhya Pradesh,Bhopal,Kharif,Sandy,Bajra,16.5,37,36.9,27.3,35.6,7.87,342.5,32.9,15.1,1998.22,10864.39,Low,45.0,Low
+Haryana,Karnal,Kharif,Black,Cotton,19.8,5,115.9,46.1,68.4,5.9,815.1,20.9,10.51,6762.03,29703.06,Medium,62.8,Medium
+Haryana,Panipat,Zaid,Sandy,Groundnut,18.6,47,36.5,53.1,42.7,6.64,866.9,25.7,14.87,5235.08,23988.96,Medium,52.2,Low
+Haryana,Karnal,Rabi,Clay,Sugarcane,18.0,100,134.0,50.7,64.3,7.84,1571.9,32.8,415.85,308.79,43170.86,High,73.9,Low
+Madhya Pradesh,Bhopal,Zaid,Alluvial,Sugarcane,6.9,67,150.6,83.7,64.5,7.79,1102.4,33.0,455.65,314.51,41858.09,High,82.7,Low
+Punjab,Ludhiana,Rabi,Red,Mustard,9.5,46,74.3,38.9,33.3,6.23,603.2,22.0,11.27,5222.31,16257.94,Low,41.1,Low
+Punjab,Amritsar,Zaid,Black,Sugarcane,5.3,87,156.2,68.5,78.8,6.33,1221.5,33.2,476.92,355.82,52590.68,High,67.5,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Groundnut,10.2,33,32.0,38.7,42.8,5.97,522.0,32.5,14.95,5128.04,22152.73,Medium,53.3,Low
+Maharashtra,Pune,Zaid,Loamy,Sugarcane,7.5,90,144.1,57.7,95.0,6.45,1498.0,28.6,478.53,326.48,54203.85,High,55.2,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Sugarcane,17.6,62,142.9,65.1,62.7,6.59,1376.7,28.3,483.37,309.08,53062.74,High,82.6,Low
+Uttar Pradesh,Meerut,Rabi,Sandy,Mustard,15.8,68,71.2,40.4,18.8,6.76,432.0,11.5,11.13,5779.7,14916.58,Low,49.5,Low
+Punjab,Patiala,Zaid,Black,Sugarcane,17.9,90,110.9,49.8,91.5,6.75,1371.2,29.4,491.04,307.98,47861.76,High,56.9,Low
+Haryana,Hisar,Rabi,Loamy,Wheat,19.0,59,122.8,66.6,32.0,5.86,533.7,21.8,23.53,2119.33,19971.82,Medium,89.9,Low
+Punjab,Ludhiana,Kharif,Clay,Rice,3.3,84,120.7,58.9,42.3,5.95,1332.2,30.0,29.86,1996.64,25981.91,High,71.3,Low
+Madhya Pradesh,Indore,Zaid,Red,Groundnut,1.7,23,34.8,57.8,34.9,6.26,855.1,29.3,15.31,5114.59,27932.0,Medium,56.4,Medium
+Uttar Pradesh,Meerut,Kharif,Loamy,Cotton,17.6,53,101.0,45.8,63.2,6.3,852.6,35.0,10.64,6515.54,28084.5,Medium,76.1,Low
+Maharashtra,Pune,Zaid,Loamy,Groundnut,13.3,49,45.3,46.2,61.6,6.85,879.1,26.3,15.38,5876.9,27840.67,Medium,61.5,Low
+Haryana,Hisar,Kharif,Loamy,Bajra,1.9,24,68.1,34.3,24.8,7.84,393.3,34.4,14.96,1968.59,13381.48,Low,43.5,Medium
+Madhya Pradesh,Ujjain,Kharif,Alluvial,Maize,10.6,73,94.0,55.1,34.4,6.72,768.6,24.4,24.86,1743.74,19896.37,Medium,78.6,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,1.7,58,127.1,52.4,43.3,6.22,1845.2,32.8,28.47,2205.53,27733.26,High,76.3,Low
+Punjab,Patiala,Kharif,Black,Soybean,11.4,62,54.6,61.4,46.2,6.07,831.1,25.3,13.18,4140.35,18279.0,Medium,59.4,Low
+Madhya Pradesh,Indore,Rabi,Loamy,Mustard,3.6,11,61.5,51.7,25.3,7.56,650.0,9.9,12.08,5908.58,14923.31,Low,74.7,Medium
+Haryana,Hisar,Rabi,Loamy,Bajra,16.3,20,30.8,24.0,32.7,7.53,477.3,33.5,12.94,1994.16,14875.9,Low,38.4,Medium
+Haryana,Panipat,Zaid,Sandy,Groundnut,15.5,21,34.8,49.3,41.3,6.83,559.2,28.1,15.37,5417.37,27901.19,Medium,58.2,Medium
+Punjab,Patiala,Kharif,Red,Maize,7.8,47,89.2,46.2,31.5,6.28,957.6,18.6,24.96,2132.83,23795.0,Medium,80.6,Low
+Punjab,Ludhiana,Rabi,Clay,Cotton,12.8,50,97.3,46.2,45.7,6.68,998.4,26.5,9.77,5591.9,29624.62,Medium,63.9,Low
+Madhya Pradesh,Bhopal,Kharif,Black,Soybean,1.1,61,46.1,67.3,43.0,6.85,805.8,18.4,12.74,4479.1,22717.55,Medium,54.6,Low
+Haryana,Hisar,Zaid,Sandy,Groundnut,5.2,43,34.2,44.5,53.8,6.86,833.2,30.3,15.15,5879.08,26095.31,Medium,52.3,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,18.3,70,26.3,55.3,43.5,6.4,1073.4,33.2,15.08,5825.47,27189.71,Medium,60.1,Low
+Maharashtra,Nashik,Zaid,Black,Groundnut,13.3,63,18.2,48.1,42.9,6.43,576.5,24.2,14.66,5170.55,26039.79,Medium,48.8,Low
+Madhya Pradesh,Indore,Zaid,Clay,Maize,14.3,50,86.3,54.7,43.3,6.68,749.3,24.9,23.25,2108.34,23760.81,Medium,81.0,Low
+Haryana,Hisar,Zaid,Clay,Soybean,19.2,80,35.4,36.8,38.7,6.25,1163.0,25.8,10.54,3776.48,21701.31,Medium,63.9,Low
+Madhya Pradesh,Indore,Rabi,Sandy,Mustard,6.5,37,72.5,44.4,31.7,6.47,573.5,15.7,11.66,5704.49,14822.47,Low,52.4,Low
+Uttar Pradesh,Meerut,Kharif,Black,Sugarcane,14.5,82,129.4,67.6,82.8,7.02,1555.0,24.2,505.75,323.35,51003.17,High,59.0,Low
+Punjab,Patiala,Kharif,Clay,Mustard,8.7,12,86.1,37.4,31.5,6.64,396.2,11.1,9.69,5518.62,16313.39,Low,59.1,Medium
+Madhya Pradesh,Ujjain,Zaid,Black,Sugarcane,4.4,100,155.0,67.4,69.2,7.0,1159.5,27.9,466.94,306.78,40696.56,High,75.0,Low
+Madhya Pradesh,Ujjain,Zaid,Red,Groundnut,8.2,38,13.0,36.0,48.5,6.37,828.8,34.9,16.32,5293.02,25087.25,Medium,60.7,Low
+Uttar Pradesh,Lucknow,Kharif,Black,Cotton,13.6,33,88.2,36.9,50.3,6.83,938.0,18.7,10.44,5529.43,33302.02,Medium,61.9,Low
+Madhya Pradesh,Ujjain,Zaid,Alluvial,Sugarcane,19.0,88,121.6,60.9,66.4,6.96,1568.8,24.2,464.92,302.18,45673.17,High,51.4,Low
+Haryana,Karnal,Kharif,Alluvial,Sugarcane,14.0,99,117.4,68.7,75.2,7.5,1796.3,34.6,476.08,318.52,46310.26,High,76.7,Low
+Maharashtra,Nashik,Rabi,Loamy,Mustard,18.2,13,77.6,32.7,37.1,6.83,489.9,21.4,12.29,5545.63,14027.09,Low,57.4,Medium
+Uttar Pradesh,Meerut,Kharif,Red,Groundnut,6.0,21,29.9,57.1,53.1,6.72,834.2,29.8,14.89,5202.75,27182.98,Medium,64.2,Medium
+Haryana,Karnal,Zaid,Black,Sugarcane,16.2,97,143.5,60.2,88.6,6.18,1573.3,28.9,456.74,332.5,49842.63,High,59.9,Low
+Uttar Pradesh,Varanasi,Kharif,Sandy,Wheat,13.2,40,121.7,65.8,43.3,6.79,462.9,14.5,20.5,2465.81,18118.77,Medium,71.6,Low
+Madhya Pradesh,Indore,Zaid,Clay,Rice,18.5,97,120.5,45.3,48.4,6.75,1448.4,24.2,26.32,2018.75,22936.07,High,81.6,Low
+Madhya Pradesh,Bhopal,Zaid,Sandy,Groundnut,19.4,16,29.8,53.9,53.2,6.11,836.8,32.3,14.9,5557.83,25099.03,Medium,75.1,Medium
+Haryana,Hisar,Rabi,Alluvial,Gram,2.4,31,31.2,58.6,32.5,7.22,515.2,27.1,11.98,5059.05,14779.98,Low,63.2,Low
+Punjab,Ludhiana,Zaid,Alluvial,Bajra,12.7,26,31.3,25.4,35.7,8.08,527.1,33.9,13.74,2035.67,13996.35,Low,45.1,Medium
+Madhya Pradesh,Bhopal,Zaid,Loamy,Groundnut,19.6,42,22.1,42.1,40.3,6.48,573.7,27.8,15.2,5339.6,26204.28,Medium,55.0,Low
+Uttar Pradesh,Meerut,Rabi,Loamy,Mustard,3.5,20,60.4,35.9,32.9,6.38,570.4,6.1,11.58,5889.51,16602.8,Low,58.5,Medium
+Madhya Pradesh,Ujjain,Rabi,Alluvial,Wheat,2.1,37,113.3,60.0,32.6,7.69,543.4,22.3,23.92,2263.62,17047.23,Medium,78.8,Low
+Uttar Pradesh,Meerut,Zaid,Red,Groundnut,17.9,30,37.1,47.4,54.6,6.11,468.0,25.7,15.8,5168.32,25867.87,Medium,58.8,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Groundnut,4.2,56,41.2,47.6,54.9,6.19,631.3,23.6,15.37,5758.53,25708.61,Medium,50.3,Low
+Punjab,Patiala,Rabi,Loamy,Mustard,6.4,24,82.1,25.4,18.0,7.08,379.7,19.7,11.81,5393.76,16155.24,Low,50.2,Medium
+Madhya Pradesh,Ujjain,Zaid,Clay,Sugarcane,18.3,75,139.8,61.4,76.9,6.82,1673.9,31.1,433.14,318.81,51488.04,High,59.4,Low
+Uttar Pradesh,Varanasi,Kharif,Black,Sugarcane,8.8,76,123.6,68.4,73.6,6.67,1872.7,32.2,456.51,334.6,46193.56,High,71.1,Low
+Uttar Pradesh,Lucknow,Rabi,Clay,Mustard,9.6,22,74.0,33.3,52.7,6.53,334.3,11.4,11.37,5694.38,15491.98,Low,57.5,Medium
+Uttar Pradesh,Meerut,Kharif,Clay,Rice,2.1,85,115.8,48.9,48.8,5.71,1711.1,27.3,29.74,2085.44,26169.11,High,91.0,Low
+Uttar Pradesh,Meerut,Zaid,Black,Sugarcane,5.8,88,150.8,85.8,74.1,6.76,1210.6,33.7,483.84,326.2,48943.18,High,68.1,Low
+Uttar Pradesh,Lucknow,Kharif,Black,Soybean,18.7,71,31.6,56.7,24.1,6.87,1037.8,28.5,13.04,4221.74,18808.39,Medium,71.4,Low
+Maharashtra,Nagpur,Zaid,Red,Groundnut,11.8,29,26.9,62.4,53.9,6.39,766.9,25.8,15.54,5953.22,25718.41,Medium,50.6,Medium
+Uttar Pradesh,Varanasi,Rabi,Black,Gram,4.6,19,10.6,41.9,24.3,7.67,413.7,11.5,11.9,4893.86,15942.99,Low,46.8,Medium
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Mustard,2.3,31,90.3,53.4,22.2,6.74,562.1,21.6,12.13,5007.73,14519.52,Low,51.4,Low
+Haryana,Panipat,Kharif,Alluvial,Sugarcane,8.3,97,153.8,72.5,87.6,6.75,1536.3,31.5,493.9,313.14,49862.98,High,57.4,Low
+Uttar Pradesh,Meerut,Rabi,Sandy,Groundnut,15.5,35,27.0,44.5,45.4,5.57,904.7,31.2,14.5,5789.85,23811.05,Medium,58.8,Low
+Uttar Pradesh,Lucknow,Rabi,Black,Gram,18.5,10,30.7,39.1,26.0,7.33,466.7,17.9,11.65,4776.53,16412.67,Low,40.9,Medium
+Madhya Pradesh,Indore,Zaid,Sandy,Groundnut,2.5,42,22.1,51.8,55.1,5.78,816.7,30.8,14.91,5061.31,22897.48,Medium,64.6,Low
+Madhya Pradesh,Ujjain,Kharif,Black,Bajra,19.4,25,32.2,29.3,24.0,7.2,278.0,26.1,15.81,2200.61,10990.54,Low,46.8,Medium
+Madhya Pradesh,Ujjain,Zaid,Clay,Cotton,5.6,56,79.6,44.8,29.3,6.53,695.5,20.5,8.78,6786.78,28964.17,Medium,82.0,Low
+Haryana,Karnal,Rabi,Clay,Wheat,15.4,54,98.5,78.0,41.9,5.97,543.6,11.0,23.18,2086.36,17551.95,Medium,67.1,Low
+Haryana,Panipat,Zaid,Clay,Maize,8.2,57,110.2,40.6,32.7,6.23,1180.0,29.5,23.06,1717.55,23300.41,Medium,71.1,Low
+Maharashtra,Nashik,Zaid,Loamy,Rice,18.2,64,104.6,50.3,52.9,5.79,1457.9,33.9,25.48,1938.6,29967.96,High,88.4,Low
+Punjab,Patiala,Rabi,Red,Maize,18.9,53,119.1,52.4,32.0,6.39,1004.1,25.4,23.87,1992.5,18790.63,Medium,78.1,Low
+Haryana,Panipat,Zaid,Sandy,Wheat,6.9,44,94.7,72.7,48.2,7.22,872.5,10.0,21.66,2351.64,21280.79,Medium,72.9,Medium
+Maharashtra,Nagpur,Zaid,Clay,Sugarcane,3.9,97,128.8,80.4,79.3,6.64,1293.8,32.7,464.76,312.73,42759.65,High,79.6,Low
+Maharashtra,Pune,Kharif,Loamy,Cotton,1.6,45,89.4,37.5,37.8,6.92,930.5,26.9,11.15,5814.33,25376.44,Medium,69.3,Low
+Uttar Pradesh,Meerut,Zaid,Sandy,Groundnut,10.9,25,30.1,58.6,43.9,6.86,740.7,26.2,15.02,5805.1,24534.77,Medium,64.1,Low
+Madhya Pradesh,Indore,Zaid,Clay,Wheat,9.8,46,112.3,44.5,35.5,6.56,597.6,25.8,19.34,2000.25,19891.46,Medium,78.9,Low
+Punjab,Ludhiana,Zaid,Alluvial,Sugarcane,2.6,81,145.1,54.9,65.0,6.23,1444.7,22.9,487.89,277.65,50952.43,High,78.8,Low
+Maharashtra,Pune,Kharif,Clay,Rice,19.2,100,100.8,40.9,52.2,6.33,1568.6,27.1,29.49,2191.36,27029.08,High,84.3,Low
+Haryana,Karnal,Zaid,Alluvial,Sugarcane,17.2,80,150.2,74.0,59.2,7.1,1489.1,30.2,483.01,328.32,41396.89,High,75.9,Low
+Uttar Pradesh,Meerut,Rabi,Red,Rice,15.4,88,116.4,45.3,44.8,5.84,1598.2,32.9,25.76,2184.69,28305.48,High,79.7,Low
+Uttar Pradesh,Meerut,Zaid,Sandy,Soybean,18.6,34,35.5,55.1,48.9,6.29,782.0,31.1,11.17,4194.6,18272.95,Medium,58.6,Medium
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,14.1,84,115.0,51.3,44.2,5.4,1746.8,26.6,27.82,2034.35,22284.47,High,85.1,Low
+Maharashtra,Nagpur,Rabi,Red,Groundnut,18.6,46,10.9,52.7,57.6,6.38,966.5,24.6,14.7,5393.66,22995.82,Medium,53.9,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,14.4,88,138.4,65.3,103.5,6.28,1686.4,34.4,470.18,281.01,47500.81,High,74.7,Low
+Madhya Pradesh,Bhopal,Kharif,Red,Maize,16.6,86,115.6,52.1,37.8,5.45,1024.8,19.5,24.35,1991.45,19874.88,Medium,75.5,Low
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,6.4,59,124.1,46.8,61.2,6.64,1609.4,28.6,28.62,2018.44,24491.02,High,89.8,Low
+Punjab,Ludhiana,Rabi,Alluvial,Maize,3.0,43,77.7,53.3,45.9,6.26,808.2,25.5,21.97,2070.74,18790.77,Medium,70.5,Low
+Maharashtra,Nashik,Rabi,Loamy,Mustard,15.6,5,67.9,47.7,28.4,7.09,552.7,18.2,11.78,5775.96,14411.29,Low,50.9,Medium
+Madhya Pradesh,Indore,Zaid,Loamy,Groundnut,11.6,55,18.6,57.1,44.9,6.66,565.0,30.9,16.04,5445.91,23038.51,Medium,58.7,Low
+Punjab,Patiala,Zaid,Clay,Bajra,3.2,14,38.9,27.1,36.7,7.07,313.9,32.7,13.44,1971.36,13774.94,Low,59.9,Medium
+Haryana,Hisar,Rabi,Sandy,Mustard,4.7,6,76.2,54.2,31.1,7.36,429.1,24.9,11.55,5364.27,15744.43,Low,59.4,Medium
+Punjab,Ludhiana,Zaid,Clay,Soybean,3.1,49,44.9,52.1,32.5,6.7,731.4,27.7,11.04,4005.51,23236.41,Medium,64.9,Low
+Punjab,Ludhiana,Rabi,Clay,Groundnut,19.5,41,32.1,64.1,54.0,5.97,595.5,29.2,13.5,5006.51,26385.48,Medium,68.3,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Sugarcane,19.6,68,119.3,63.4,86.7,7.99,1411.2,25.5,450.13,315.8,54406.17,High,78.0,Low
+Madhya Pradesh,Bhopal,Kharif,Sandy,Gram,15.8,40,20.4,54.2,37.1,6.3,430.1,20.1,10.12,5007.16,14258.1,Low,56.9,Low
+Uttar Pradesh,Varanasi,Kharif,Sandy,Groundnut,3.4,63,31.5,51.7,58.6,7.02,759.4,28.9,16.03,5069.06,25164.33,Medium,82.5,Low
+Haryana,Panipat,Rabi,Black,Gram,15.6,38,14.2,46.8,30.7,7.49,380.5,16.6,11.89,5163.2,17528.04,Low,44.6,Low
+Maharashtra,Pune,Zaid,Black,Maize,6.5,59,85.1,52.8,40.0,6.53,834.9,23.5,24.28,1843.06,20766.65,Medium,72.3,Low
+Madhya Pradesh,Indore,Rabi,Sandy,Mustard,7.0,20,63.3,38.3,28.7,6.83,496.8,11.4,11.18,5426.86,13608.95,Low,47.5,Medium
+Punjab,Ludhiana,Kharif,Sandy,Groundnut,18.0,36,23.6,51.4,36.9,6.85,583.5,28.6,15.94,5292.72,22360.35,Medium,66.0,Low
+Maharashtra,Nashik,Kharif,Loamy,Cotton,13.3,41,76.1,40.9,29.6,6.15,615.7,17.8,9.99,5247.05,28514.35,Medium,70.2,Low
+Haryana,Panipat,Rabi,Red,Mustard,1.1,23,61.1,36.8,12.3,6.0,654.2,5.8,10.49,5358.96,13275.97,Low,68.5,Medium
+Uttar Pradesh,Varanasi,Kharif,Red,Sugarcane,13.3,89,134.7,56.9,93.5,6.28,1071.8,23.1,450.01,315.24,40944.89,High,80.0,Low
+Madhya Pradesh,Ujjain,Rabi,Red,Gram,19.3,44,1.0,42.6,34.9,6.11,548.9,20.7,10.87,4772.99,17677.3,Low,56.4,Low
+Madhya Pradesh,Indore,Zaid,Black,Sugarcane,4.3,90,117.0,72.0,59.1,5.86,1465.2,31.5,449.38,344.98,44863.52,High,74.5,Low
+Madhya Pradesh,Ujjain,Rabi,Black,Cotton,15.5,33,80.8,26.2,50.5,6.95,639.6,30.2,9.53,5516.25,25057.15,Medium,71.5,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Bajra,14.2,30,40.0,23.6,37.7,6.72,556.9,32.0,13.37,1917.98,12651.0,Low,55.6,Medium
+Punjab,Patiala,Zaid,Red,Groundnut,15.6,33,18.5,50.7,37.4,6.13,801.6,24.9,15.68,5955.16,22259.9,Medium,58.9,Low
+Haryana,Karnal,Rabi,Alluvial,Wheat,18.0,15,115.7,51.5,39.6,6.95,426.8,11.2,23.35,2279.43,16869.65,Medium,88.9,Low
+Madhya Pradesh,Bhopal,Rabi,Black,Gram,14.7,5,8.0,41.9,21.1,7.1,432.9,21.4,11.28,5369.63,14849.68,Low,73.4,Medium
+Punjab,Amritsar,Rabi,Sandy,Cotton,12.2,39,111.1,52.7,34.3,8.13,957.8,23.2,9.3,6372.68,25302.58,Medium,69.7,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Bajra,10.4,46,67.5,29.1,29.4,8.44,360.4,27.2,12.42,2282.27,10693.12,Low,53.5,Low
+Uttar Pradesh,Varanasi,Zaid,Loamy,Sugarcane,8.3,80,141.0,71.8,82.9,6.06,1526.7,33.0,440.28,288.3,45744.32,High,66.4,Low
+Maharashtra,Nagpur,Rabi,Alluvial,Mustard,11.6,51,71.3,49.8,32.0,6.74,275.8,21.5,12.04,5511.46,14385.73,Low,63.8,Low
+Maharashtra,Nagpur,Kharif,Sandy,Bajra,9.6,30,45.3,32.8,41.6,7.21,504.4,30.3,15.66,1890.71,11021.28,Low,58.4,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,10.0,68,127.2,64.6,94.6,6.58,1649.3,29.7,471.7,313.32,46870.11,High,52.4,Low
+Uttar Pradesh,Lucknow,Kharif,Red,Groundnut,15.6,26,15.6,47.7,57.5,6.73,878.0,22.6,15.17,5118.04,23562.44,Medium,62.3,Low
+Haryana,Karnal,Zaid,Sandy,Groundnut,19.6,49,46.5,51.5,59.4,7.42,518.9,30.5,14.65,5531.79,27375.86,Medium,73.2,Low
+Madhya Pradesh,Ujjain,Zaid,Black,Sugarcane,7.4,85,122.2,70.5,71.5,6.4,1299.6,28.6,450.25,316.11,41253.84,High,65.7,Low
+Maharashtra,Nagpur,Kharif,Clay,Groundnut,4.7,31,48.8,56.4,59.2,6.2,722.6,33.4,14.18,5695.9,27955.58,Medium,62.2,Low
+Maharashtra,Nagpur,Kharif,Loamy,Mustard,2.6,18,50.4,51.3,29.5,6.01,514.4,17.3,10.88,5142.83,14908.85,Low,44.0,Medium
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Sugarcane,10.4,89,146.0,52.4,92.3,6.06,1168.6,33.7,443.93,325.66,54559.38,High,61.8,Low
+Maharashtra,Nagpur,Rabi,Loamy,Gram,19.5,21,27.3,46.2,22.7,6.61,526.2,16.3,11.24,4738.16,17194.73,Low,42.9,Medium
+Punjab,Patiala,Zaid,Black,Sugarcane,12.4,96,138.8,76.6,84.1,6.27,1184.6,24.8,504.45,317.55,42445.44,High,69.9,Low
+Haryana,Panipat,Zaid,Sandy,Gram,17.1,47,30.0,39.7,40.3,6.13,406.0,16.1,10.65,5393.31,15523.42,Low,57.2,Low
+Punjab,Ludhiana,Zaid,Black,Sugarcane,6.8,100,158.8,73.6,80.0,6.67,1581.3,26.2,482.0,276.99,40154.09,High,71.4,Low
+Madhya Pradesh,Indore,Kharif,Sandy,Bajra,1.6,29,44.2,27.6,32.4,7.01,586.1,34.2,14.72,2210.68,13770.09,Low,52.7,Low
+Punjab,Patiala,Kharif,Alluvial,Bajra,8.0,11,64.1,20.6,28.1,7.5,487.6,28.3,14.99,2194.36,10203.04,Low,53.1,Medium
+Uttar Pradesh,Meerut,Zaid,Sandy,Groundnut,5.3,46,36.6,56.6,61.7,5.7,451.6,24.9,14.14,5065.37,26170.22,Medium,58.3,Low
+Punjab,Patiala,Kharif,Black,Sugarcane,7.4,52,111.2,74.5,84.5,6.8,1690.4,25.7,465.65,303.8,44183.36,High,68.4,Low
+Uttar Pradesh,Meerut,Kharif,Loamy,Cotton,1.6,37,114.1,25.4,31.9,6.44,919.1,25.3,10.32,5939.1,29543.15,Medium,70.4,Low
+Madhya Pradesh,Bhopal,Zaid,Sandy,Groundnut,19.8,45,26.2,55.8,44.0,6.77,418.6,27.1,15.76,5803.7,24943.32,Medium,50.6,Low
+Maharashtra,Pune,Kharif,Sandy,Bajra,6.0,18,49.1,40.5,31.9,6.84,448.6,30.2,15.13,2173.15,12059.65,Low,49.5,Medium
+Punjab,Patiala,Kharif,Black,Soybean,12.3,54,37.6,54.5,39.8,6.71,688.6,23.4,12.47,4019.83,21435.23,Medium,65.3,Low
+Haryana,Hisar,Zaid,Loamy,Soybean,4.2,43,44.3,58.4,58.2,6.59,728.5,32.2,11.41,4336.04,21551.19,Medium,49.8,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Groundnut,7.6,64,37.0,43.8,44.6,5.81,762.3,30.3,14.49,5186.13,25964.84,Medium,68.5,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Groundnut,18.8,8,39.5,50.5,44.6,6.33,817.5,26.3,15.35,5107.59,26121.13,Medium,54.8,Medium
+Haryana,Hisar,Kharif,Black,Cotton,5.7,52,94.5,37.9,33.7,6.24,1073.5,26.6,9.98,5929.73,32736.26,Medium,79.4,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,8.5,50,40.0,48.4,55.4,6.89,795.0,24.4,14.72,5489.99,26423.42,Medium,51.9,Low
+Haryana,Hisar,Kharif,Black,Sugarcane,19.4,79,145.9,56.1,81.3,6.32,1528.0,32.2,494.2,313.51,54502.08,High,55.9,Low
+Punjab,Patiala,Kharif,Clay,Rice,6.9,67,128.8,49.4,60.4,6.63,1453.8,22.9,29.8,1979.54,29327.13,High,76.7,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Maize,16.6,70,93.2,54.7,36.4,6.84,685.8,28.9,24.69,1835.57,18312.59,Medium,67.9,Low
+Haryana,Karnal,Kharif,Loamy,Sugarcane,11.9,73,124.5,80.9,90.6,6.91,1602.4,26.7,482.08,293.12,41265.98,High,77.5,Low
+Uttar Pradesh,Lucknow,Rabi,Loamy,Mustard,5.3,62,73.6,53.8,16.5,7.2,520.8,15.5,11.83,5729.82,16592.92,Low,40.5,Low
+Maharashtra,Nagpur,Kharif,Loamy,Cotton,4.6,58,115.8,35.8,38.1,7.67,704.7,24.9,10.84,5962.04,33165.95,Medium,75.3,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Bajra,2.6,5,72.4,29.1,33.2,7.74,360.9,32.5,13.26,2179.14,14011.24,Low,51.3,Medium
+Punjab,Amritsar,Zaid,Sandy,Groundnut,13.8,13,24.5,42.7,38.9,6.48,523.8,24.3,14.63,5759.53,23686.0,Medium,80.4,Medium
+Uttar Pradesh,Meerut,Rabi,Red,Mustard,16.8,46,68.8,32.8,33.2,7.21,401.0,14.0,11.08,5388.59,15335.66,Low,69.7,Low
+Maharashtra,Nashik,Rabi,Loamy,Gram,10.2,51,39.0,34.2,24.0,6.11,454.0,23.5,10.83,5257.77,16082.09,Low,47.3,Low
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,1.5,30,16.9,60.9,40.2,6.29,624.4,32.4,15.41,6063.0,27705.38,Medium,54.1,Low
+Madhya Pradesh,Indore,Kharif,Black,Sugarcane,7.1,100,140.0,66.7,81.6,8.0,1191.0,31.6,454.02,307.13,47362.68,High,81.0,Low
+Maharashtra,Nagpur,Zaid,Red,Groundnut,13.6,48,21.4,51.3,49.4,6.91,614.7,29.6,15.6,5312.86,26117.42,Medium,65.3,Low
+Madhya Pradesh,Indore,Rabi,Red,Groundnut,2.5,54,28.9,67.4,46.1,6.89,858.8,27.4,13.83,5899.26,24132.75,Medium,64.6,Low
+Madhya Pradesh,Indore,Kharif,Sandy,Bajra,4.4,31,49.8,35.6,35.5,7.34,546.0,34.2,15.82,2221.69,14358.08,Low,62.8,Low
+Punjab,Amritsar,Kharif,Alluvial,Rice,9.7,96,109.0,47.6,48.7,6.15,1897.6,19.8,29.57,2251.27,23505.77,High,85.9,Low
+Punjab,Ludhiana,Zaid,Loamy,Sugarcane,9.3,71,117.6,53.5,62.2,6.52,1876.6,30.9,449.63,294.11,52507.58,High,69.0,Low
+Maharashtra,Pune,Zaid,Loamy,Groundnut,1.7,40,15.2,58.0,60.5,5.9,419.4,25.2,14.55,5179.72,25877.08,Medium,46.5,Medium
+Maharashtra,Nagpur,Kharif,Loamy,Cotton,9.9,28,107.1,52.3,46.8,7.29,709.3,29.5,10.43,6023.67,33738.47,Medium,72.9,Low
+Punjab,Patiala,Kharif,Loamy,Cotton,12.5,53,62.0,44.1,37.2,7.78,860.1,36.7,10.71,6218.18,26086.19,Medium,70.6,Low
+Haryana,Hisar,Rabi,Red,Soybean,15.6,52,46.8,70.4,27.2,6.58,1130.1,32.5,11.2,4378.24,18611.21,Medium,55.2,Low
+Haryana,Panipat,Kharif,Alluvial,Wheat,14.8,43,122.0,61.6,27.0,6.6,615.3,9.4,22.57,2045.18,17596.09,Medium,72.2,Low
+Maharashtra,Pune,Zaid,Clay,Cotton,3.9,45,80.8,41.6,46.4,7.78,542.0,26.7,9.25,6628.32,27833.24,Medium,74.8,Low
+Punjab,Amritsar,Zaid,Alluvial,Wheat,18.1,48,93.2,57.4,39.0,7.31,577.3,25.8,22.67,2304.08,20201.77,Medium,80.3,Low
+Maharashtra,Nagpur,Zaid,Black,Sugarcane,14.3,100,127.1,55.5,74.7,7.08,1752.9,29.2,486.4,319.28,42400.41,High,82.1,Low
+Madhya Pradesh,Bhopal,Rabi,Black,Wheat,14.9,54,124.7,58.4,50.2,6.74,370.9,21.7,22.63,2414.33,21066.97,Medium,73.8,Low
+Haryana,Hisar,Rabi,Red,Mustard,13.8,25,58.0,28.5,22.6,6.01,182.8,12.7,10.44,5484.3,15631.28,Low,48.8,Medium
+Maharashtra,Pune,Rabi,Sandy,Mustard,14.1,20,87.5,28.1,24.6,7.48,358.5,16.3,12.11,5885.36,13593.83,Low,58.0,Medium
+Maharashtra,Nashik,Rabi,Alluvial,Wheat,10.9,59,115.8,58.6,46.2,6.87,487.0,12.6,23.74,2123.06,16268.09,Medium,73.2,Low
+Maharashtra,Pune,Rabi,Loamy,Mustard,3.5,31,55.3,36.9,22.7,6.81,387.8,17.9,12.56,5430.82,13442.65,Low,60.4,Low
+Haryana,Panipat,Zaid,Alluvial,Sugarcane,11.7,100,134.9,67.1,82.0,5.65,1210.0,34.5,467.15,318.87,50584.27,High,74.6,Low
+Madhya Pradesh,Ujjain,Rabi,Red,Mustard,1.9,19,94.3,39.1,35.6,6.38,356.7,14.8,11.34,5343.02,16072.38,Low,60.7,Medium
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Sugarcane,2.9,100,143.5,79.6,68.6,6.93,1548.1,34.2,489.14,299.58,40433.6,High,56.2,Low
+Punjab,Amritsar,Zaid,Sandy,Groundnut,15.5,15,40.3,53.5,48.2,6.14,799.7,33.9,15.71,5199.42,27766.69,Medium,57.6,Medium
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,6.2,84,152.0,59.1,54.9,5.63,1083.2,31.9,28.56,2386.39,23686.8,High,67.6,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,13.6,39,31.4,58.8,65.8,7.11,551.4,29.1,15.22,5166.91,27260.32,Medium,51.2,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,7.7,100,120.5,56.2,52.7,6.99,1221.2,23.3,507.84,289.11,49201.64,High,63.8,Low
+Haryana,Hisar,Kharif,Red,Cotton,1.1,67,116.9,33.7,46.6,7.65,896.4,28.5,10.56,7145.64,32929.03,Medium,65.8,Low
+Uttar Pradesh,Lucknow,Kharif,Clay,Gram,12.7,16,5.0,45.2,30.7,6.66,274.8,15.9,10.13,4941.73,14234.82,Low,66.6,Medium
+Uttar Pradesh,Lucknow,Kharif,Loamy,Groundnut,16.3,30,41.7,66.7,59.8,6.32,896.4,24.6,15.8,5692.83,24841.46,Medium,42.1,Medium
+Uttar Pradesh,Lucknow,Zaid,Red,Groundnut,15.7,21,23.2,53.1,41.6,6.38,539.8,30.7,15.47,5381.89,26065.39,Medium,53.8,Medium
+Maharashtra,Pune,Zaid,Alluvial,Sugarcane,17.4,85,145.2,60.1,75.4,6.88,1668.3,30.9,479.72,325.8,52611.69,High,68.8,Low
+Madhya Pradesh,Indore,Zaid,Clay,Sugarcane,7.8,69,128.7,56.6,84.1,6.61,1447.2,31.3,451.72,309.59,54554.07,High,56.4,Low
+Haryana,Karnal,Zaid,Black,Gram,17.3,27,30.2,61.3,31.7,7.42,585.6,18.2,11.68,4961.54,16271.51,Low,55.5,Medium
+Punjab,Amritsar,Kharif,Black,Sugarcane,9.9,93,159.6,76.1,71.5,7.28,1351.0,31.5,492.05,331.0,45398.64,High,73.3,Low
+Uttar Pradesh,Lucknow,Rabi,Black,Gram,17.1,28,26.6,48.2,23.4,6.84,580.8,18.5,11.72,4950.38,17995.11,Low,63.6,Low
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,16.1,90,122.3,55.7,40.4,6.56,1881.5,29.3,30.45,2315.04,29747.07,High,86.1,Low
+Punjab,Amritsar,Zaid,Clay,Rice,4.2,78,125.4,41.9,53.8,6.72,1570.5,28.4,26.62,2062.65,29159.08,High,71.2,Low
+Maharashtra,Nashik,Kharif,Loamy,Soybean,11.9,63,43.5,48.7,39.8,6.47,879.8,22.6,13.46,3974.6,19077.39,Medium,65.2,Low
+Uttar Pradesh,Lucknow,Zaid,Red,Groundnut,15.9,61,41.0,41.9,45.5,6.56,881.8,28.9,17.15,5890.34,27474.3,Medium,59.6,Low
+Punjab,Amritsar,Rabi,Red,Groundnut,19.0,51,8.1,65.4,56.5,6.19,562.7,27.2,14.18,5721.75,22515.26,Medium,64.8,Low
+Maharashtra,Nashik,Rabi,Loamy,Maize,8.1,41,116.4,48.8,48.5,6.15,828.8,28.9,24.16,2181.02,18922.15,Medium,76.5,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Mustard,11.9,18,93.4,27.0,30.3,7.28,307.7,21.8,10.9,5413.81,13994.99,Low,63.7,Medium
+Haryana,Karnal,Zaid,Red,Groundnut,2.1,32,37.8,57.0,47.9,6.72,688.4,24.1,15.63,5695.27,25622.26,Medium,68.2,Low
+Uttar Pradesh,Varanasi,Zaid,Black,Sugarcane,6.2,98,122.8,64.1,90.7,6.94,1642.0,28.8,464.35,328.83,44461.73,High,56.9,Low
+Haryana,Hisar,Kharif,Black,Groundnut,9.7,22,42.4,53.8,59.6,6.88,767.7,34.6,13.94,5763.98,25316.94,Medium,54.5,Medium
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Sugarcane,8.8,95,126.5,46.0,72.7,6.36,1157.5,26.5,469.38,319.07,46920.35,High,78.2,Low
+Maharashtra,Nashik,Rabi,Loamy,Wheat,16.9,60,120.0,67.1,33.0,6.37,631.7,25.3,22.71,2046.32,19137.25,Medium,78.3,Low
+Punjab,Amritsar,Rabi,Clay,Bajra,2.0,50,63.4,36.0,24.4,7.4,352.8,32.5,14.15,2292.09,10839.41,Low,59.1,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,18.8,53,22.7,43.7,53.7,6.05,628.3,29.4,15.29,5833.14,26605.27,Medium,58.3,Low
+Maharashtra,Nashik,Zaid,Clay,Mustard,4.3,49,86.7,38.1,21.8,6.09,286.5,21.0,10.14,5735.19,14911.86,Low,53.3,Low
+Madhya Pradesh,Ujjain,Kharif,Alluvial,Maize,6.9,46,110.0,34.3,36.7,6.25,714.7,30.2,26.12,1865.47,22562.96,Medium,67.9,Low
+Madhya Pradesh,Bhopal,Rabi,Clay,Maize,5.4,53,80.9,54.1,38.6,6.88,1020.7,22.5,22.52,2034.1,18312.64,Medium,93.9,Low
+Haryana,Karnal,Zaid,Black,Sugarcane,5.5,88,122.0,67.4,71.5,6.63,1371.8,31.4,516.76,293.8,46620.64,High,78.3,Low
+Madhya Pradesh,Ujjain,Rabi,Clay,Wheat,16.6,50,109.9,67.7,30.6,6.2,524.4,14.4,23.13,1955.06,18815.55,Medium,82.9,Low
+Punjab,Patiala,Zaid,Clay,Soybean,10.3,58,77.5,46.3,35.6,6.3,692.8,25.9,11.46,4143.03,22333.47,Medium,72.0,Low
+Madhya Pradesh,Ujjain,Zaid,Loamy,Sugarcane,13.4,100,123.9,53.8,80.5,6.9,1369.5,31.4,496.96,348.62,40185.06,High,69.5,Low
+Maharashtra,Pune,Zaid,Clay,Rice,10.9,63,94.2,49.4,53.2,5.99,1169.0,32.9,28.53,2154.29,23141.71,High,88.0,Low
+Haryana,Panipat,Zaid,Loamy,Sugarcane,16.5,95,147.9,61.2,60.1,6.51,1176.4,30.9,486.72,278.3,42740.94,High,68.4,Low
+Maharashtra,Pune,Zaid,Clay,Rice,17.5,73,104.6,50.2,41.9,6.33,1224.7,23.3,25.03,1852.55,22058.1,High,70.3,Low
+Madhya Pradesh,Ujjain,Rabi,Red,Bajra,15.4,14,56.0,25.4,30.6,6.47,422.3,37.1,14.05,2129.84,14625.19,Low,59.0,Medium
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,10.8,86,137.8,59.0,39.7,6.5,1710.3,26.5,29.84,2060.85,29531.82,High,67.8,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,12.5,77,119.4,55.4,48.7,6.13,1754.5,31.6,28.26,2049.38,23946.85,High,91.2,Low
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,18.2,71,36.5,53.3,59.9,6.65,966.2,33.5,15.85,5681.32,24262.06,Medium,54.3,Low
+Maharashtra,Nagpur,Zaid,Clay,Groundnut,16.4,41,25.7,41.1,43.1,5.72,1092.8,29.9,13.82,5727.75,27879.1,Medium,56.8,Medium
+Haryana,Panipat,Zaid,Clay,Mustard,5.2,42,63.2,31.6,41.9,6.38,582.6,24.4,10.07,5714.2,13617.32,Low,46.7,Medium
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,2.1,88,124.4,60.2,53.3,6.98,1571.8,27.3,27.89,1789.67,25138.28,High,74.0,Low
+Uttar Pradesh,Meerut,Kharif,Loamy,Sugarcane,6.4,97,153.9,46.9,75.5,5.5,1715.3,33.1,444.09,324.14,52065.38,High,71.3,Low
+Haryana,Panipat,Kharif,Clay,Rice,13.9,93,137.7,54.8,32.4,7.0,2004.0,25.4,28.29,2093.2,22271.94,High,82.5,Low
+Madhya Pradesh,Indore,Zaid,Clay,Groundnut,15.7,57,38.2,47.4,51.1,6.73,536.1,30.5,14.59,5859.13,24876.99,Medium,56.9,Low
+Punjab,Patiala,Rabi,Black,Gram,6.7,39,39.3,52.3,32.8,6.81,358.0,12.3,11.47,5537.82,17767.54,Low,61.1,Low
+Punjab,Ludhiana,Zaid,Sandy,Groundnut,16.2,61,26.2,45.7,52.0,6.92,687.4,29.7,15.29,5537.12,25116.66,Medium,60.0,Low
+Uttar Pradesh,Varanasi,Rabi,Sandy,Mustard,14.2,5,67.2,41.3,38.6,6.45,653.9,23.2,11.52,5283.4,16111.56,Low,62.5,Medium
+Maharashtra,Nagpur,Rabi,Black,Gram,13.9,35,42.2,55.2,20.6,6.75,439.9,10.7,12.1,5364.49,18820.09,Low,51.7,Low
+Haryana,Karnal,Kharif,Red,Bajra,2.3,15,44.1,27.9,17.6,7.35,316.3,35.7,16.09,2087.62,12448.09,Low,42.8,Medium
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,4.2,35,33.3,57.8,52.8,6.77,746.1,28.8,15.68,5505.43,22317.19,Medium,63.4,Low
+Uttar Pradesh,Varanasi,Zaid,Black,Sugarcane,4.5,100,138.9,47.6,100.5,7.02,1911.9,28.1,474.38,291.32,54173.0,High,69.4,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Groundnut,13.9,44,44.8,58.1,51.0,5.98,599.8,27.6,15.04,6090.83,27522.75,Medium,58.4,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Groundnut,13.8,53,17.9,44.7,54.0,6.21,609.9,32.2,16.05,5546.06,23795.07,Medium,58.5,Low
+Madhya Pradesh,Bhopal,Rabi,Black,Gram,16.7,39,9.9,51.4,23.8,6.35,341.4,14.9,12.27,4874.77,14768.55,Low,63.5,Low
+Punjab,Amritsar,Kharif,Alluvial,Rice,5.3,74,121.3,44.5,46.5,6.91,1497.5,27.2,29.2,1807.67,25156.37,High,81.3,Low
+Haryana,Panipat,Rabi,Black,Sugarcane,3.3,57,127.5,54.0,91.0,6.79,1638.8,33.6,434.04,286.03,50266.56,High,64.0,Low
+Punjab,Patiala,Rabi,Red,Mustard,15.0,18,77.2,45.3,33.1,6.44,489.0,14.3,10.8,5943.86,16505.72,Low,51.9,Medium
+Madhya Pradesh,Ujjain,Kharif,Clay,Rice,8.6,84,112.6,43.0,47.2,6.07,1756.4,26.9,30.94,1754.63,24908.61,High,85.2,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Maize,4.5,77,92.9,44.4,45.3,5.88,659.7,27.0,24.45,1740.54,22860.21,Medium,74.5,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,2.7,70,116.8,46.3,105.6,5.92,1567.4,33.6,462.47,326.75,42305.09,High,76.6,Low
+Haryana,Karnal,Zaid,Loamy,Groundnut,18.0,17,42.3,31.2,55.7,5.65,492.4,21.2,13.85,5830.86,24384.96,Medium,53.6,Medium
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,8.6,12,27.3,47.1,60.3,6.09,786.7,25.7,15.0,4936.14,23429.3,Medium,50.2,Medium
+Punjab,Patiala,Rabi,Black,Sugarcane,17.6,100,166.7,61.7,90.1,7.13,1891.5,29.8,462.06,312.14,49389.33,High,75.5,Low
+Uttar Pradesh,Lucknow,Kharif,Red,Maize,14.7,55,113.3,51.2,43.6,6.57,593.6,22.5,25.03,1849.54,20874.04,Medium,79.3,Low
+Maharashtra,Nashik,Kharif,Loamy,Wheat,4.6,25,120.2,52.0,40.6,7.02,511.2,23.6,21.72,2260.84,20847.96,Medium,73.8,Low
+Punjab,Ludhiana,Zaid,Alluvial,Wheat,5.7,41,109.5,55.8,51.6,7.07,521.1,15.4,21.35,2030.51,16927.08,Medium,76.7,Low
+Punjab,Patiala,Rabi,Clay,Gram,3.3,33,22.6,51.7,35.9,5.88,549.3,15.0,10.78,5685.15,14562.04,Low,59.9,Low
+Punjab,Amritsar,Kharif,Red,Maize,7.8,61,119.0,43.8,37.0,6.56,1003.5,21.6,26.74,1924.11,19592.41,Medium,70.5,Low
+Punjab,Ludhiana,Zaid,Black,Sugarcane,8.4,85,125.3,40.8,65.2,6.33,1367.8,24.8,489.09,313.78,45001.98,High,71.8,Low
+Haryana,Hisar,Zaid,Loamy,Groundnut,11.1,19,28.5,52.8,48.7,6.24,873.1,24.3,14.06,5660.13,24096.09,Medium,52.8,Medium
+Haryana,Hisar,Kharif,Loamy,Gram,19.5,39,33.5,49.4,43.8,7.33,464.2,20.8,10.94,5672.6,14150.93,Low,55.9,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,9.9,34,45.0,37.3,27.7,6.17,445.6,20.1,12.06,5474.97,17741.21,Low,61.2,Low
+Maharashtra,Nagpur,Rabi,Clay,Mustard,10.5,26,56.6,35.8,20.6,6.16,326.0,17.6,10.86,5834.77,14565.95,Low,47.6,Medium
+Haryana,Karnal,Zaid,Red,Groundnut,3.1,18,9.2,34.7,43.9,6.57,841.5,32.1,15.67,6015.39,25382.44,Medium,61.3,Medium
+Maharashtra,Nashik,Rabi,Alluvial,Gram,1.2,22,33.1,44.0,31.4,7.31,606.5,12.0,11.7,5207.62,16931.79,Low,62.0,Medium
+Haryana,Panipat,Kharif,Loamy,Rice,19.1,75,111.9,50.2,60.3,6.97,1473.3,26.9,28.24,2204.68,22320.1,High,86.9,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,11.8,96,120.5,69.3,101.3,7.01,1219.4,29.6,485.91,288.28,50659.83,High,45.3,Low
+Uttar Pradesh,Meerut,Kharif,Clay,Mustard,10.3,40,69.0,47.4,28.0,7.07,481.3,17.8,11.13,5484.03,13285.29,Low,39.9,Medium
+Haryana,Panipat,Kharif,Sandy,Groundnut,6.5,48,28.2,45.6,49.8,6.91,490.4,34.5,14.62,5594.87,23972.32,Medium,49.0,Low
+Maharashtra,Nashik,Zaid,Clay,Bajra,3.2,70,34.9,19.5,10.8,7.29,369.5,31.5,12.88,1958.55,12114.6,Low,60.4,Low
+Uttar Pradesh,Varanasi,Kharif,Black,Soybean,8.7,42,68.2,53.9,43.2,6.36,1009.5,20.8,13.47,4210.89,18964.13,Medium,61.5,Low
+Madhya Pradesh,Bhopal,Zaid,Alluvial,Sugarcane,2.5,76,141.5,76.6,97.2,5.99,1161.7,33.8,505.3,305.01,40055.15,High,81.9,Low
+Maharashtra,Nashik,Rabi,Clay,Mustard,2.9,38,94.4,43.4,31.2,7.82,286.5,26.4,10.77,5807.67,16496.59,Low,51.8,Medium
+Maharashtra,Pune,Zaid,Red,Groundnut,3.2,26,19.0,53.3,43.8,7.08,695.7,35.0,15.99,5575.92,25897.75,Medium,39.5,Medium
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Mustard,18.6,43,82.5,29.4,29.5,6.54,500.2,16.2,11.67,5707.55,16519.17,Low,56.9,Low
+Uttar Pradesh,Lucknow,Rabi,Sandy,Mustard,6.8,28,97.2,26.0,39.3,7.2,463.7,14.4,12.23,5574.92,14956.81,Low,66.1,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Mustard,9.2,43,78.9,36.8,27.3,7.17,530.6,16.2,10.14,5669.74,14612.02,Low,58.5,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,11.9,41,18.2,38.4,58.4,6.62,666.2,28.6,15.29,4841.07,22862.62,Medium,64.3,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,3.0,33,38.5,43.7,55.1,6.61,983.9,23.9,15.01,5530.54,26851.29,Medium,60.5,Low
+Haryana,Panipat,Zaid,Sandy,Groundnut,3.2,41,12.0,65.3,36.3,6.09,708.9,30.3,15.69,5621.04,22831.39,Medium,67.5,Low
+Punjab,Patiala,Kharif,Clay,Rice,4.8,100,132.9,51.3,53.9,6.88,1899.2,31.5,29.45,2215.81,23325.22,High,85.5,Low
+Maharashtra,Pune,Zaid,Loamy,Groundnut,12.8,63,22.8,50.3,55.4,6.11,698.7,30.6,14.43,5100.67,23079.43,Medium,43.6,Low
+Uttar Pradesh,Meerut,Rabi,Black,Wheat,13.5,31,113.7,60.8,39.6,7.5,493.2,17.5,23.49,2134.0,21300.16,Medium,82.0,Low
+Maharashtra,Nagpur,Rabi,Loamy,Cotton,4.7,40,87.8,38.6,35.8,7.0,863.1,35.8,10.74,6129.03,28625.3,Medium,68.7,Low
+Madhya Pradesh,Ujjain,Rabi,Alluvial,Wheat,9.9,57,101.8,55.2,47.2,6.98,813.2,14.1,22.4,2439.53,16616.46,Medium,82.4,Low
+Haryana,Karnal,Zaid,Red,Groundnut,4.2,67,30.1,55.3,69.0,6.02,1041.3,27.8,14.72,5678.75,23022.03,Medium,69.7,Low
+Haryana,Panipat,Kharif,Loamy,Cotton,15.3,74,83.1,43.3,51.6,7.58,955.0,24.0,10.8,5657.1,32855.85,Medium,63.0,Low
+Haryana,Panipat,Kharif,Alluvial,Maize,5.0,34,99.1,50.7,40.1,6.05,874.7,27.1,26.1,1838.58,20313.45,Medium,71.9,Low
+Maharashtra,Nagpur,Kharif,Sandy,Groundnut,2.3,19,44.7,56.0,45.5,6.44,642.6,26.5,15.19,5144.07,24126.56,Medium,61.9,Medium
+Maharashtra,Nagpur,Kharif,Red,Groundnut,2.9,54,32.0,40.7,43.0,6.29,668.4,30.0,15.42,4917.94,22395.08,Medium,62.6,Low
+Punjab,Amritsar,Zaid,Black,Sugarcane,8.4,100,162.9,60.5,82.3,6.03,1091.9,28.8,457.34,310.45,43579.29,High,66.8,Low
+Haryana,Hisar,Kharif,Loamy,Bajra,9.1,30,56.9,21.8,39.9,7.23,363.6,23.8,15.06,1961.48,12515.73,Low,56.3,Medium
+Haryana,Karnal,Rabi,Alluvial,Soybean,9.6,45,13.6,54.1,37.7,7.47,1027.1,30.0,11.21,4377.73,18124.36,Medium,79.6,Low
+Haryana,Hisar,Kharif,Loamy,Soybean,7.8,46,59.2,70.8,54.7,7.03,964.1,22.5,12.75,4040.03,23963.66,Medium,48.9,Low
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Sugarcane,16.8,100,152.6,72.4,62.3,7.66,1562.8,26.1,467.07,295.75,44420.9,High,62.6,Low
+Madhya Pradesh,Indore,Rabi,Alluvial,Gram,7.7,33,40.8,58.4,23.1,6.83,623.6,20.6,11.15,4797.18,18664.67,Low,65.4,Low
+Haryana,Panipat,Rabi,Clay,Groundnut,8.6,66,28.8,54.4,62.3,7.13,729.9,28.3,13.31,5523.59,24766.93,Medium,65.7,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,10.6,100,142.7,67.6,87.7,6.2,1674.2,34.6,480.05,306.04,53498.69,High,57.7,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Maize,9.8,56,103.9,39.8,46.7,6.8,852.4,32.4,27.08,1997.83,22209.44,Medium,64.8,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,6.7,88,133.3,64.5,87.5,6.91,1229.1,30.0,487.77,272.62,46068.36,High,60.5,Low
+Haryana,Karnal,Rabi,Sandy,Bajra,17.3,13,53.4,26.8,16.8,7.29,360.7,33.9,14.2,2143.5,13488.26,Low,61.5,Medium
+Maharashtra,Nashik,Rabi,Alluvial,Mustard,8.4,39,88.7,44.7,32.8,6.06,598.4,12.4,11.1,5584.74,15625.28,Low,56.9,Low
+Madhya Pradesh,Indore,Zaid,Black,Sugarcane,9.7,95,148.0,71.4,92.7,7.12,1200.8,28.9,476.73,301.4,48832.78,High,58.7,Low
+Maharashtra,Nashik,Kharif,Alluvial,Wheat,5.4,40,107.9,56.5,36.2,6.53,536.7,13.2,23.92,1974.25,16224.51,Medium,77.0,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,18.5,29,38.7,56.8,43.6,6.39,633.3,31.8,15.12,5654.18,26011.95,Medium,64.2,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,7.5,100,159.8,63.7,70.1,7.29,1476.2,30.5,454.45,334.74,41907.89,High,72.2,Low
+Madhya Pradesh,Bhopal,Kharif,Alluvial,Maize,12.4,49,122.6,58.4,39.2,7.14,881.4,32.5,25.69,1815.39,22185.11,Medium,81.9,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Rice,4.8,95,140.6,57.6,47.1,4.93,1528.9,26.9,29.52,1888.24,25329.92,High,69.5,Low
+Madhya Pradesh,Indore,Rabi,Sandy,Sugarcane,14.7,100,134.7,51.9,96.3,6.4,1639.5,24.6,400.18,305.55,47232.6,High,62.1,Low
+Haryana,Hisar,Rabi,Clay,Gram,3.6,39,46.9,38.8,22.3,6.39,525.0,27.5,11.11,5321.45,17599.13,Low,48.0,Low
+Punjab,Ludhiana,Kharif,Alluvial,Rice,1.8,72,119.2,41.4,38.9,5.61,1595.1,28.1,31.35,1950.86,29531.42,High,83.3,Low
+Haryana,Panipat,Rabi,Red,Gram,10.6,17,31.2,47.9,26.4,7.62,377.9,14.6,11.03,5693.05,17249.54,Low,54.0,Medium
+Maharashtra,Nashik,Rabi,Alluvial,Sugarcane,6.3,69,133.4,53.9,90.8,6.77,1244.1,30.4,441.84,307.74,40389.88,High,54.9,Low
+Uttar Pradesh,Varanasi,Kharif,Black,Bajra,17.4,5,75.5,32.5,42.2,6.73,515.3,31.7,15.35,2276.66,14963.07,Low,48.8,Medium
+Haryana,Karnal,Rabi,Alluvial,Gram,2.6,30,36.8,44.3,30.0,7.33,241.8,18.4,12.09,4924.6,16199.55,Low,37.7,Medium
+Maharashtra,Nagpur,Kharif,Sandy,Groundnut,6.3,48,31.1,45.3,53.7,6.72,882.1,26.7,15.59,5889.41,25479.34,Medium,61.5,Low
+Punjab,Patiala,Kharif,Clay,Rice,19.5,100,135.5,54.3,43.2,6.35,1225.0,30.3,28.23,1822.2,24264.68,High,92.8,Low
+Uttar Pradesh,Meerut,Zaid,Loamy,Groundnut,12.8,43,41.0,61.4,33.5,6.17,785.0,27.0,15.77,5146.47,24286.54,Medium,74.7,Low
+Punjab,Ludhiana,Zaid,Black,Sugarcane,11.2,100,163.3,64.9,67.6,5.7,1249.9,34.2,464.36,313.01,50396.1,High,49.1,Low
+Maharashtra,Pune,Rabi,Alluvial,Wheat,18.4,62,112.7,55.0,42.6,6.67,621.9,13.4,23.68,2036.59,18526.14,Medium,86.6,Low
+Haryana,Panipat,Zaid,Loamy,Cotton,18.1,46,83.8,24.4,48.4,6.56,963.1,37.6,10.4,7155.98,28189.31,Medium,61.7,Low
+Uttar Pradesh,Lucknow,Rabi,Red,Mustard,12.6,41,62.7,46.5,45.0,6.89,458.5,17.9,10.97,5861.57,13761.28,Low,46.5,Low
+Punjab,Patiala,Rabi,Sandy,Mustard,8.2,13,81.2,52.3,29.2,7.16,532.1,15.6,12.12,5152.1,17069.94,Low,54.7,Medium
+Haryana,Hisar,Rabi,Sandy,Mustard,2.9,5,73.2,41.5,35.0,8.13,669.2,10.8,11.36,5529.57,17512.71,Low,71.7,Medium
+Madhya Pradesh,Ujjain,Kharif,Black,Cotton,8.0,37,116.1,42.8,61.5,7.57,1024.8,28.8,10.82,6017.52,33715.96,Medium,74.4,Low
+Haryana,Panipat,Rabi,Alluvial,Gram,6.2,6,18.8,53.4,31.0,7.25,514.8,24.1,11.8,5046.45,14684.37,Low,56.5,Medium
+Maharashtra,Nashik,Kharif,Clay,Rice,10.2,91,113.9,57.8,57.7,5.5,1648.5,33.5,30.19,2134.29,23877.73,High,76.3,Low
+Haryana,Hisar,Rabi,Black,Gram,16.1,45,22.1,46.4,28.4,6.09,585.5,14.5,11.48,4987.16,17524.09,Low,59.5,Low
+Maharashtra,Pune,Rabi,Sandy,Mustard,6.5,5,82.7,31.7,22.5,6.3,648.1,13.8,11.34,5742.71,15049.06,Low,52.7,Medium
+Haryana,Panipat,Zaid,Alluvial,Sugarcane,12.5,86,118.3,43.8,95.5,6.56,1483.1,26.0,488.97,322.61,52019.28,High,76.3,Low
+Uttar Pradesh,Meerut,Kharif,Loamy,Cotton,18.9,47,118.0,27.4,38.2,6.67,860.2,27.3,11.22,6243.82,31664.73,Medium,69.6,Low
+Punjab,Patiala,Zaid,Clay,Groundnut,1.4,46,17.5,39.0,44.5,7.22,774.7,28.2,13.89,6014.75,24259.48,Medium,60.9,Low
+Maharashtra,Nashik,Rabi,Black,Gram,6.4,24,18.6,58.1,23.1,6.7,339.8,20.2,12.08,4794.6,14718.86,Low,55.7,Medium
+Madhya Pradesh,Indore,Rabi,Black,Wheat,3.7,45,105.9,62.7,35.1,6.24,576.3,19.3,23.82,2334.21,20768.17,Medium,80.5,Low
+Madhya Pradesh,Bhopal,Zaid,Red,Groundnut,14.5,10,38.4,47.8,52.3,7.02,696.2,28.5,15.09,5245.58,26818.92,Medium,46.7,Medium
+Madhya Pradesh,Bhopal,Kharif,Loamy,Soybean,19.9,52,56.2,47.0,45.0,6.36,1075.2,19.8,12.76,3880.4,22480.59,Medium,58.5,Low
+Haryana,Karnal,Zaid,Sandy,Maize,7.0,62,127.9,39.1,28.7,6.79,960.0,19.0,20.79,1781.5,19155.84,Medium,71.2,Low
+Maharashtra,Nagpur,Rabi,Clay,Soybean,12.9,82,41.8,66.0,36.2,6.82,872.1,29.2,11.03,4380.39,19663.43,Medium,56.9,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Cotton,19.8,67,93.7,36.4,53.7,5.78,926.1,24.6,10.45,6262.43,28469.77,Medium,63.2,Low
+Madhya Pradesh,Bhopal,Kharif,Sandy,Cotton,19.2,47,124.1,40.0,38.0,7.4,810.9,22.1,9.78,6653.69,26924.02,Medium,76.7,Low
+Madhya Pradesh,Indore,Rabi,Loamy,Mustard,19.9,34,73.0,36.5,48.0,6.99,531.7,14.3,12.74,5633.26,13286.14,Low,55.2,Low
+Maharashtra,Nagpur,Rabi,Clay,Bajra,4.3,23,56.5,17.1,21.4,7.25,372.8,32.7,13.86,2143.66,14289.45,Low,60.9,Medium
+Uttar Pradesh,Lucknow,Zaid,Clay,Maize,7.3,39,100.8,51.4,36.6,5.66,862.5,22.9,23.53,1732.36,19035.51,Medium,85.5,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,6.9,95,149.0,78.9,65.4,7.32,1287.6,31.8,487.43,284.5,46905.24,High,68.6,Low
+Haryana,Hisar,Zaid,Clay,Cotton,15.2,44,88.3,34.6,48.8,7.64,1142.4,23.8,9.29,5950.45,31951.33,Medium,55.1,Medium
+Haryana,Karnal,Rabi,Sandy,Mustard,19.9,25,65.7,29.8,33.1,7.04,339.3,13.2,11.88,5687.23,15376.05,Low,75.0,Low
+Maharashtra,Nagpur,Rabi,Red,Mustard,8.2,26,79.9,43.0,28.0,6.42,590.1,13.3,11.19,5378.73,15282.23,Low,49.4,Medium
+Maharashtra,Pune,Rabi,Black,Gram,10.2,22,45.8,47.6,40.8,6.58,299.5,11.4,12.07,5381.78,16620.43,Low,63.9,Low
+Madhya Pradesh,Indore,Zaid,Black,Sugarcane,19.4,80,164.8,63.9,66.1,7.29,1296.4,27.5,481.67,332.18,45613.87,High,60.7,Low
+Maharashtra,Nagpur,Rabi,Clay,Cotton,18.3,46,112.9,38.4,38.7,6.63,1105.4,29.0,8.99,5600.93,31663.86,Medium,73.7,Low
+Madhya Pradesh,Indore,Zaid,Black,Sugarcane,8.0,75,157.0,78.7,61.8,6.36,1420.7,29.7,478.9,312.95,40522.4,High,76.1,Low
+Haryana,Hisar,Zaid,Clay,Rice,9.8,80,101.9,55.1,60.4,6.38,1295.4,34.2,26.36,1904.38,27072.94,High,90.0,Low
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,17.0,37,64.7,39.1,11.5,6.46,350.1,14.7,11.38,5528.36,13199.22,Low,63.0,Low
+Punjab,Patiala,Rabi,Clay,Sugarcane,9.1,77,147.2,56.9,67.0,6.61,1224.1,31.9,400.71,300.43,42169.66,High,71.0,Low
+Maharashtra,Pune,Rabi,Red,Bajra,14.1,26,80.0,29.2,20.7,7.56,666.3,29.7,15.17,2014.07,13746.33,Low,53.5,Medium
+Uttar Pradesh,Varanasi,Zaid,Clay,Rice,16.9,86,121.2,47.4,36.3,5.81,1735.2,32.7,26.41,2140.3,27371.52,High,87.1,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,8.7,100,126.2,46.9,64.8,6.6,1152.6,26.3,446.12,319.52,44931.28,High,53.9,Low
+Punjab,Amritsar,Rabi,Red,Soybean,16.6,72,40.3,51.3,29.5,7.19,1024.1,32.9,11.65,4088.98,22505.15,Medium,70.6,Low
+Maharashtra,Nagpur,Kharif,Loamy,Groundnut,4.2,30,46.7,46.8,48.8,6.37,783.4,32.8,15.65,6034.52,23071.73,Medium,67.5,Low
+Maharashtra,Nagpur,Rabi,Loamy,Gram,18.1,51,27.0,46.3,29.0,6.44,499.1,24.1,11.55,5109.47,16000.27,Low,75.7,Low
+Punjab,Patiala,Rabi,Red,Wheat,14.0,66,118.6,58.8,35.6,6.79,627.5,18.4,22.15,2092.52,20106.18,Medium,81.6,Low
+Madhya Pradesh,Ujjain,Zaid,Loamy,Sugarcane,17.2,89,115.4,62.7,101.4,6.31,1749.9,28.8,440.87,343.3,47503.22,High,53.4,Low
+Punjab,Patiala,Kharif,Red,Maize,1.1,77,117.1,61.1,36.9,6.13,948.6,27.7,25.79,1984.26,19757.78,Medium,63.1,Low
+Punjab,Amritsar,Zaid,Loamy,Bajra,9.1,41,47.5,39.6,37.4,7.24,523.7,25.2,13.84,2006.66,12457.88,Low,61.6,Low
+Haryana,Hisar,Rabi,Red,Bajra,7.3,13,50.2,24.6,25.2,7.38,342.8,30.6,14.17,2223.1,10772.21,Low,56.4,Medium
+Madhya Pradesh,Bhopal,Rabi,Loamy,Wheat,17.2,42,118.2,57.9,44.3,6.45,873.2,17.7,22.41,2242.85,19890.26,Medium,79.9,Low
+Madhya Pradesh,Bhopal,Rabi,Black,Maize,13.7,64,90.5,36.7,27.3,5.69,920.1,21.0,20.75,2177.21,22448.27,Medium,73.6,Low
+Punjab,Amritsar,Kharif,Sandy,Groundnut,19.4,42,15.6,43.6,52.1,5.84,822.8,29.6,15.11,5361.64,22382.01,Medium,58.9,Low
+Haryana,Panipat,Kharif,Red,Cotton,12.1,30,97.1,42.7,42.3,6.41,897.7,21.4,10.68,6602.71,26003.72,Medium,80.5,Low
+Haryana,Panipat,Zaid,Clay,Bajra,19.9,7,42.2,34.8,22.5,7.49,307.7,31.4,12.48,1994.49,10910.9,Low,54.8,Medium
+Punjab,Amritsar,Rabi,Sandy,Mustard,2.2,18,90.6,34.8,18.9,7.18,420.4,13.9,11.82,5499.63,15855.04,Low,59.6,Medium
+Maharashtra,Nashik,Zaid,Black,Sugarcane,19.2,97,151.2,66.1,75.9,7.15,1356.7,29.3,476.11,302.27,46256.85,High,59.3,Low
+Maharashtra,Nashik,Rabi,Loamy,Wheat,19.5,50,119.6,53.3,33.4,6.55,555.3,13.3,24.92,2250.46,17458.83,Medium,75.8,Low
+Madhya Pradesh,Bhopal,Zaid,Alluvial,Sugarcane,5.7,100,157.1,50.8,68.5,6.35,1453.3,34.2,471.96,335.42,48611.32,High,53.2,Low
+Madhya Pradesh,Indore,Kharif,Loamy,Groundnut,15.5,38,35.7,40.7,53.9,6.48,1096.8,29.0,15.05,5446.89,23998.07,Medium,54.5,Medium
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,9.1,63,136.7,32.2,55.3,7.27,2009.5,27.2,28.63,1755.73,22737.15,High,89.1,Low
+Madhya Pradesh,Indore,Kharif,Sandy,Groundnut,11.9,18,26.1,37.7,40.9,7.06,663.6,23.7,14.87,5919.55,27691.02,Medium,66.2,Medium
+Uttar Pradesh,Lucknow,Rabi,Sandy,Mustard,7.1,20,71.0,40.1,28.7,7.07,723.2,16.7,11.72,5229.4,15667.11,Low,61.2,Medium
+Punjab,Ludhiana,Rabi,Sandy,Soybean,17.5,69,31.0,48.5,48.2,7.76,1194.6,21.9,10.9,4563.37,19251.51,Medium,72.2,Low
+Haryana,Karnal,Zaid,Loamy,Rice,19.4,89,111.8,40.4,51.8,5.86,1948.0,23.8,24.66,2145.77,22129.16,High,81.6,Low
+Maharashtra,Pune,Kharif,Loamy,Sugarcane,16.9,63,138.3,86.2,79.2,6.94,1533.8,28.5,476.77,302.2,42336.37,High,63.4,Low
+Punjab,Patiala,Zaid,Black,Sugarcane,12.7,66,148.6,67.1,68.8,6.13,1752.0,25.8,456.08,334.51,40427.17,High,72.4,Low
+Punjab,Amritsar,Rabi,Alluvial,Wheat,18.4,63,120.2,61.0,48.7,6.28,587.4,25.3,22.7,2074.97,19821.13,Medium,76.6,Low
+Uttar Pradesh,Lucknow,Zaid,Red,Groundnut,10.1,55,38.1,41.7,45.9,6.01,409.9,27.3,15.15,5562.38,27843.74,Medium,65.1,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Sugarcane,15.4,100,152.6,68.6,95.7,6.77,1243.3,29.1,448.82,284.57,48581.3,High,60.7,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Sugarcane,11.4,91,122.2,86.1,76.5,7.07,1328.6,30.5,468.82,279.97,49634.39,High,76.1,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Rice,3.3,83,109.9,37.9,55.4,7.19,2020.7,30.0,30.68,2122.03,27956.77,High,68.3,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Soybean,11.2,45,55.6,44.7,37.1,5.89,1137.3,29.0,11.88,4014.12,20405.24,Medium,66.5,Low
+Maharashtra,Nagpur,Rabi,Loamy,Wheat,14.7,48,124.3,65.4,49.7,6.11,548.4,17.6,23.58,2365.33,16956.66,Medium,70.7,Low
+Haryana,Hisar,Kharif,Alluvial,Sugarcane,3.7,99,134.5,63.6,70.7,6.68,1449.0,32.2,466.32,316.17,48118.89,High,64.6,Low
+Madhya Pradesh,Bhopal,Kharif,Black,Soybean,17.6,54,54.4,44.0,29.6,7.29,705.5,29.0,13.52,4635.07,19447.76,Medium,69.5,Low
+Maharashtra,Pune,Zaid,Alluvial,Sugarcane,17.0,75,158.7,55.8,86.6,6.3,1493.4,26.7,461.5,350.93,47317.93,High,70.5,Low
+Madhya Pradesh,Ujjain,Zaid,Loamy,Groundnut,1.8,62,42.4,52.8,52.1,6.48,802.3,33.3,15.4,5418.89,27180.47,Medium,67.8,Low
+Maharashtra,Nagpur,Kharif,Alluvial,Maize,13.0,58,91.0,45.5,42.8,6.58,839.1,29.3,25.71,2071.59,18963.55,Medium,86.1,Low
+Madhya Pradesh,Ujjain,Rabi,Clay,Groundnut,15.3,41,25.2,38.1,61.1,6.86,1019.6,22.5,13.56,5784.16,23212.89,Medium,65.7,Low
+Uttar Pradesh,Meerut,Kharif,Red,Soybean,1.3,36,32.2,64.8,33.0,6.86,750.6,32.7,11.6,3839.67,20122.8,Medium,50.6,Medium
+Haryana,Hisar,Zaid,Alluvial,Sugarcane,12.7,100,127.7,74.9,102.6,6.11,1375.0,30.2,485.94,282.86,54468.86,High,73.7,Low
+Maharashtra,Pune,Zaid,Sandy,Cotton,8.8,31,104.1,44.4,59.2,7.49,995.2,35.5,9.43,6312.1,26210.44,Medium,67.3,Medium
+Haryana,Panipat,Kharif,Sandy,Bajra,11.2,47,56.0,22.9,23.3,6.77,589.3,28.8,15.16,2188.48,12242.34,Low,45.0,Low
+Maharashtra,Nagpur,Kharif,Black,Cotton,19.1,19,90.8,41.2,40.2,6.48,761.9,29.3,10.44,6702.95,28664.28,Medium,75.5,Low
+Madhya Pradesh,Ujjain,Rabi,Sandy,Mustard,2.0,30,72.6,36.2,25.2,6.8,628.9,27.1,12.01,5685.66,13470.81,Low,46.8,Medium
+Maharashtra,Pune,Zaid,Loamy,Groundnut,4.5,53,30.0,49.8,41.6,6.55,900.1,25.9,15.35,5089.81,26096.26,Medium,76.4,Low
+Punjab,Ludhiana,Zaid,Alluvial,Sugarcane,8.3,100,145.5,78.9,83.9,6.33,1782.6,31.9,462.98,340.37,53195.08,High,70.0,Low
+Maharashtra,Nashik,Kharif,Sandy,Rice,16.3,92,110.6,48.1,55.1,6.2,2162.6,30.9,26.34,1946.32,26435.69,High,79.6,Low
+Uttar Pradesh,Lucknow,Kharif,Red,Bajra,4.6,13,71.8,42.5,24.0,8.05,555.4,25.6,15.25,2090.41,12731.91,Low,57.1,Medium
+Maharashtra,Nashik,Zaid,Red,Groundnut,8.2,52,22.8,49.9,39.0,6.3,984.0,27.0,16.35,5788.82,23040.15,Medium,69.0,Low
+Uttar Pradesh,Varanasi,Zaid,Alluvial,Sugarcane,8.3,78,160.9,65.1,96.4,6.73,1228.2,29.6,484.81,305.62,47429.13,High,58.1,Low
+Punjab,Amritsar,Zaid,Black,Sugarcane,1.1,81,135.5,70.8,101.7,7.0,1169.2,32.5,488.17,325.66,49392.86,High,62.3,Low
+Haryana,Panipat,Rabi,Clay,Groundnut,14.1,26,29.7,60.4,46.7,6.26,799.9,30.4,13.99,5321.02,24931.22,Medium,62.9,Medium
+Uttar Pradesh,Varanasi,Zaid,Clay,Groundnut,6.4,52,29.6,52.2,50.4,5.95,952.6,26.6,14.03,4981.64,22501.65,Medium,60.5,Low
+Punjab,Ludhiana,Zaid,Loamy,Sugarcane,9.4,92,128.4,80.2,53.8,6.36,1405.4,21.7,477.5,279.99,54202.32,High,62.3,Low
+Haryana,Hisar,Zaid,Clay,Bajra,1.5,24,59.2,20.1,19.0,6.59,304.6,32.2,13.39,1992.28,13421.58,Low,48.0,Medium
+Punjab,Amritsar,Zaid,Alluvial,Sugarcane,15.6,97,149.0,73.4,99.7,7.26,1479.8,28.9,452.39,311.85,54819.66,High,50.8,Low
+Haryana,Hisar,Rabi,Sandy,Mustard,13.1,39,94.7,43.8,36.3,6.29,436.5,11.0,11.27,5724.61,15105.7,Low,65.8,Low
+Maharashtra,Pune,Rabi,Clay,Bajra,19.1,11,61.6,19.0,33.5,7.81,493.7,24.8,13.47,2189.08,11534.49,Low,48.0,Medium
+Madhya Pradesh,Ujjain,Rabi,Loamy,Mustard,8.8,40,57.2,52.1,27.9,6.33,327.4,24.2,11.59,5755.88,17004.18,Low,44.6,Low
+Haryana,Hisar,Rabi,Red,Cotton,17.5,68,106.2,42.5,51.0,7.38,571.4,36.8,9.86,6209.82,26827.06,Medium,73.2,Low
+Punjab,Amritsar,Rabi,Sandy,Mustard,10.0,38,80.2,43.5,41.0,7.05,571.7,19.2,12.52,6204.93,16319.35,Low,55.7,Low
+Haryana,Hisar,Kharif,Alluvial,Rice,10.0,59,125.4,56.3,55.5,6.52,1683.3,25.7,29.6,1920.92,26992.25,High,74.1,Low
+Punjab,Patiala,Zaid,Black,Sugarcane,7.7,59,148.2,67.9,97.1,6.94,1801.8,27.3,477.0,314.4,54942.31,High,78.0,Low
+Uttar Pradesh,Lucknow,Zaid,Red,Bajra,13.5,23,67.9,45.0,26.5,6.51,523.4,26.3,14.86,2208.95,12122.57,Low,53.9,Medium
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,6.1,32,41.2,52.3,43.9,6.8,927.7,27.9,16.01,5989.05,22057.87,Medium,71.8,Low
+Punjab,Patiala,Zaid,Red,Groundnut,13.0,29,42.6,48.3,67.1,6.16,682.1,31.0,16.24,5454.48,23155.83,Medium,65.2,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,9.4,63,139.3,51.7,54.7,5.6,1820.5,34.7,29.33,2172.93,25298.26,High,89.9,Low
+Uttar Pradesh,Lucknow,Rabi,Loamy,Cotton,11.1,22,72.7,46.7,41.0,7.06,539.0,31.6,9.64,6343.96,30293.25,Medium,76.6,Medium
+Madhya Pradesh,Ujjain,Zaid,Alluvial,Sugarcane,9.6,82,140.3,73.6,75.8,6.88,1076.0,30.9,502.14,337.11,53486.34,High,60.8,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,19.0,100,125.2,78.9,81.2,7.37,1736.6,28.6,477.1,287.3,47459.84,High,76.2,Low
+Madhya Pradesh,Bhopal,Kharif,Black,Bajra,9.2,48,79.7,32.3,43.3,7.32,404.7,37.8,14.75,1954.13,13152.3,Low,55.6,Low
+Madhya Pradesh,Bhopal,Kharif,Sandy,Bajra,7.5,8,52.6,30.4,27.6,7.3,531.4,31.2,14.51,2044.6,11703.79,Low,58.4,Medium
+Haryana,Hisar,Zaid,Clay,Cotton,14.5,22,106.7,37.8,52.7,7.34,631.4,29.7,9.79,6306.27,28506.19,Medium,58.6,Medium
+Haryana,Hisar,Kharif,Clay,Rice,10.0,85,114.9,44.3,55.8,5.98,1352.6,33.4,32.1,2059.57,22484.5,High,89.3,Low
+Madhya Pradesh,Bhopal,Rabi,Black,Wheat,6.7,37,105.6,64.0,32.6,7.87,544.2,17.0,22.38,2116.42,19639.25,Medium,97.3,Low
+Uttar Pradesh,Lucknow,Kharif,Sandy,Groundnut,3.4,52,19.9,45.1,46.4,6.43,961.5,23.8,16.04,5781.95,22335.16,Medium,59.1,Low
+Punjab,Ludhiana,Kharif,Black,Sugarcane,18.9,82,130.0,46.8,76.5,6.47,1416.8,24.1,489.34,295.1,53671.37,High,54.8,Low
+Uttar Pradesh,Lucknow,Kharif,Black,Cotton,2.0,50,76.9,34.7,59.0,6.78,1055.6,21.5,10.33,6632.68,29950.28,Medium,80.3,Low
+Haryana,Karnal,Rabi,Sandy,Mustard,12.1,34,74.9,32.5,37.8,6.17,447.6,12.9,11.67,5330.75,13595.84,Low,52.5,Low
+Uttar Pradesh,Meerut,Rabi,Alluvial,Mustard,13.8,31,58.0,46.9,31.3,7.12,474.3,11.8,11.8,5653.38,14149.05,Low,68.9,Low
+Haryana,Panipat,Rabi,Alluvial,Wheat,17.3,31,113.7,54.9,47.3,6.63,572.5,27.7,22.95,2436.78,19715.66,Medium,91.1,Low
+Punjab,Amritsar,Rabi,Alluvial,Mustard,11.8,32,68.7,24.8,26.3,7.14,633.7,14.2,12.9,6087.52,14023.33,Low,68.6,Low
+Punjab,Amritsar,Kharif,Black,Sugarcane,9.6,77,153.3,46.9,89.6,6.5,1362.5,29.1,464.14,291.96,49849.15,High,69.1,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,1.5,35,40.8,56.2,57.6,6.16,822.2,26.4,15.4,5416.63,24737.54,Medium,55.3,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Groundnut,8.7,41,15.7,65.7,38.1,6.12,736.9,26.1,16.35,5617.67,25235.27,Medium,73.8,Low
+Haryana,Karnal,Zaid,Red,Wheat,12.4,22,101.0,71.9,41.2,7.31,485.7,17.9,20.18,2088.59,19987.82,Medium,82.9,Medium
+Uttar Pradesh,Meerut,Rabi,Alluvial,Gram,11.4,39,23.5,47.4,29.3,5.51,594.1,24.6,11.34,5742.65,16476.01,Low,41.5,Low
+Punjab,Patiala,Kharif,Red,Groundnut,16.7,33,35.4,43.0,44.2,6.98,1002.0,26.5,15.9,5583.98,24326.48,Medium,62.2,Low
+Madhya Pradesh,Bhopal,Zaid,Clay,Mustard,1.8,45,81.6,31.5,37.2,6.58,292.4,12.7,10.62,4980.96,15437.24,Low,55.3,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,14.8,32,11.4,55.8,55.0,6.41,453.4,28.7,15.35,6027.36,27613.23,Medium,51.1,Medium
+Maharashtra,Pune,Zaid,Clay,Groundnut,16.2,46,29.7,38.6,52.9,7.15,452.0,28.9,14.28,5344.57,24323.82,Medium,59.4,Low
+Haryana,Hisar,Rabi,Alluvial,Gram,17.4,14,29.6,58.5,22.5,6.6,293.8,18.5,11.38,5580.16,15841.44,Low,50.0,Medium
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,2.2,85,137.6,60.5,105.3,5.84,1106.5,27.6,488.18,282.97,51849.97,High,67.8,Low
+Haryana,Panipat,Kharif,Loamy,Cotton,4.8,37,108.2,36.7,45.7,6.28,992.8,25.6,11.13,5915.82,29304.48,Medium,71.1,Low
+Madhya Pradesh,Ujjain,Zaid,Clay,Rice,3.8,93,89.2,40.7,56.7,5.84,1793.9,23.1,27.7,2090.66,28245.06,High,84.8,Low
+Punjab,Ludhiana,Zaid,Clay,Soybean,8.4,26,42.5,37.2,41.9,6.98,912.6,23.8,10.63,3655.91,18509.06,Medium,67.5,Medium
+Punjab,Amritsar,Rabi,Red,Sugarcane,9.8,84,158.2,63.9,68.7,7.45,1454.5,29.4,431.3,322.03,47039.92,High,63.0,Low
+Punjab,Patiala,Rabi,Loamy,Mustard,13.0,29,74.5,31.5,37.7,7.11,377.4,20.3,11.94,5369.92,16295.56,Low,58.9,Low
+Haryana,Panipat,Kharif,Red,Groundnut,14.5,8,33.6,55.7,41.6,6.0,750.5,30.6,15.3,5508.65,27594.9,Medium,52.8,Medium
+Maharashtra,Nagpur,Kharif,Red,Maize,5.8,81,116.3,44.4,59.4,6.83,732.5,27.4,26.01,2006.04,21571.63,Medium,67.2,Low
+Punjab,Ludhiana,Kharif,Black,Cotton,1.8,47,90.5,36.4,32.6,5.77,966.3,35.0,10.61,5697.17,30432.95,Medium,63.6,Low
+Uttar Pradesh,Varanasi,Kharif,Red,Groundnut,15.5,58,46.0,53.8,51.7,7.15,538.7,25.0,15.31,5829.44,27505.75,Medium,59.9,Low
+Uttar Pradesh,Meerut,Zaid,Sandy,Bajra,5.1,26,54.0,32.7,29.6,7.35,439.9,34.0,14.68,2028.64,13078.19,Low,45.6,Medium
+Maharashtra,Nagpur,Rabi,Black,Wheat,12.4,45,116.2,52.1,39.7,6.48,695.5,11.7,23.65,2268.15,20800.6,Medium,74.4,Low
+Maharashtra,Nashik,Rabi,Loamy,Gram,2.7,38,26.1,64.7,34.4,7.48,566.8,22.1,11.46,5074.58,14461.88,Low,68.2,Low
+Madhya Pradesh,Indore,Kharif,Red,Groundnut,9.6,32,40.8,58.9,54.7,6.31,841.7,35.6,14.69,5200.76,27652.1,Medium,64.6,Low
+Haryana,Panipat,Kharif,Clay,Rice,6.1,78,117.7,49.2,50.0,6.11,1764.5,26.4,30.25,2223.55,23336.01,High,73.3,Low
+Maharashtra,Nashik,Kharif,Black,Soybean,11.9,47,41.2,43.4,52.2,6.09,878.4,28.7,12.77,4138.87,21150.3,Medium,82.6,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Groundnut,15.3,31,22.6,53.2,57.9,6.76,583.8,26.1,15.15,4947.11,24613.23,Medium,65.0,Low
+Haryana,Hisar,Zaid,Sandy,Groundnut,8.5,60,51.5,38.7,52.1,6.72,770.8,24.7,15.11,5293.72,27456.35,Medium,72.3,Low
+Punjab,Patiala,Rabi,Red,Gram,11.5,10,36.2,40.2,24.4,6.35,331.8,8.4,10.27,5070.69,15670.2,Low,57.3,Medium
+Madhya Pradesh,Bhopal,Zaid,Red,Groundnut,2.0,32,28.3,49.9,54.2,6.63,972.0,30.3,16.01,5560.92,23602.64,Medium,71.1,Low
+Punjab,Patiala,Rabi,Loamy,Wheat,1.8,75,106.0,57.7,49.9,6.64,856.3,18.2,24.34,2249.78,21490.8,Medium,83.0,Low
+Haryana,Panipat,Kharif,Loamy,Soybean,16.4,36,51.9,60.4,39.2,7.33,683.0,20.6,12.39,4071.99,21563.1,Medium,68.6,Low
+Punjab,Amritsar,Rabi,Loamy,Mustard,6.7,23,91.8,41.7,35.6,7.39,634.4,21.9,12.02,5556.58,16712.62,Low,60.0,Medium
+Maharashtra,Nagpur,Rabi,Red,Rice,5.6,58,112.9,57.0,47.4,5.44,1447.5,25.6,26.09,2397.25,25170.76,High,83.9,Low
+Haryana,Hisar,Zaid,Black,Soybean,4.0,65,37.4,43.9,52.1,6.76,798.2,27.1,12.14,3780.47,23902.21,Medium,64.0,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Soybean,13.7,57,41.8,45.1,30.7,6.47,1072.2,28.3,11.33,4138.87,18430.1,Medium,60.7,Low
+Maharashtra,Nagpur,Kharif,Red,Maize,10.4,49,87.3,51.7,27.8,7.19,669.5,22.6,27.66,2158.87,19263.28,Medium,69.0,Low
+Maharashtra,Nashik,Kharif,Clay,Rice,12.2,90,120.5,50.7,57.6,6.31,1038.7,32.1,29.41,2185.43,23678.18,High,79.9,Low
+Haryana,Hisar,Rabi,Black,Wheat,17.0,50,112.9,65.1,51.4,6.09,722.6,16.1,25.29,2273.07,21215.04,Medium,76.5,Low
+Haryana,Hisar,Kharif,Loamy,Sugarcane,3.8,98,140.2,85.4,72.3,6.84,1567.4,30.4,476.68,329.49,43165.93,High,62.2,Low
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,12.6,49,60.4,50.9,27.9,6.44,633.7,16.6,11.28,5790.65,17645.24,Low,46.9,Low
+Madhya Pradesh,Ujjain,Rabi,Black,Cotton,9.5,38,92.6,37.7,35.8,7.78,874.3,22.0,10.38,6551.84,32329.82,Medium,62.0,Low
+Madhya Pradesh,Ujjain,Rabi,Clay,Mustard,13.6,25,66.2,38.1,42.6,6.04,605.6,12.8,10.8,5385.61,13497.3,Low,60.1,Medium
+Uttar Pradesh,Lucknow,Rabi,Clay,Sugarcane,8.9,98,123.5,56.8,79.9,7.6,1806.5,34.9,407.73,336.34,54165.46,High,71.8,Low
+Maharashtra,Pune,Zaid,Alluvial,Sugarcane,10.7,88,128.7,54.9,67.7,7.3,1451.2,33.4,480.99,273.75,42405.1,High,64.7,Low
+Madhya Pradesh,Indore,Zaid,Loamy,Groundnut,17.2,44,27.9,53.0,54.2,6.09,924.2,33.1,14.47,5813.98,24747.12,Medium,56.6,Low
+Punjab,Ludhiana,Kharif,Loamy,Sugarcane,1.3,100,141.5,75.8,58.1,6.51,1031.9,30.1,450.72,321.29,41796.3,High,69.7,Low
+Punjab,Patiala,Kharif,Red,Bajra,6.6,28,46.9,41.8,30.5,6.56,391.9,31.8,15.76,1923.52,14906.27,Low,49.1,Medium
+Haryana,Panipat,Zaid,Sandy,Soybean,3.2,70,60.0,39.4,39.8,6.01,795.8,27.6,11.75,4619.6,21276.39,Medium,70.1,Low
+Madhya Pradesh,Ujjain,Kharif,Red,Maize,6.9,59,90.9,56.3,50.6,5.87,989.9,26.4,26.61,2255.54,19485.45,Medium,72.4,Low
+Madhya Pradesh,Ujjain,Zaid,Alluvial,Bajra,5.1,33,71.0,48.3,30.7,7.28,420.3,23.5,12.95,2017.52,10962.36,Low,54.2,Medium
+Madhya Pradesh,Bhopal,Kharif,Red,Bajra,18.3,22,71.6,16.2,33.4,7.8,405.0,27.4,16.24,1981.31,10662.24,Low,82.5,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,6.3,100,130.0,53.4,83.9,6.81,1178.4,27.2,490.69,304.13,49946.8,High,66.9,Low
+Haryana,Karnal,Rabi,Loamy,Mustard,17.3,20,80.6,38.7,28.5,7.42,368.6,14.3,12.09,5251.51,16845.27,Low,43.6,Medium
+Punjab,Patiala,Rabi,Loamy,Wheat,9.5,54,119.2,63.4,35.2,6.67,437.8,23.4,22.04,2089.15,19132.17,Medium,78.9,Low
+Punjab,Amritsar,Zaid,Clay,Sugarcane,15.2,100,156.7,55.4,99.2,6.61,1621.3,30.8,459.88,300.76,40293.55,High,69.6,Low
+Maharashtra,Nagpur,Kharif,Red,Cotton,3.1,19,92.8,42.3,42.5,7.6,833.9,31.3,10.78,6689.56,31830.34,Medium,65.5,Medium
+Madhya Pradesh,Bhopal,Kharif,Loamy,Groundnut,1.3,57,27.5,53.6,52.2,7.46,919.8,30.7,15.0,5122.0,22070.19,Medium,56.5,Low
+Uttar Pradesh,Varanasi,Rabi,Sandy,Rice,7.5,81,120.1,62.0,44.9,5.2,1575.8,29.6,27.14,2145.89,25294.47,High,82.6,Low
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Sugarcane,1.0,78,132.5,70.9,106.3,6.76,1630.2,27.8,477.22,319.67,44425.0,High,76.1,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Sugarcane,4.9,96,150.0,67.7,76.1,6.96,1035.7,33.3,479.0,316.47,42306.1,High,65.6,Low
+Punjab,Amritsar,Zaid,Black,Sugarcane,14.6,82,125.1,66.3,76.5,5.96,1559.7,31.7,492.02,300.1,46676.14,High,63.6,Low
+Punjab,Ludhiana,Rabi,Loamy,Mustard,9.8,48,50.3,28.2,20.6,6.92,404.6,22.5,11.84,5544.65,16994.71,Low,54.6,Low
+Haryana,Karnal,Zaid,Sandy,Groundnut,5.6,27,28.4,43.9,45.9,6.55,857.6,24.4,14.93,5383.78,26325.52,Medium,47.5,Medium
+Uttar Pradesh,Meerut,Zaid,Black,Sugarcane,1.6,82,153.2,62.2,94.2,6.12,1598.1,30.9,447.62,318.42,49713.22,High,69.7,Low
+Punjab,Patiala,Zaid,Clay,Maize,14.7,67,106.4,51.8,35.7,5.86,921.2,26.4,23.54,2011.17,22946.14,Medium,72.3,Low
+Punjab,Amritsar,Rabi,Loamy,Gram,9.9,50,32.1,59.9,26.1,6.99,442.1,13.5,11.16,5464.95,15847.83,Low,65.4,Low
+Punjab,Amritsar,Kharif,Red,Bajra,14.9,20,53.4,28.5,39.1,6.52,762.6,36.6,14.17,2031.35,10303.56,Low,60.9,Medium
+Maharashtra,Pune,Kharif,Sandy,Gram,15.0,5,23.1,40.2,20.8,6.48,357.6,19.1,9.83,5147.02,16000.41,Low,61.5,Medium
+Uttar Pradesh,Varanasi,Zaid,Black,Sugarcane,8.7,96,141.8,66.1,87.1,6.13,1286.8,34.3,465.25,335.2,45320.14,High,68.0,Low
+Punjab,Ludhiana,Kharif,Loamy,Sugarcane,7.5,64,141.8,89.5,65.1,6.76,1269.4,35.5,429.95,333.85,45525.58,High,67.4,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Groundnut,7.3,56,35.1,40.7,52.5,6.19,911.1,26.1,14.87,5687.31,23890.44,Medium,58.0,Low
+Haryana,Karnal,Kharif,Alluvial,Sugarcane,9.6,75,141.6,49.7,99.1,7.15,1521.0,37.1,479.89,270.15,41257.98,High,70.0,Low
+Madhya Pradesh,Ujjain,Rabi,Loamy,Rice,9.8,69,122.1,57.8,43.2,6.8,1106.4,32.1,25.79,2187.65,23955.09,High,75.5,Low
+Maharashtra,Pune,Rabi,Clay,Mustard,3.3,41,81.2,42.6,18.3,6.59,308.8,12.6,10.38,5450.77,14129.22,Low,54.8,Low
+Maharashtra,Nagpur,Rabi,Loamy,Mustard,3.6,39,84.3,34.6,29.6,6.32,398.6,17.1,12.05,5570.58,15680.53,Low,59.2,Low
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Gram,9.1,28,38.9,35.9,26.3,7.67,649.4,23.7,11.59,5454.13,17813.68,Low,64.2,Low
+Maharashtra,Nashik,Rabi,Clay,Rice,7.1,84,103.4,48.1,53.5,6.42,1580.6,29.9,28.52,2278.49,29871.36,High,85.2,Low
+Punjab,Ludhiana,Rabi,Black,Maize,16.1,44,120.8,40.3,54.2,6.28,831.0,30.6,22.81,1921.31,18108.33,Medium,77.6,Low
+Punjab,Patiala,Zaid,Red,Groundnut,16.3,37,25.3,66.5,43.0,6.64,705.3,29.2,15.33,5662.83,25316.19,Medium,51.4,Low
+Maharashtra,Nashik,Rabi,Sandy,Mustard,12.0,17,75.0,40.1,27.3,6.23,700.5,19.5,12.27,5683.75,16902.64,Low,66.6,Medium
+Maharashtra,Pune,Zaid,Sandy,Maize,8.7,40,75.8,54.2,55.2,5.38,802.2,31.0,20.6,1841.0,21614.4,Medium,71.1,Low
+Madhya Pradesh,Indore,Zaid,Clay,Maize,16.9,63,127.3,49.8,49.8,6.89,850.2,32.5,23.2,1912.54,20604.87,Medium,83.5,Low
+Uttar Pradesh,Lucknow,Rabi,Sandy,Mustard,8.7,55,67.1,33.0,37.1,6.35,591.3,24.7,11.4,5228.92,15707.34,Low,57.8,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Maize,16.8,81,86.6,53.1,31.5,5.96,1265.0,29.0,23.2,1816.77,22941.36,Medium,78.1,Low
+Punjab,Ludhiana,Rabi,Alluvial,Mustard,13.3,48,67.6,49.6,25.3,7.08,554.8,18.2,12.3,5258.02,13084.09,Low,48.4,Low
+Uttar Pradesh,Meerut,Kharif,Black,Bajra,17.8,25,62.5,17.5,31.6,7.68,383.6,27.2,15.89,2201.9,13845.57,Low,56.4,Low
+Uttar Pradesh,Lucknow,Zaid,Loamy,Groundnut,2.3,43,29.7,62.9,53.1,5.74,723.1,29.2,15.2,6083.01,22985.64,Medium,68.7,Low
+Punjab,Amritsar,Kharif,Alluvial,Maize,16.7,67,115.5,56.0,47.2,6.56,979.9,27.0,26.01,1899.44,23184.74,Medium,70.2,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Rice,19.9,85,115.4,39.7,43.3,6.31,1055.5,25.4,30.05,1844.58,28565.08,High,77.1,Low
+Haryana,Hisar,Rabi,Sandy,Mustard,15.0,27,73.5,27.9,33.2,6.27,635.7,19.2,11.92,5517.85,17798.84,Low,58.8,Low
+Punjab,Amritsar,Zaid,Clay,Gram,14.7,9,45.1,47.5,33.9,5.92,429.5,22.6,10.08,5015.01,18203.4,Low,62.8,Medium
+Uttar Pradesh,Varanasi,Kharif,Black,Soybean,1.3,69,58.8,59.8,39.2,7.07,1255.6,25.1,12.45,4021.75,21543.8,Medium,69.3,Low
+Uttar Pradesh,Lucknow,Zaid,Loamy,Groundnut,15.9,65,7.9,63.7,51.8,6.76,869.0,30.2,14.83,6057.63,23788.82,Medium,47.8,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Groundnut,6.4,22,20.5,54.6,56.4,6.05,653.6,26.3,15.62,5388.72,25693.5,Medium,72.9,Low
+Uttar Pradesh,Meerut,Zaid,Alluvial,Sugarcane,10.4,75,124.4,73.8,85.7,6.36,1443.1,29.4,444.71,317.59,40009.82,High,60.5,Low
+Haryana,Hisar,Zaid,Alluvial,Sugarcane,13.6,72,155.0,66.9,71.9,7.03,1257.8,31.5,479.19,291.64,46910.29,High,62.9,Low
+Maharashtra,Nashik,Rabi,Black,Mustard,6.6,16,55.3,37.1,26.0,7.43,597.0,25.5,10.83,5107.4,16402.65,Low,52.4,Medium
+Uttar Pradesh,Varanasi,Kharif,Loamy,Soybean,8.4,66,68.2,57.3,40.1,7.37,782.6,17.6,12.63,3873.64,21113.61,Medium,56.6,Low
+Maharashtra,Nagpur,Kharif,Red,Bajra,15.7,22,46.3,18.8,30.7,8.24,642.4,31.7,15.4,2196.05,11180.09,Low,55.9,Medium
+Uttar Pradesh,Lucknow,Rabi,Loamy,Gram,9.6,23,24.7,56.7,34.3,6.35,537.8,16.6,11.99,5437.42,18233.03,Low,56.0,Medium
+Punjab,Amritsar,Kharif,Alluvial,Maize,9.7,27,72.0,50.1,44.9,5.75,673.7,26.4,25.29,1810.96,18821.1,Medium,67.9,Low
+Maharashtra,Pune,Rabi,Alluvial,Mustard,10.6,53,75.6,37.6,18.8,6.52,510.8,12.9,10.86,5730.65,16563.38,Low,46.1,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,19.4,96,125.5,60.2,53.4,7.05,1594.6,27.6,475.01,345.39,52406.14,High,72.9,Low
+Punjab,Ludhiana,Rabi,Alluvial,Wheat,10.9,21,107.3,67.3,34.4,7.28,461.7,9.8,24.48,2356.39,21393.21,Medium,77.2,Low
+Maharashtra,Nagpur,Zaid,Red,Groundnut,3.5,64,15.0,55.5,53.3,6.4,788.3,27.5,15.97,5180.93,27271.98,Medium,53.1,Low
+Madhya Pradesh,Indore,Rabi,Alluvial,Wheat,10.9,33,107.1,61.3,28.5,6.5,657.1,11.5,23.08,2203.72,19372.25,Medium,87.2,Low
+Uttar Pradesh,Meerut,Rabi,Black,Wheat,7.2,36,116.8,53.1,44.2,6.8,535.8,17.8,24.3,2063.3,17189.93,Medium,83.0,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Maize,7.2,31,77.7,49.3,54.0,6.32,941.3,25.8,24.08,1757.6,21919.92,Medium,85.1,Low
+Haryana,Panipat,Kharif,Sandy,Bajra,6.1,42,62.8,31.9,28.0,7.14,568.5,33.0,15.17,2102.35,14466.36,Low,42.6,Low
+Madhya Pradesh,Bhopal,Kharif,Alluvial,Rice,2.3,67,102.6,60.1,48.1,6.24,1846.5,31.0,30.12,1933.17,28021.99,High,79.0,Low
+Punjab,Ludhiana,Rabi,Red,Maize,11.4,69,105.3,41.8,40.3,6.14,770.8,23.1,22.87,1888.8,19107.94,Medium,69.8,Low
+Punjab,Ludhiana,Kharif,Black,Soybean,5.5,38,50.7,67.0,31.9,7.38,1244.6,29.3,13.59,4108.72,23561.17,Medium,71.7,Low
+Madhya Pradesh,Ujjain,Zaid,Red,Groundnut,4.8,34,46.1,46.0,41.7,7.39,810.4,31.0,15.26,5763.85,22693.36,Medium,68.8,Low
+Maharashtra,Pune,Zaid,Loamy,Sugarcane,12.5,100,153.2,63.4,66.3,7.22,1392.7,31.3,477.56,295.47,50945.21,High,49.5,Low
+Punjab,Amritsar,Kharif,Sandy,Bajra,5.0,34,59.9,31.4,28.7,7.74,337.9,28.7,15.85,2350.41,12882.15,Low,53.0,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Groundnut,4.7,47,44.4,47.5,58.8,5.55,943.1,24.6,14.93,5984.43,23373.18,Medium,49.6,Low
+Maharashtra,Nashik,Rabi,Black,Gram,11.4,15,33.3,44.8,18.3,7.21,505.3,12.8,12.21,5213.27,15389.65,Low,63.6,Medium
+Maharashtra,Nagpur,Kharif,Clay,Rice,8.8,100,111.5,54.2,36.9,6.41,1871.9,30.2,29.73,1740.94,24905.49,High,80.5,Low
+Maharashtra,Pune,Zaid,Sandy,Groundnut,18.0,38,31.6,58.4,48.4,6.18,644.6,31.5,16.13,5138.64,26614.94,Medium,62.8,Low
+Punjab,Ludhiana,Zaid,Alluvial,Sugarcane,2.9,72,136.2,52.7,74.9,7.12,1526.3,24.7,463.44,321.08,42932.29,High,46.8,Low
+Punjab,Amritsar,Kharif,Loamy,Soybean,14.5,30,72.7,60.8,37.5,6.18,741.0,18.5,12.95,4479.21,20680.92,Medium,60.9,Low
+Maharashtra,Nashik,Kharif,Black,Soybean,4.8,30,53.8,49.7,51.2,6.22,745.6,23.3,12.48,4468.89,20850.02,Medium,59.0,Low
+Punjab,Ludhiana,Rabi,Red,Groundnut,9.1,35,38.4,55.6,50.2,6.83,552.8,27.7,14.13,5684.77,26289.42,Medium,60.7,Low
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Mustard,2.2,5,94.1,41.8,33.4,7.77,539.0,26.5,11.01,5407.33,16425.78,Low,48.1,Medium
+Maharashtra,Pune,Zaid,Sandy,Groundnut,8.8,34,26.8,51.2,47.1,6.35,654.2,33.5,15.27,5641.48,27471.82,Medium,68.7,Low
+Punjab,Ludhiana,Rabi,Clay,Wheat,17.8,49,129.7,53.5,20.5,7.42,312.4,21.3,21.22,2209.72,21097.72,Medium,70.5,Low
+Madhya Pradesh,Indore,Rabi,Black,Gram,18.1,35,26.9,43.5,26.7,6.4,570.2,9.2,11.76,5025.61,14803.58,Low,72.1,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Mustard,19.7,54,76.1,49.1,27.4,6.69,336.8,9.4,11.05,5387.0,16823.05,Low,66.6,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,16.0,17,82.2,32.3,33.9,7.26,220.9,8.7,11.98,5563.98,16950.58,Low,50.4,Medium
+Punjab,Amritsar,Zaid,Sandy,Groundnut,6.4,46,34.2,40.7,56.6,7.01,867.3,23.2,14.67,6045.94,23698.24,Medium,47.2,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Groundnut,18.8,29,32.9,40.3,47.8,6.76,947.1,25.1,15.13,5269.57,27805.97,Medium,73.5,Low
+Uttar Pradesh,Varanasi,Zaid,Loamy,Sugarcane,12.7,83,159.2,67.3,99.7,6.54,1376.7,26.8,483.31,323.28,50871.56,High,82.7,Low
+Uttar Pradesh,Varanasi,Zaid,Sandy,Cotton,14.6,53,112.3,40.2,43.1,6.38,753.9,33.8,9.27,6707.65,27718.79,Medium,72.5,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,14.2,46,27.4,51.9,48.8,6.29,409.1,29.0,14.65,5062.52,27445.32,Medium,55.5,Low
+Punjab,Amritsar,Zaid,Loamy,Groundnut,2.5,37,49.5,59.5,52.5,6.98,775.5,29.4,15.18,5913.01,25711.27,Medium,42.8,Low
+Maharashtra,Nagpur,Zaid,Red,Rice,7.2,97,137.8,39.8,47.0,6.07,1895.0,18.6,26.62,1751.79,25795.85,High,74.7,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,4.9,78,135.9,38.7,47.1,5.49,1596.4,29.5,30.29,2081.77,23431.42,High,79.9,Low
+Maharashtra,Nagpur,Zaid,Red,Mustard,9.3,44,88.4,38.0,21.4,6.38,430.3,21.6,9.57,5348.19,14103.66,Low,51.0,Low
+Madhya Pradesh,Ujjain,Rabi,Alluvial,Gram,5.9,17,27.0,53.3,21.3,5.89,340.9,29.4,11.57,5323.18,14592.07,Low,60.9,Medium
+Maharashtra,Pune,Zaid,Loamy,Groundnut,8.6,47,29.3,38.8,43.0,6.24,785.9,28.7,14.98,5191.78,27876.57,Medium,59.2,Low
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,10.1,20,24.3,32.4,42.3,7.48,525.3,24.5,13.67,5933.86,24549.93,Medium,62.3,Medium
+Haryana,Karnal,Zaid,Black,Sugarcane,7.5,95,132.9,68.4,76.8,7.3,1411.6,25.4,494.33,313.08,44864.48,High,76.6,Low
+Uttar Pradesh,Meerut,Kharif,Red,Bajra,5.8,17,48.6,41.4,14.5,6.95,770.7,24.5,14.34,2190.47,14700.42,Low,52.6,Medium
+Maharashtra,Pune,Kharif,Loamy,Sugarcane,13.3,47,149.6,58.4,85.9,7.12,1720.7,30.2,461.73,342.16,52400.52,High,65.2,Low
+Uttar Pradesh,Meerut,Zaid,Clay,Cotton,1.6,24,80.2,41.6,48.7,6.82,471.0,35.3,8.34,6620.18,31436.4,Medium,62.8,Medium
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Wheat,6.3,60,104.0,51.1,22.0,7.21,565.5,16.7,23.84,2290.77,21462.09,Medium,76.3,Low
+Uttar Pradesh,Lucknow,Zaid,Clay,Rice,3.8,67,129.0,56.7,42.4,5.83,1105.4,32.4,27.1,2254.0,26630.2,High,88.1,Low
+Uttar Pradesh,Meerut,Kharif,Clay,Rice,1.7,97,102.2,48.3,47.6,7.09,1767.9,21.8,29.54,1939.7,29882.64,High,92.3,Low
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Wheat,18.9,10,106.2,66.5,50.5,6.65,507.5,13.5,22.97,2250.7,18603.82,Medium,93.2,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Bajra,14.6,46,29.5,21.1,29.2,7.65,552.1,29.1,14.87,2265.06,11381.82,Low,51.3,Low
+Madhya Pradesh,Ujjain,Kharif,Black,Bajra,17.5,5,55.7,23.4,28.5,7.6,439.7,37.8,14.43,2121.99,10372.66,Low,67.1,Medium
+Maharashtra,Pune,Rabi,Clay,Groundnut,6.1,42,28.1,44.6,55.4,6.44,975.8,28.0,13.21,6060.15,23613.19,Medium,67.2,Low
+Madhya Pradesh,Bhopal,Zaid,Alluvial,Sugarcane,15.7,91,133.5,62.7,87.5,7.15,1741.5,27.3,474.36,315.41,41774.7,High,56.1,Low
+Maharashtra,Nagpur,Rabi,Alluvial,Mustard,9.1,25,76.7,42.5,18.3,7.33,446.2,13.1,12.27,5849.28,13933.86,Low,47.8,Medium
+Punjab,Amritsar,Zaid,Alluvial,Mustard,8.0,33,76.2,31.8,40.8,6.56,233.5,11.6,10.51,5368.54,17173.93,Low,50.8,Medium
+Madhya Pradesh,Ujjain,Rabi,Sandy,Groundnut,6.1,36,16.0,46.8,48.9,7.15,928.1,30.4,14.77,5608.78,27000.63,Medium,66.2,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,3.4,100,113.2,68.7,84.7,6.25,1222.4,26.4,501.67,307.52,54878.19,High,50.0,Low
+Madhya Pradesh,Bhopal,Rabi,Clay,Maize,2.1,54,89.2,41.3,32.8,6.25,1268.1,29.1,23.29,1629.19,22717.81,Medium,69.2,Medium
+Madhya Pradesh,Ujjain,Kharif,Clay,Rice,19.5,62,125.6,43.0,41.8,5.98,1137.1,32.0,29.02,2022.13,22262.62,High,89.7,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Sugarcane,18.2,96,143.9,58.8,70.6,5.89,1580.6,26.2,463.42,326.3,48927.67,High,66.1,Low
+Uttar Pradesh,Meerut,Rabi,Alluvial,Rice,19.2,89,96.4,52.6,33.1,6.83,1227.5,21.0,28.63,2046.81,23465.41,High,75.4,Low
+Uttar Pradesh,Meerut,Zaid,Red,Groundnut,7.4,42,35.9,58.1,52.0,6.64,818.7,29.4,15.37,5093.22,23061.26,Medium,69.5,Low
+Haryana,Hisar,Rabi,Clay,Groundnut,18.4,26,19.3,63.3,44.4,6.39,1008.5,22.5,12.66,4776.29,27621.5,Medium,65.8,Medium
+Punjab,Amritsar,Zaid,Clay,Sugarcane,14.9,82,133.1,46.8,70.4,7.72,1182.0,27.6,426.23,306.61,50540.46,High,86.4,Low
+Haryana,Panipat,Rabi,Alluvial,Gram,18.5,16,41.9,51.5,21.6,7.27,731.5,21.2,12.36,4981.53,17797.73,Low,57.2,Medium
+Uttar Pradesh,Lucknow,Kharif,Red,Wheat,18.2,45,114.0,54.5,42.3,6.48,436.2,15.4,20.76,2137.17,18123.19,Medium,83.9,Low
+Madhya Pradesh,Ujjain,Zaid,Red,Groundnut,13.7,42,37.4,44.2,42.9,6.91,722.6,26.9,15.67,4977.57,25669.45,Medium,66.4,Low
+Punjab,Patiala,Zaid,Red,Groundnut,19.2,37,34.1,63.7,53.8,6.64,645.8,26.8,15.72,6005.14,25465.65,Medium,61.2,Low
+Punjab,Amritsar,Rabi,Sandy,Gram,2.1,7,25.9,39.6,26.1,6.2,519.7,19.1,10.77,5508.7,15874.84,Low,58.1,Medium
+Maharashtra,Pune,Kharif,Loamy,Maize,5.1,56,106.8,42.5,37.2,6.7,603.3,21.4,27.19,1979.32,22735.66,Medium,92.9,Low
+Uttar Pradesh,Meerut,Kharif,Alluvial,Maize,11.9,35,100.3,41.2,56.3,6.38,638.4,32.2,26.43,1978.65,21697.6,Medium,92.0,Low
+Uttar Pradesh,Meerut,Zaid,Red,Groundnut,7.1,41,33.2,57.6,53.5,6.51,795.4,27.4,16.38,5377.74,23119.23,Medium,60.7,Low
+Uttar Pradesh,Meerut,Kharif,Loamy,Cotton,1.0,38,95.0,31.8,29.3,6.99,988.0,32.0,11.02,7061.71,29700.29,Medium,80.8,Low
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Wheat,10.6,37,99.4,56.2,38.6,7.5,578.0,16.9,23.94,2358.54,17418.0,Medium,80.7,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Bajra,12.6,43,68.8,19.0,37.4,7.26,122.1,32.1,14.43,1914.63,11472.73,Low,67.7,Medium
+Haryana,Karnal,Kharif,Clay,Rice,6.3,100,118.5,46.0,52.6,6.11,1884.3,26.4,30.08,2010.73,22288.93,High,82.3,Low
+Haryana,Karnal,Zaid,Red,Groundnut,17.2,50,33.5,57.8,45.3,6.6,671.3,29.3,15.1,5127.64,27906.17,Medium,71.9,Low
+Madhya Pradesh,Indore,Rabi,Loamy,Gram,18.2,38,17.8,40.8,24.0,6.97,557.5,14.5,11.51,5301.39,17745.37,Low,65.6,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Sugarcane,11.3,86,146.7,63.3,102.5,6.73,1386.5,35.8,471.44,334.57,54310.7,High,69.6,Low
+Haryana,Panipat,Kharif,Loamy,Groundnut,16.3,36,37.0,58.0,55.2,7.04,718.4,32.5,15.34,5238.14,25627.11,Medium,49.9,Low
+Haryana,Hisar,Kharif,Black,Groundnut,3.6,45,23.2,44.0,47.8,6.59,944.8,28.2,15.1,5929.85,27729.76,Medium,50.9,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Bajra,3.8,21,41.6,30.3,30.4,6.59,404.5,35.7,16.69,2217.9,11828.17,Low,53.7,Medium
+Punjab,Amritsar,Kharif,Sandy,Bajra,19.0,28,60.0,20.3,28.8,8.08,419.3,34.0,14.96,2214.04,12496.9,Low,57.3,Low
+Uttar Pradesh,Varanasi,Rabi,Clay,Cotton,7.8,30,83.4,51.2,47.9,6.84,1131.6,25.5,9.4,6076.4,33174.33,Medium,73.5,Medium
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,4.5,23,86.2,34.3,31.8,6.21,598.4,14.4,12.61,5454.55,13907.96,Low,67.5,Low
+Punjab,Patiala,Zaid,Red,Groundnut,5.7,59,51.7,42.7,43.5,6.5,809.0,29.4,16.07,5035.21,26117.55,Medium,57.1,Low
+Punjab,Amritsar,Rabi,Sandy,Wheat,18.7,71,119.6,64.2,32.6,6.95,360.7,20.2,21.62,2144.8,21341.76,Medium,76.1,Low
+Haryana,Panipat,Zaid,Black,Maize,14.1,55,89.3,49.9,45.5,6.44,897.1,21.8,22.76,2203.54,21775.8,Medium,77.8,Low
+Uttar Pradesh,Lucknow,Zaid,Loamy,Groundnut,7.2,5,18.0,50.9,55.4,6.2,1005.5,23.3,15.26,5265.21,26750.56,Medium,60.7,Medium
+Maharashtra,Nagpur,Zaid,Clay,Rice,10.4,74,110.6,48.1,45.4,5.74,2020.0,29.4,26.8,1851.49,24988.23,High,75.2,Low
+Madhya Pradesh,Bhopal,Zaid,Clay,Cotton,18.3,50,111.4,47.3,63.7,7.32,1085.0,32.3,8.72,5747.95,26162.82,Medium,67.0,Low
+Uttar Pradesh,Lucknow,Rabi,Loamy,Wheat,11.5,52,105.9,59.6,50.0,6.7,493.1,11.8,23.36,2413.8,19321.73,Medium,84.5,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Rice,19.3,58,125.8,58.9,39.0,6.2,1345.0,28.9,24.81,2401.61,23133.08,High,88.7,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,7.6,100,166.1,66.5,82.7,5.72,1706.5,34.1,429.34,297.23,53503.27,High,51.0,Low
+Haryana,Panipat,Rabi,Clay,Cotton,2.3,33,83.0,41.3,37.2,6.74,1219.5,30.8,8.69,5608.65,26977.76,Medium,63.9,Medium
+Punjab,Patiala,Zaid,Red,Groundnut,13.5,50,25.2,53.2,47.2,6.29,844.1,33.1,15.4,5866.32,23979.69,Medium,63.2,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Groundnut,12.3,43,37.8,49.4,45.2,6.13,664.6,22.1,14.71,5212.78,22538.83,Medium,53.3,Low
+Madhya Pradesh,Indore,Rabi,Clay,Mustard,8.7,63,71.0,37.3,31.1,6.91,564.5,22.9,11.19,5469.22,17795.72,Low,65.6,Low
+Madhya Pradesh,Ujjain,Zaid,Sandy,Groundnut,7.7,58,23.0,60.0,41.6,6.55,739.1,28.6,15.1,5864.86,23090.13,Medium,61.7,Low
+Punjab,Patiala,Rabi,Alluvial,Soybean,10.2,53,51.6,53.4,40.6,6.06,778.1,23.0,11.13,4110.18,21558.52,Medium,56.6,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Sugarcane,9.1,100,132.9,50.8,73.2,6.05,1248.8,29.6,491.71,295.64,48481.49,High,61.5,Low
+Maharashtra,Nashik,Kharif,Red,Groundnut,12.3,55,37.6,47.4,40.3,6.41,1060.5,30.0,14.71,5478.24,24360.83,Medium,53.0,Low
+Uttar Pradesh,Meerut,Rabi,Clay,Cotton,6.7,39,121.5,48.3,33.4,6.47,731.2,31.2,8.95,5984.3,32719.52,Medium,68.6,Low
+Haryana,Panipat,Rabi,Red,Sugarcane,1.3,100,156.8,48.5,64.1,6.0,1596.8,28.9,419.45,335.69,54006.36,High,57.5,Low
+Punjab,Ludhiana,Kharif,Black,Mustard,9.5,38,87.7,41.0,37.6,6.41,566.9,15.4,10.07,5552.8,13050.8,Low,53.7,Medium
+Uttar Pradesh,Meerut,Kharif,Alluvial,Maize,11.8,73,121.2,53.5,38.8,6.77,1093.8,25.7,26.36,2082.39,23783.05,Medium,84.8,Low
+Madhya Pradesh,Bhopal,Zaid,Alluvial,Sugarcane,6.0,81,135.6,58.2,70.3,6.38,1428.2,26.6,467.56,308.58,52869.63,High,71.0,Low
+Haryana,Hisar,Kharif,Loamy,Maize,6.7,70,104.7,49.8,38.7,6.12,450.9,30.1,24.71,1834.23,20288.57,Medium,86.6,Low
+Madhya Pradesh,Indore,Zaid,Black,Sugarcane,9.3,86,136.3,52.3,70.4,6.88,1059.0,21.3,450.09,300.39,46726.84,High,59.6,Low
+Haryana,Karnal,Kharif,Black,Sugarcane,12.8,100,132.2,64.1,101.9,6.95,1251.6,27.0,466.78,304.33,53992.22,High,56.9,Low
+Punjab,Amritsar,Kharif,Loamy,Groundnut,12.6,40,31.0,40.3,45.9,7.04,842.2,31.4,15.25,4913.8,27507.4,Medium,60.7,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Mustard,16.4,25,85.2,38.6,27.9,6.9,745.4,22.2,11.08,5884.37,16880.94,Low,53.9,Medium
+Punjab,Amritsar,Zaid,Clay,Bajra,7.1,24,67.4,39.4,12.3,6.68,550.5,25.3,12.8,2111.57,10320.45,Low,61.0,Medium
+Madhya Pradesh,Ujjain,Rabi,Red,Groundnut,15.4,56,25.4,60.7,51.9,6.49,930.3,25.8,14.44,5788.66,22251.78,Medium,61.3,Low
+Uttar Pradesh,Varanasi,Rabi,Sandy,Mustard,1.9,65,51.3,50.9,29.5,7.57,378.9,17.7,11.33,5537.81,16676.09,Low,60.1,Low
+Punjab,Ludhiana,Kharif,Black,Groundnut,15.2,35,20.3,39.3,58.6,6.29,814.9,30.5,13.49,6050.6,22009.05,Medium,73.6,Low
+Madhya Pradesh,Indore,Rabi,Black,Gram,17.7,36,30.9,40.8,13.6,6.71,420.1,21.2,11.33,4986.34,15566.11,Low,60.1,Low
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,4.0,69,134.6,40.2,44.7,5.76,1898.3,22.8,28.52,1890.45,22222.22,High,87.9,Low
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,3.2,71,151.5,54.7,48.1,6.31,1215.8,31.1,28.27,1909.27,24373.27,High,82.4,Low
+Maharashtra,Pune,Rabi,Alluvial,Mustard,10.8,20,76.0,33.4,17.4,5.64,243.0,19.7,11.82,5451.58,13471.81,Low,69.3,Medium
+Haryana,Karnal,Zaid,Red,Groundnut,14.5,10,27.0,54.9,39.9,6.97,823.4,23.9,15.54,5306.47,22005.76,Medium,61.4,Medium
+Madhya Pradesh,Bhopal,Zaid,Loamy,Sugarcane,16.8,80,144.1,56.6,77.0,6.8,1144.5,27.7,484.56,320.83,42172.46,High,77.9,Low
+Punjab,Ludhiana,Kharif,Black,Cotton,1.9,50,93.9,48.3,51.0,7.83,533.1,26.7,10.47,6699.05,30346.55,Medium,62.1,Low
+Madhya Pradesh,Indore,Kharif,Clay,Rice,3.1,72,137.3,52.0,39.3,5.33,1127.7,27.2,29.63,2125.52,27054.47,High,89.5,Low
+Uttar Pradesh,Lucknow,Kharif,Red,Cotton,11.4,59,107.7,52.3,44.0,7.05,781.0,31.9,11.0,5996.71,27044.25,Medium,84.0,Low
+Haryana,Panipat,Rabi,Sandy,Mustard,5.1,5,77.2,35.5,18.0,6.94,523.6,12.7,11.39,5530.98,13371.93,Low,59.7,Medium
+Haryana,Panipat,Kharif,Sandy,Groundnut,14.6,52,46.8,56.4,59.8,6.83,585.6,32.2,14.61,5619.95,24958.05,Medium,62.0,Low
+Uttar Pradesh,Varanasi,Kharif,Black,Cotton,17.3,47,112.6,34.5,50.6,7.8,883.0,31.3,10.52,6441.04,29477.31,Medium,68.8,Low
+Punjab,Patiala,Kharif,Clay,Rice,8.0,99,113.0,47.9,37.1,6.1,1699.4,33.6,30.36,2137.14,27026.2,High,90.7,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Groundnut,12.9,40,16.6,56.2,46.7,6.01,650.4,28.2,15.36,5662.32,27103.65,Medium,51.4,Low
+Uttar Pradesh,Meerut,Kharif,Red,Cotton,16.3,54,69.8,37.9,63.7,6.37,1067.0,20.0,11.05,6152.63,27844.33,Medium,71.3,Low
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Rice,16.9,76,141.7,51.5,46.3,5.99,1882.5,27.3,25.99,1868.19,26585.08,High,80.3,Low
+Haryana,Panipat,Rabi,Alluvial,Mustard,16.5,10,78.6,45.2,18.2,6.66,613.7,16.5,11.82,4964.36,14724.57,Low,47.7,Medium
+Punjab,Patiala,Rabi,Sandy,Mustard,18.3,44,85.8,36.7,37.6,6.26,590.1,12.9,11.9,6020.91,15654.1,Low,39.3,Low
+Haryana,Hisar,Kharif,Clay,Rice,9.1,90,106.6,54.1,55.1,6.73,1690.0,29.2,29.03,2181.46,24407.07,High,86.3,Low
+Haryana,Karnal,Rabi,Red,Mustard,12.3,31,98.3,54.2,25.3,5.89,487.7,13.2,11.17,5664.09,14517.87,Low,51.0,Medium
+Uttar Pradesh,Varanasi,Rabi,Red,Mustard,5.2,21,87.3,42.1,28.9,6.3,476.3,10.3,10.32,5394.8,14245.68,Low,60.6,Medium
+Punjab,Ludhiana,Rabi,Clay,Cotton,18.5,51,99.6,29.0,47.1,6.41,721.5,31.5,9.5,6065.91,28116.48,Medium,79.3,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Soybean,10.3,37,25.9,60.5,36.0,6.88,849.5,21.8,13.26,4252.79,23243.07,Medium,62.2,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Sugarcane,14.3,60,153.2,76.4,87.7,6.82,1154.4,30.9,470.24,301.57,47817.48,High,65.9,Low
+Madhya Pradesh,Indore,Kharif,Loamy,Groundnut,11.2,55,37.1,50.3,40.9,6.59,559.1,24.0,15.52,5412.42,27559.49,Medium,58.8,Low
+Madhya Pradesh,Indore,Zaid,Alluvial,Sugarcane,7.8,72,149.9,65.2,55.3,7.46,1366.4,37.6,465.36,291.21,43854.29,High,82.5,Low
+Maharashtra,Nagpur,Rabi,Loamy,Soybean,2.0,33,25.3,47.5,38.8,6.99,1118.1,27.7,12.25,3895.94,21981.43,Medium,62.3,Low
+Uttar Pradesh,Meerut,Zaid,Red,Gram,6.7,41,44.7,50.1,25.7,7.46,643.3,20.2,9.95,5690.77,18212.94,Low,65.9,Low
+Punjab,Ludhiana,Kharif,Black,Bajra,14.9,5,54.6,38.6,27.0,7.73,276.3,23.9,15.61,2113.71,14627.2,Low,60.3,Medium
+Haryana,Hisar,Kharif,Loamy,Soybean,19.7,25,35.5,44.1,37.7,7.07,968.4,30.5,12.97,4388.76,18068.14,Medium,61.2,Low
+Punjab,Patiala,Zaid,Sandy,Mustard,13.0,33,77.3,28.4,34.4,6.78,574.5,17.6,10.59,5360.87,16609.56,Low,58.2,Low
+Uttar Pradesh,Lucknow,Zaid,Black,Sugarcane,3.3,89,128.6,78.4,90.0,5.77,1536.2,32.9,477.83,322.04,51964.02,High,68.7,Low
+Madhya Pradesh,Ujjain,Kharif,Alluvial,Maize,17.7,47,100.3,37.1,52.2,6.27,1113.4,21.0,25.15,2013.46,19253.91,Medium,75.6,Low
+Punjab,Patiala,Zaid,Red,Groundnut,2.7,60,29.6,48.9,43.0,6.78,696.0,27.8,15.02,6024.09,25960.15,Medium,64.1,Low
+Madhya Pradesh,Indore,Rabi,Loamy,Wheat,17.2,34,120.6,68.6,36.2,6.62,470.1,19.4,23.73,2143.87,18770.96,Medium,90.8,Low
+Haryana,Hisar,Zaid,Sandy,Groundnut,16.7,33,18.0,45.6,57.0,6.22,577.5,25.3,16.15,5136.54,23623.53,Medium,47.3,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,18.6,22,16.1,49.4,66.7,6.54,414.1,22.2,14.73,5338.22,24726.07,Medium,59.1,Medium
+Uttar Pradesh,Lucknow,Kharif,Clay,Soybean,11.2,63,62.9,58.0,60.8,7.31,1316.4,28.8,12.32,4458.34,18210.69,Medium,51.4,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Groundnut,10.6,44,41.7,39.1,43.7,6.23,627.6,26.4,15.54,6174.55,24094.64,Medium,48.6,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,7.6,88,169.3,49.9,96.3,5.96,1074.0,23.7,473.17,287.01,47421.22,High,74.4,Low
+Madhya Pradesh,Ujjain,Kharif,Red,Cotton,6.1,56,102.0,25.8,33.8,8.06,717.9,37.5,10.57,6115.88,28507.97,Medium,69.3,Low
+Maharashtra,Nashik,Kharif,Black,Bajra,17.0,59,64.3,37.4,32.5,6.49,444.6,27.7,14.84,1960.28,10060.0,Low,54.4,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Sugarcane,18.8,92,145.5,74.3,87.1,6.02,1748.0,32.6,480.28,301.43,41436.7,High,68.3,Low
+Madhya Pradesh,Indore,Rabi,Alluvial,Gram,2.7,43,43.6,44.4,17.4,5.99,565.6,16.0,11.87,5358.57,18610.25,Low,59.7,Low
+Uttar Pradesh,Varanasi,Kharif,Loamy,Rice,11.8,39,95.4,52.6,49.3,7.11,1346.7,33.2,26.17,1899.64,25178.49,High,85.1,Low
+Madhya Pradesh,Bhopal,Kharif,Alluvial,Maize,12.1,62,98.6,41.5,31.1,5.92,899.3,31.9,25.86,1994.34,22321.2,Medium,75.6,Low
+Punjab,Patiala,Rabi,Black,Soybean,12.1,41,40.3,41.0,44.8,6.97,816.9,33.7,11.98,4443.14,23309.38,Medium,63.7,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Soybean,20.0,69,50.9,53.7,30.4,6.66,1224.0,20.2,12.69,3867.0,18261.67,Medium,79.0,Low
+Maharashtra,Nagpur,Zaid,Clay,Gram,18.7,34,5.0,51.8,21.4,6.53,577.4,14.9,10.28,4790.21,18827.32,Low,52.6,Medium
+Haryana,Karnal,Kharif,Clay,Rice,4.8,91,123.9,49.7,42.3,7.18,1102.0,26.8,29.92,2286.34,26749.95,High,69.3,Low
+Madhya Pradesh,Indore,Zaid,Alluvial,Sugarcane,3.3,100,130.7,81.6,86.1,7.01,1406.6,34.1,454.13,320.44,50901.34,High,67.3,Low
+Maharashtra,Nashik,Zaid,Sandy,Groundnut,18.9,19,28.6,43.5,55.6,7.03,865.3,26.0,15.41,6099.41,22494.89,Medium,62.5,Medium
+Punjab,Patiala,Rabi,Alluvial,Mustard,11.6,22,79.6,49.4,38.5,6.25,459.2,14.8,12.17,5270.36,14608.26,Low,67.3,Low
+Uttar Pradesh,Meerut,Zaid,Sandy,Groundnut,9.2,32,25.6,43.3,56.0,6.17,849.4,33.6,15.02,5745.92,27808.88,Medium,52.1,Low
+Haryana,Hisar,Kharif,Black,Cotton,10.4,32,82.6,37.4,52.7,6.57,796.1,23.5,10.92,7030.68,26255.4,Medium,68.9,Low
+Punjab,Patiala,Kharif,Loamy,Sugarcane,7.6,83,112.2,44.3,58.3,6.12,1431.9,30.3,459.1,288.07,51184.56,High,66.8,Low
+Haryana,Karnal,Zaid,Black,Sugarcane,2.3,93,157.2,78.2,88.7,6.31,1818.3,33.6,475.43,289.16,53129.79,High,58.5,Low
+Maharashtra,Pune,Zaid,Black,Sugarcane,3.0,63,124.2,76.3,104.8,6.38,1687.3,36.4,513.78,301.57,44767.75,High,83.0,Low
+Punjab,Patiala,Kharif,Clay,Wheat,8.5,67,124.6,60.5,47.0,6.69,828.0,21.8,19.58,2483.64,18651.99,Medium,83.9,Low
+Madhya Pradesh,Bhopal,Rabi,Loamy,Wheat,12.0,40,117.8,70.5,26.3,6.7,556.3,23.3,24.02,2105.76,20433.52,Medium,73.6,Low
+Maharashtra,Nagpur,Kharif,Black,Soybean,16.0,39,54.6,46.6,38.6,7.33,715.5,29.9,12.86,4294.2,19173.39,Medium,54.6,Low
+Maharashtra,Nashik,Zaid,Alluvial,Sugarcane,5.3,84,149.4,70.2,91.3,6.05,1415.4,27.0,479.25,341.28,54894.45,High,66.9,Low
+Haryana,Karnal,Rabi,Black,Gram,2.6,28,14.6,60.7,41.2,6.74,296.8,19.9,11.6,4628.49,14815.78,Low,63.4,Low
+Madhya Pradesh,Bhopal,Zaid,Sandy,Groundnut,2.5,39,37.4,46.1,60.2,6.54,869.2,33.0,15.43,5970.34,26546.02,Medium,59.2,Low
+Haryana,Hisar,Zaid,Clay,Mustard,19.6,53,67.0,38.6,42.8,7.24,386.5,12.9,10.0,5287.26,13596.9,Low,52.2,Low
+Madhya Pradesh,Ujjain,Zaid,Loamy,Groundnut,3.6,41,30.2,41.5,59.8,6.73,392.2,21.8,15.5,5930.9,27927.06,Medium,52.6,Medium
+Uttar Pradesh,Meerut,Kharif,Loamy,Soybean,7.4,52,51.2,66.4,45.6,6.6,707.1,25.8,12.79,3867.97,22014.78,Medium,60.2,Low
+Haryana,Karnal,Kharif,Loamy,Maize,8.4,80,92.4,55.0,43.2,6.54,648.0,22.0,24.51,1886.7,23486.34,Medium,79.7,Low
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,15.0,100,118.5,59.2,44.7,6.79,1622.8,32.1,29.2,2269.38,27558.71,High,70.3,Low
+Madhya Pradesh,Indore,Zaid,Red,Gram,2.3,9,19.3,50.8,37.0,7.31,458.3,18.6,10.0,5634.2,17491.43,Low,44.7,Medium
+Maharashtra,Nagpur,Kharif,Black,Soybean,5.4,43,38.7,67.5,37.2,6.74,1088.4,22.5,13.62,3922.14,20021.76,Medium,63.4,Low
+Punjab,Ludhiana,Kharif,Sandy,Bajra,7.3,5,43.7,36.1,28.0,7.26,696.2,31.8,15.26,1868.56,11463.59,Low,66.0,Medium
+Uttar Pradesh,Meerut,Rabi,Loamy,Wheat,7.8,46,106.8,61.9,47.2,6.16,732.5,16.5,23.35,2152.29,17369.63,Medium,85.1,Low
+Maharashtra,Pune,Rabi,Alluvial,Gram,14.4,30,29.9,45.4,25.3,6.15,254.6,24.1,12.28,4955.74,16226.6,Low,57.8,Medium
+Maharashtra,Nagpur,Kharif,Black,Cotton,17.3,35,69.9,46.0,48.0,7.16,935.5,27.4,10.71,6976.71,32175.98,Medium,51.3,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,15.8,81,130.6,45.1,54.8,5.77,1567.9,20.9,30.26,1833.96,23534.82,High,75.3,Low
+Uttar Pradesh,Meerut,Kharif,Loamy,Groundnut,12.3,16,29.8,47.1,51.9,6.29,861.7,30.4,14.57,5247.54,23081.57,Medium,58.6,Medium
+Haryana,Hisar,Kharif,Alluvial,Rice,16.8,76,115.1,59.8,46.6,6.18,1837.2,33.2,28.69,1757.3,22828.52,High,87.8,Low
+Maharashtra,Nagpur,Kharif,Alluvial,Maize,4.6,74,111.9,59.9,49.1,7.17,921.5,21.5,26.0,1729.57,23322.35,Medium,80.5,Low
+Punjab,Amritsar,Rabi,Black,Maize,17.9,56,113.6,42.5,35.3,6.92,794.8,30.9,23.16,2013.83,23495.28,Medium,80.5,Low
+Punjab,Patiala,Zaid,Black,Sugarcane,15.4,87,157.8,57.3,63.4,7.13,1296.0,34.0,477.58,299.55,53422.12,High,73.8,Low
+Uttar Pradesh,Varanasi,Rabi,Alluvial,Mustard,16.5,40,68.0,32.1,35.4,5.95,492.1,18.4,11.45,5472.87,13002.85,Low,49.1,Low
+Madhya Pradesh,Bhopal,Kharif,Red,Bajra,19.9,25,25.2,28.8,22.6,8.17,260.6,35.6,14.63,2364.84,11190.98,Low,61.1,Medium
+Madhya Pradesh,Indore,Kharif,Sandy,Groundnut,7.6,42,24.1,43.9,56.0,7.04,782.6,29.5,15.79,5246.14,26307.48,Medium,56.2,Low
+Punjab,Ludhiana,Zaid,Loamy,Groundnut,14.2,42,40.6,49.0,56.2,6.13,773.0,27.1,14.93,5431.98,26989.92,Medium,63.2,Low
+Punjab,Ludhiana,Kharif,Sandy,Bajra,15.3,5,61.0,28.5,41.8,7.4,291.1,28.9,15.86,2073.14,14334.82,Low,69.7,Medium
+Punjab,Patiala,Rabi,Black,Wheat,12.1,56,129.0,46.4,38.3,6.96,432.9,20.6,23.27,2238.79,16851.2,Medium,91.0,Low
+Punjab,Amritsar,Kharif,Black,Sugarcane,13.5,93,160.9,51.6,63.6,6.65,1255.6,25.3,485.46,290.02,44492.69,High,81.3,Low
+Punjab,Patiala,Rabi,Loamy,Bajra,13.1,23,54.7,33.8,42.1,7.3,635.8,31.0,12.64,1881.65,14638.35,Low,68.7,Medium
+Maharashtra,Pune,Rabi,Alluvial,Gram,16.8,31,25.5,46.9,27.4,6.44,584.4,22.1,11.47,5212.42,15667.72,Low,40.5,Medium
+Madhya Pradesh,Bhopal,Zaid,Clay,Gram,4.7,29,30.6,52.6,22.6,6.24,406.0,20.9,9.98,5739.85,17188.24,Low,54.8,Medium
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,17.5,100,124.3,73.9,84.6,7.19,1348.6,32.3,475.12,290.62,42542.91,High,73.0,Low
+Haryana,Karnal,Kharif,Red,Cotton,12.3,49,95.6,40.5,29.3,6.75,921.8,34.6,10.68,5540.4,32523.58,Medium,69.1,Low
+Haryana,Panipat,Kharif,Alluvial,Maize,11.9,52,90.6,37.4,34.4,7.02,784.9,23.2,27.39,1961.41,19922.22,Medium,76.3,Low
+Uttar Pradesh,Meerut,Zaid,Alluvial,Sugarcane,10.0,82,132.9,70.2,56.0,6.29,1408.9,27.9,480.42,281.97,54745.58,High,78.6,Low
+Punjab,Ludhiana,Zaid,Clay,Sugarcane,6.4,72,119.7,57.1,57.7,6.95,1757.3,30.4,454.21,306.13,53778.8,High,62.0,Low
+Punjab,Amritsar,Kharif,Clay,Rice,4.4,100,132.9,46.4,43.6,6.45,1850.4,28.3,29.32,2050.08,23349.6,High,73.9,Low
+Uttar Pradesh,Meerut,Rabi,Alluvial,Gram,7.6,23,38.3,42.1,9.5,5.81,616.9,11.7,11.89,5006.91,17441.07,Low,54.4,Medium
+Haryana,Karnal,Rabi,Sandy,Mustard,2.2,67,79.4,39.5,21.3,7.1,588.9,14.0,11.03,5593.85,16905.06,Low,53.8,Low
+Maharashtra,Nashik,Rabi,Red,Groundnut,15.0,40,6.6,53.9,40.7,6.46,660.3,32.6,14.82,5396.42,26076.62,Medium,55.7,Low
+Maharashtra,Nashik,Zaid,Loamy,Rice,8.0,78,132.6,56.2,52.3,5.27,1595.9,23.6,24.41,1812.21,28730.06,High,80.5,Low
+Haryana,Hisar,Rabi,Loamy,Wheat,5.3,48,106.5,65.4,28.5,7.26,306.3,24.2,24.72,2007.58,18461.88,Medium,92.8,Low
+Maharashtra,Nagpur,Rabi,Clay,Rice,12.7,87,117.2,50.3,61.8,7.04,1231.3,25.7,29.55,2189.78,28947.66,High,72.8,Low
+Maharashtra,Nashik,Rabi,Clay,Soybean,17.1,49,48.5,39.2,28.6,7.35,843.6,29.6,11.2,3964.87,23033.62,Medium,56.1,Low
+Punjab,Amritsar,Zaid,Black,Maize,10.0,73,83.4,57.8,48.2,7.26,841.6,23.8,23.88,1856.87,20781.9,Medium,57.9,Low
+Punjab,Patiala,Rabi,Loamy,Wheat,8.7,58,121.3,63.3,36.9,5.44,773.9,23.4,22.81,2171.03,19662.97,Medium,79.1,Low
+Maharashtra,Pune,Rabi,Alluvial,Wheat,12.7,56,92.3,52.8,48.1,6.77,442.3,22.2,22.71,2357.94,20932.16,Medium,91.4,Low
+Punjab,Amritsar,Zaid,Loamy,Maize,8.3,65,87.6,47.8,32.8,6.55,1125.5,31.0,25.07,1987.54,23099.53,Medium,67.9,Low
+Madhya Pradesh,Indore,Kharif,Red,Bajra,15.7,28,59.7,22.1,36.5,6.43,447.0,34.7,15.44,1895.05,10828.02,Low,64.5,Low
+Uttar Pradesh,Meerut,Rabi,Sandy,Mustard,13.5,23,66.3,46.3,20.2,6.53,485.2,17.5,11.75,5903.86,17292.9,Low,54.9,Medium
+Haryana,Hisar,Rabi,Loamy,Mustard,1.6,31,79.8,33.2,33.1,6.34,251.9,13.9,11.45,5801.96,14670.04,Low,42.3,Medium
+Maharashtra,Nashik,Kharif,Alluvial,Sugarcane,6.6,86,142.8,66.2,74.1,6.17,1833.6,26.1,490.2,311.21,52245.44,High,84.0,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,1.0,40,68.0,33.4,13.2,6.43,395.7,9.1,11.72,5736.4,16398.35,Low,73.0,Low
+Uttar Pradesh,Varanasi,Kharif,Sandy,Bajra,20.0,19,34.6,36.7,23.9,7.29,452.4,28.7,15.09,1904.94,11552.06,Low,53.8,Medium
+Maharashtra,Nagpur,Kharif,Black,Soybean,4.5,40,58.1,60.3,41.5,7.82,812.0,20.7,13.3,4377.18,21604.91,Medium,68.6,Low
+Madhya Pradesh,Ujjain,Kharif,Sandy,Bajra,17.4,6,39.5,28.3,28.4,6.79,349.1,34.4,15.7,2135.26,11000.71,Low,39.1,Medium
+Madhya Pradesh,Ujjain,Zaid,Black,Sugarcane,8.6,100,134.7,59.2,96.2,5.85,1058.2,32.6,444.45,343.45,50966.34,High,62.8,Low
+Punjab,Ludhiana,Zaid,Black,Bajra,7.1,20,72.0,16.0,28.2,7.61,383.4,29.0,14.44,2193.43,10756.66,Low,56.2,Medium
+Madhya Pradesh,Indore,Rabi,Black,Maize,11.8,39,105.2,53.2,45.4,6.7,1035.8,34.4,20.68,1800.72,20220.13,Medium,58.9,Medium
+Punjab,Amritsar,Rabi,Clay,Cotton,12.9,38,74.0,45.3,40.1,7.81,903.3,19.9,9.35,6564.16,27318.65,Medium,64.3,Low
+Haryana,Hisar,Kharif,Black,Bajra,13.5,18,47.8,22.8,21.7,7.86,372.2,28.1,14.33,1926.04,13110.07,Low,60.5,Medium
+Punjab,Patiala,Zaid,Black,Sugarcane,9.7,72,125.9,66.5,74.8,6.71,1627.6,32.3,440.27,320.44,40985.33,High,64.5,Low
+Punjab,Patiala,Rabi,Loamy,Mustard,2.4,26,87.9,42.1,25.1,6.03,374.1,10.4,12.16,5461.39,13366.87,Low,59.6,Low
+Uttar Pradesh,Meerut,Zaid,Sandy,Groundnut,7.1,22,35.9,60.3,53.4,7.37,433.0,24.6,14.95,5544.78,23868.89,Medium,60.4,Medium
+Uttar Pradesh,Lucknow,Rabi,Sandy,Cotton,12.5,49,77.4,49.5,42.0,7.59,489.7,30.4,8.83,6372.56,30655.08,Medium,69.4,Medium
+Maharashtra,Nagpur,Kharif,Sandy,Bajra,4.0,22,75.4,31.4,20.6,7.23,356.3,35.0,15.09,1909.33,14539.42,Low,49.5,Medium
+Punjab,Amritsar,Kharif,Loamy,Groundnut,11.6,44,23.3,58.1,45.7,6.46,821.7,26.7,15.76,5913.93,26864.54,Medium,57.4,Low
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,4.1,34,73.5,44.2,26.5,7.34,687.7,20.4,11.78,5455.01,16555.84,Low,57.2,Low
+Uttar Pradesh,Meerut,Zaid,Clay,Maize,17.4,45,74.6,54.6,36.4,6.72,818.9,23.1,24.33,1921.1,20449.04,Medium,78.5,Low
+Uttar Pradesh,Varanasi,Rabi,Sandy,Soybean,5.4,43,30.4,54.1,23.9,7.75,684.0,19.2,11.14,3924.4,19432.24,Medium,62.9,Low
+Punjab,Amritsar,Kharif,Alluvial,Sugarcane,2.7,82,115.6,73.5,90.3,6.99,1616.5,31.7,483.11,311.4,50328.39,High,69.0,Low
+Uttar Pradesh,Varanasi,Zaid,Loamy,Sugarcane,17.3,73,152.5,39.5,83.5,7.28,1593.0,31.9,465.64,300.26,54277.29,High,62.8,Low
+Punjab,Amritsar,Zaid,Red,Groundnut,14.2,49,19.2,49.4,49.1,6.14,570.4,31.2,15.92,5775.17,23007.24,Medium,62.1,Low
+Punjab,Amritsar,Rabi,Sandy,Mustard,8.2,16,68.4,36.2,21.6,6.0,371.5,20.9,11.66,5753.67,14829.86,Low,59.4,Medium
+Uttar Pradesh,Lucknow,Rabi,Alluvial,Maize,2.3,57,130.8,50.0,27.0,6.28,655.8,25.0,25.69,1866.25,18339.69,Medium,70.6,Low
+Uttar Pradesh,Lucknow,Zaid,Alluvial,Bajra,12.1,33,39.5,36.3,41.7,7.12,427.7,30.5,12.87,1977.86,11175.26,Low,50.9,Medium
+Uttar Pradesh,Varanasi,Rabi,Sandy,Mustard,8.5,43,71.9,61.1,30.9,7.31,360.2,23.1,11.67,5094.72,14799.4,Low,51.4,Low
+Haryana,Panipat,Zaid,Clay,Bajra,5.0,25,67.5,45.4,27.7,7.05,413.3,34.8,13.97,2278.06,11291.44,Low,53.3,Medium
+Maharashtra,Pune,Zaid,Black,Wheat,5.3,36,102.6,52.3,30.9,7.35,475.6,21.4,22.62,2150.18,18967.86,Medium,89.7,Low
+Haryana,Panipat,Zaid,Alluvial,Sugarcane,17.4,98,132.3,81.4,66.3,6.73,1618.3,27.5,501.34,297.05,43687.82,High,70.3,Low
+Haryana,Karnal,Zaid,Loamy,Sugarcane,18.4,73,129.1,71.3,92.1,5.5,1720.6,24.4,455.22,299.48,45676.78,High,78.8,Low
+Haryana,Panipat,Rabi,Sandy,Mustard,2.6,34,75.7,29.1,24.3,6.87,471.0,18.2,11.58,5731.17,17209.29,Low,60.7,Low
+Maharashtra,Nashik,Kharif,Alluvial,Rice,4.6,42,124.2,65.6,52.3,6.89,1383.2,23.1,28.86,1931.02,29847.52,High,78.7,Low
+Maharashtra,Nagpur,Zaid,Sandy,Groundnut,5.9,21,36.2,54.8,58.1,6.24,827.7,26.8,15.61,5253.34,27852.16,Medium,55.2,Medium
+Uttar Pradesh,Meerut,Kharif,Alluvial,Sugarcane,11.4,81,136.4,53.8,82.9,6.72,1154.4,24.0,460.06,335.44,42450.24,High,80.4,Low
+Madhya Pradesh,Ujjain,Rabi,Red,Sugarcane,4.3,75,150.8,68.0,89.3,6.67,1581.6,30.3,387.92,303.73,48199.83,High,66.4,Low
+Uttar Pradesh,Lucknow,Zaid,Loamy,Sugarcane,19.8,97,155.2,58.2,90.8,6.97,1070.7,28.4,472.34,319.55,51951.7,High,72.2,Low
+Haryana,Karnal,Rabi,Sandy,Mustard,16.3,51,51.4,31.1,21.2,6.65,388.2,19.6,12.1,5745.44,14992.99,Low,54.8,Low
+Uttar Pradesh,Meerut,Rabi,Loamy,Wheat,5.8,48,101.9,55.9,45.8,7.1,632.8,14.7,24.52,2142.33,21169.45,Medium,79.1,Low
+Madhya Pradesh,Ujjain,Rabi,Loamy,Wheat,4.8,75,104.0,59.1,32.3,6.37,484.9,12.9,23.91,2292.45,17272.96,Medium,75.4,Low
+Maharashtra,Nashik,Kharif,Black,Soybean,14.9,26,33.4,70.2,27.4,6.05,809.9,18.7,12.38,4592.41,23371.94,Medium,67.1,Low
+Uttar Pradesh,Meerut,Zaid,Black,Sugarcane,7.9,84,137.7,76.7,73.4,7.54,1659.7,23.7,464.7,339.66,50152.46,High,78.3,Low
+Uttar Pradesh,Varanasi,Zaid,Clay,Maize,3.7,55,108.6,51.1,55.2,7.2,851.0,33.3,23.33,2079.66,20811.86,Medium,77.6,Low
+Haryana,Karnal,Zaid,Sandy,Groundnut,10.0,32,20.0,60.8,40.1,6.76,715.5,24.1,16.11,5918.01,23920.0,Medium,60.2,Low
+Madhya Pradesh,Bhopal,Zaid,Clay,Sugarcane,3.0,80,153.5,56.0,84.9,6.78,1374.1,29.9,431.46,298.5,54732.85,High,68.2,Low
+Maharashtra,Nashik,Kharif,Sandy,Groundnut,8.1,40,23.0,53.3,45.2,6.15,643.6,28.2,15.1,4983.42,22916.58,Medium,52.5,Low
+Haryana,Hisar,Kharif,Clay,Rice,3.3,59,87.4,45.7,61.5,5.45,1840.6,25.3,30.92,2099.61,22445.03,High,87.0,Low
+Maharashtra,Pune,Rabi,Sandy,Mustard,12.9,22,66.4,42.0,25.7,6.27,613.3,14.2,12.39,5512.27,15789.13,Low,61.3,Medium
+Uttar Pradesh,Meerut,Zaid,Sandy,Groundnut,4.2,44,20.4,45.1,60.5,6.84,501.4,28.8,15.24,6105.62,25615.76,Medium,55.1,Low
+Punjab,Patiala,Kharif,Sandy,Bajra,17.1,15,74.7,41.3,20.8,7.07,577.8,31.6,16.11,2043.3,12947.4,Low,58.1,Medium
+Haryana,Hisar,Zaid,Sandy,Cotton,6.2,39,102.6,38.9,27.9,7.76,855.6,31.9,8.79,7135.07,26719.08,Medium,64.7,Low
+Maharashtra,Pune,Zaid,Black,Sugarcane,17.0,100,149.0,58.3,81.7,6.19,1661.7,32.0,457.52,324.89,50663.63,High,59.9,Low
+Uttar Pradesh,Meerut,Rabi,Alluvial,Mustard,11.2,34,63.9,54.7,31.8,7.89,491.5,23.6,12.12,5457.57,16750.26,Low,62.8,Low
+Madhya Pradesh,Indore,Kharif,Clay,Rice,17.7,61,115.5,58.2,53.5,6.35,1294.8,33.6,28.56,2368.03,28555.22,High,79.0,Low
+Maharashtra,Nagpur,Rabi,Loamy,Rice,9.2,100,115.0,51.8,42.3,6.04,1918.0,28.9,24.94,1939.71,25148.02,High,69.7,Low
+Punjab,Ludhiana,Kharif,Sandy,Bajra,18.5,15,43.3,11.6,31.8,7.92,245.7,33.1,14.37,1903.2,11036.52,Low,47.9,Medium
+Uttar Pradesh,Meerut,Zaid,Loamy,Sugarcane,14.8,78,143.6,64.6,74.2,7.53,1127.5,25.2,474.34,290.33,41410.65,High,65.2,Low
+Uttar Pradesh,Lucknow,Rabi,Black,Bajra,8.3,22,65.0,27.6,35.4,7.37,397.2,26.7,14.31,1936.91,14671.19,Low,66.1,Medium
+Haryana,Hisar,Rabi,Clay,Maize,11.9,46,106.5,46.3,35.8,5.95,564.3,38.4,20.93,2159.4,19667.31,Medium,81.8,Low
+Haryana,Karnal,Zaid,Black,Sugarcane,6.1,58,160.2,58.9,74.4,6.73,1348.5,32.6,454.43,311.02,46054.08,High,63.3,Low
+Uttar Pradesh,Meerut,Zaid,Alluvial,Sugarcane,15.8,80,161.2,73.3,96.5,6.92,1305.2,31.7,479.31,322.96,51025.96,High,57.4,Low
+Uttar Pradesh,Meerut,Kharif,Sandy,Bajra,14.0,5,62.0,19.7,23.0,8.27,448.7,37.2,14.59,2124.95,14683.96,Low,57.5,Medium
+Uttar Pradesh,Meerut,Rabi,Clay,Gram,8.6,41,38.4,48.8,47.1,6.31,526.8,19.5,11.38,5105.21,15787.99,Low,67.3,Low
+Madhya Pradesh,Bhopal,Zaid,Sandy,Groundnut,5.1,55,20.2,47.8,39.0,6.58,849.9,28.1,15.6,5685.56,23459.25,Medium,61.2,Low
+Uttar Pradesh,Lucknow,Kharif,Sandy,Groundnut,5.8,23,27.5,43.9,45.5,6.89,766.2,27.8,15.47,5956.25,24439.28,Medium,45.4,Medium
+Haryana,Hisar,Zaid,Sandy,Groundnut,8.1,31,23.8,44.9,42.1,6.68,1058.5,26.6,15.03,5701.43,23729.84,Medium,48.7,Medium
+Punjab,Ludhiana,Kharif,Red,Bajra,10.1,29,51.5,33.2,38.9,7.14,611.3,27.3,15.15,1878.08,14345.3,Low,50.6,Medium
+Haryana,Karnal,Rabi,Red,Wheat,13.4,45,97.1,45.0,31.7,6.23,535.8,13.3,22.58,2460.01,16949.94,Medium,87.1,Low
+Madhya Pradesh,Bhopal,Rabi,Red,Sugarcane,7.3,92,141.0,71.6,96.9,5.98,1192.8,29.3,422.88,328.54,51255.31,High,62.1,Low
+Haryana,Hisar,Zaid,Clay,Gram,13.1,17,16.3,40.6,43.1,7.75,522.6,21.1,10.44,5771.84,15848.66,Low,61.7,Medium
+Haryana,Panipat,Kharif,Sandy,Bajra,8.9,38,75.3,18.9,31.2,6.06,471.0,31.0,15.14,1935.2,12902.8,Low,48.2,Low
+Haryana,Panipat,Zaid,Sandy,Cotton,3.9,13,99.5,33.3,59.1,7.06,567.3,34.8,9.49,6146.51,27443.08,Medium,66.0,Medium
+Uttar Pradesh,Meerut,Rabi,Sandy,Mustard,5.7,16,59.2,48.5,37.0,5.87,385.5,18.2,11.92,5619.8,13416.51,Low,46.0,Medium
+Haryana,Panipat,Kharif,Loamy,Maize,10.4,71,90.2,55.1,47.2,5.47,986.5,26.3,27.24,1850.72,19248.04,Medium,77.0,Low
+Haryana,Karnal,Rabi,Red,Cotton,12.3,37,109.0,36.0,50.1,7.96,880.4,32.5,10.62,6371.19,31732.46,Medium,57.5,Low
+Uttar Pradesh,Lucknow,Rabi,Black,Sugarcane,10.6,76,150.5,69.2,85.0,6.86,1420.3,29.4,449.54,302.72,40492.92,High,64.3,Low
+Maharashtra,Nashik,Rabi,Black,Wheat,3.2,51,112.1,72.8,35.7,6.55,757.3,12.3,24.13,2328.86,20767.4,Medium,77.1,Low
+Madhya Pradesh,Ujjain,Kharif,Red,Maize,17.4,82,100.4,46.9,41.5,6.22,828.4,27.9,26.43,2076.73,23471.11,Medium,77.0,Low
+Haryana,Panipat,Rabi,Sandy,Rice,8.7,81,138.0,54.5,40.6,6.96,1834.0,32.7,26.54,1795.32,24554.01,High,84.5,Low
+Maharashtra,Nagpur,Kharif,Clay,Rice,4.9,87,128.3,51.2,63.7,5.32,1884.3,29.3,31.25,2253.01,25711.44,High,75.4,Low
+Punjab,Ludhiana,Zaid,Sandy,Rice,6.5,100,128.8,48.2,68.7,5.8,1412.4,30.9,26.2,2160.41,22573.98,High,62.6,Low
+Punjab,Patiala,Rabi,Loamy,Wheat,13.5,37,117.3,35.5,45.8,6.24,746.8,15.5,22.69,2311.29,16398.58,Medium,86.3,Low
+Madhya Pradesh,Bhopal,Rabi,Red,Wheat,20.0,59,132.6,74.9,35.7,7.51,683.3,16.5,21.5,2332.57,18342.56,Medium,77.9,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Sugarcane,19.8,100,143.3,82.8,97.9,7.03,1751.0,30.0,483.22,312.18,45424.38,High,70.4,Low
+Uttar Pradesh,Lucknow,Rabi,Red,Maize,10.1,51,111.5,51.6,39.5,6.2,798.9,26.0,24.85,1981.76,23261.69,Medium,86.4,Low
+Maharashtra,Pune,Zaid,Sandy,Groundnut,19.8,40,39.6,44.4,52.3,6.42,688.2,24.9,15.29,5436.0,25216.3,Medium,58.4,Low
+Maharashtra,Pune,Zaid,Black,Sugarcane,1.6,89,152.3,56.1,73.4,6.97,1162.9,26.4,457.41,305.28,54155.19,High,72.3,Low
+Madhya Pradesh,Ujjain,Kharif,Black,Bajra,6.5,21,66.1,27.9,35.1,6.67,187.1,24.3,14.64,2312.08,11647.14,Low,65.6,Medium
+Uttar Pradesh,Lucknow,Rabi,Sandy,Wheat,15.9,17,126.7,50.2,40.1,6.84,396.9,16.9,19.95,2065.39,20536.05,Medium,62.3,Medium
+Punjab,Patiala,Rabi,Black,Wheat,13.7,50,107.9,61.9,48.7,6.96,498.7,13.8,23.67,2169.09,19432.99,Medium,86.6,Low
+Punjab,Patiala,Kharif,Red,Maize,16.8,42,100.4,52.0,44.4,6.67,627.0,23.2,26.22,2051.32,23362.08,Medium,81.1,Low
+Maharashtra,Pune,Kharif,Alluvial,Sugarcane,2.3,96,139.3,55.7,59.7,6.93,1430.6,24.3,468.46,322.62,44846.63,High,81.1,Low
+Punjab,Patiala,Zaid,Red,Groundnut,18.1,45,26.1,47.5,49.9,6.33,859.2,23.3,15.31,5523.0,27569.0,Medium,48.7,Low
+Madhya Pradesh,Bhopal,Kharif,Alluvial,Rice,9.6,100,110.0,39.4,54.0,5.55,1321.6,34.5,30.07,1735.59,28625.11,High,88.1,Low
+Madhya Pradesh,Bhopal,Kharif,Loamy,Mustard,12.4,23,70.2,34.8,28.1,6.11,581.4,15.5,11.35,5582.42,15374.2,Low,57.8,Medium
+Haryana,Karnal,Kharif,Red,Rice,16.9,84,116.7,55.6,59.3,6.14,1771.4,30.5,28.27,2042.09,26829.62,High,92.8,Low
+Punjab,Ludhiana,Kharif,Clay,Rice,9.2,78,117.2,50.9,34.3,6.36,1088.5,31.0,29.76,1777.84,28351.37,High,73.9,Low
+Haryana,Karnal,Kharif,Clay,Rice,13.4,100,127.3,38.4,44.6,7.23,1452.0,24.6,29.14,2194.05,29359.97,High,76.7,Low
+Maharashtra,Pune,Rabi,Loamy,Gram,2.1,37,46.0,54.5,29.4,6.05,424.6,19.4,12.2,4669.52,14346.24,Low,64.9,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Soybean,13.0,61,36.2,63.4,30.7,7.44,743.1,25.4,12.85,3975.64,23074.82,Medium,68.2,Low
+Madhya Pradesh,Bhopal,Kharif,Black,Sugarcane,9.6,73,157.8,68.5,68.2,7.11,1401.0,29.3,471.94,304.94,47181.22,High,80.3,Low
+Punjab,Amritsar,Zaid,Clay,Cotton,16.2,39,98.2,51.3,59.3,6.11,979.6,26.0,8.93,5896.95,29006.05,Medium,79.9,Low
+Haryana,Hisar,Kharif,Alluvial,Rice,7.0,63,153.3,53.6,39.8,6.0,1116.0,26.7,30.37,1941.48,26622.05,High,78.1,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,19.2,62,151.3,60.5,98.9,6.88,1719.8,30.3,464.4,344.75,50532.3,High,63.1,Low
+Madhya Pradesh,Bhopal,Kharif,Sandy,Bajra,17.5,42,53.7,31.4,14.8,7.59,555.0,36.4,14.81,2083.74,14553.54,Low,67.6,Low
+Maharashtra,Nashik,Kharif,Red,Sugarcane,14.3,85,127.8,68.9,63.7,7.63,1891.2,25.0,414.71,335.32,50480.75,High,55.0,Low
+Uttar Pradesh,Meerut,Zaid,Alluvial,Bajra,8.6,24,44.7,28.0,27.1,7.69,323.5,26.7,13.17,2304.68,14456.71,Low,53.2,Medium
+Madhya Pradesh,Bhopal,Rabi,Black,Gram,4.9,12,43.5,63.0,33.3,7.29,467.8,20.4,12.02,4727.94,17385.89,Low,60.8,Medium
+Madhya Pradesh,Bhopal,Zaid,Loamy,Groundnut,18.4,35,33.5,61.6,60.8,5.9,503.2,29.9,15.36,5022.36,24349.03,Medium,46.1,Low
+Madhya Pradesh,Ujjain,Zaid,Clay,Maize,11.3,59,94.4,49.1,44.8,6.45,685.8,25.4,21.92,1688.15,19981.04,Medium,81.3,Low
+Madhya Pradesh,Ujjain,Kharif,Clay,Rice,10.1,71,103.9,39.3,46.3,6.66,1546.1,31.3,29.52,2305.71,23238.14,High,64.9,Low
+Punjab,Amritsar,Zaid,Sandy,Groundnut,10.2,47,28.4,61.2,52.7,5.32,636.0,28.7,13.74,5045.49,24482.94,Medium,54.0,Low
+Maharashtra,Nashik,Rabi,Clay,Maize,7.3,65,86.9,40.7,36.8,6.59,844.5,23.7,23.84,2087.15,19693.73,Medium,66.1,Low
+Punjab,Amritsar,Rabi,Clay,Soybean,11.6,64,24.9,75.9,28.5,6.06,1138.5,27.3,11.49,4114.75,20305.49,Medium,80.5,Low
+Madhya Pradesh,Ujjain,Kharif,Clay,Rice,13.1,93,94.9,30.6,47.2,7.33,1821.0,37.7,28.34,2177.12,27776.48,High,90.8,Low
+Haryana,Panipat,Kharif,Clay,Bajra,9.9,25,71.4,36.8,31.7,7.72,542.6,32.2,15.06,1850.67,14136.4,Low,58.3,Medium
+Uttar Pradesh,Lucknow,Rabi,Black,Gram,5.1,27,32.4,52.9,33.1,5.64,424.3,18.8,12.05,5096.95,15823.82,Low,52.3,Medium
+Maharashtra,Pune,Rabi,Loamy,Mustard,12.6,21,74.7,35.2,33.2,6.28,730.5,20.7,11.17,5335.0,14001.45,Low,65.7,Medium
+Haryana,Karnal,Zaid,Alluvial,Sugarcane,5.6,88,119.9,67.1,62.5,5.74,1185.1,32.4,494.33,273.46,50632.59,High,75.0,Low
+Punjab,Patiala,Kharif,Alluvial,Sugarcane,11.9,81,127.7,65.7,69.0,6.13,1247.8,29.4,484.52,294.14,48552.02,High,70.7,Low
+Uttar Pradesh,Meerut,Zaid,Black,Sugarcane,19.7,80,157.5,77.7,98.2,7.23,1247.3,28.2,466.53,298.5,52874.67,High,64.0,Low
+Maharashtra,Nagpur,Rabi,Black,Wheat,14.1,45,121.1,57.0,28.2,7.65,441.1,13.4,23.76,2327.61,19910.21,Medium,84.3,Low
+Punjab,Patiala,Zaid,Clay,Cotton,19.8,38,113.8,27.4,52.0,7.71,976.0,26.6,9.18,5883.24,29689.37,Medium,67.9,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Maize,7.4,27,127.3,61.3,44.0,6.77,620.2,27.3,25.09,1845.83,23497.14,Medium,77.7,Low
+Punjab,Patiala,Kharif,Alluvial,Groundnut,10.9,14,54.0,38.6,47.1,6.74,860.6,28.0,12.54,4960.21,25290.88,Medium,63.3,Medium
+Haryana,Karnal,Rabi,Sandy,Mustard,12.5,55,77.5,43.8,39.7,6.47,511.6,15.3,12.34,5516.6,15394.68,Low,59.3,Low
+Punjab,Patiala,Rabi,Loamy,Wheat,13.5,13,106.9,44.3,40.3,6.0,630.7,17.0,23.33,2166.18,18593.53,Medium,65.8,Medium
+Madhya Pradesh,Indore,Zaid,Sandy,Groundnut,13.2,49,10.1,49.0,46.3,6.37,1050.1,29.3,15.55,5016.03,25734.92,Medium,50.4,Low
+Maharashtra,Pune,Rabi,Black,Gram,8.2,58,40.6,47.3,19.5,5.94,162.3,19.8,10.73,5089.77,14942.36,Low,71.5,Low
+Madhya Pradesh,Bhopal,Rabi,Loamy,Gram,11.1,41,38.2,59.5,24.1,5.86,577.1,22.7,12.17,5453.12,15747.9,Low,75.6,Low
+Maharashtra,Nashik,Kharif,Clay,Rice,12.2,91,135.5,54.0,48.4,6.25,1756.3,20.8,28.38,1814.85,23816.5,High,86.1,Low
+Punjab,Patiala,Kharif,Sandy,Groundnut,1.3,58,38.0,42.0,47.5,6.97,538.2,24.8,14.42,5913.51,26183.72,Medium,62.7,Low
+Uttar Pradesh,Meerut,Kharif,Clay,Sugarcane,6.8,100,127.9,63.2,56.2,7.0,1272.7,28.6,438.6,286.79,45712.26,High,58.9,Low
+Madhya Pradesh,Ujjain,Rabi,Loamy,Gram,4.8,38,34.4,49.2,36.4,7.23,448.8,17.2,11.48,5010.9,15565.95,Low,58.3,Low
+Haryana,Karnal,Rabi,Clay,Bajra,7.9,5,70.3,31.4,36.9,7.3,451.0,30.2,12.56,2342.52,14332.6,Low,56.7,Medium
+Uttar Pradesh,Meerut,Rabi,Alluvial,Maize,12.3,55,97.4,58.2,32.0,7.35,909.9,26.7,24.53,2227.69,21541.74,Medium,88.0,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,5.6,44,21.4,48.4,57.3,6.52,620.8,30.8,15.48,5067.48,22388.38,Medium,69.1,Low
+Haryana,Karnal,Zaid,Loamy,Soybean,4.6,39,53.3,42.0,39.6,7.19,876.2,25.2,11.36,3937.39,22007.03,Medium,59.1,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,11.0,68,129.9,66.5,80.7,5.54,1050.5,28.4,462.12,327.58,52431.96,High,63.3,Low
+Maharashtra,Nagpur,Rabi,Alluvial,Wheat,11.3,71,97.4,56.0,37.3,6.52,673.0,21.6,23.84,2253.27,17042.8,Medium,76.5,Low
+Maharashtra,Nashik,Rabi,Sandy,Mustard,8.5,50,62.8,49.6,29.6,7.22,528.2,10.9,10.82,5193.88,14649.65,Low,49.0,Low
+Haryana,Karnal,Zaid,Clay,Groundnut,9.4,26,37.5,57.0,46.7,7.43,857.0,32.2,14.03,4969.48,25646.84,Medium,63.6,Medium
+Haryana,Hisar,Rabi,Red,Maize,17.3,60,112.8,42.0,51.0,6.02,654.7,28.8,24.66,1798.17,23371.8,Medium,62.6,Low
+Uttar Pradesh,Lucknow,Zaid,Loamy,Sugarcane,17.8,86,154.7,61.7,78.3,5.9,1034.8,31.8,458.19,321.7,40963.47,High,63.1,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,3.7,71,140.6,65.9,61.3,6.31,1754.2,28.0,455.59,317.48,45384.77,High,56.9,Low
+Maharashtra,Nashik,Zaid,Loamy,Sugarcane,8.1,80,127.7,54.7,108.2,6.59,1668.3,33.1,495.3,293.99,40829.35,High,59.4,Low
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,1.9,27,58.2,46.6,29.8,6.45,579.3,21.0,12.38,5348.82,17443.33,Low,62.7,Low
+Maharashtra,Nashik,Kharif,Alluvial,Soybean,2.9,30,34.7,50.9,38.0,7.04,818.8,27.1,12.28,4493.06,21137.83,Medium,76.3,Low
+Maharashtra,Nashik,Kharif,Loamy,Groundnut,13.9,30,23.6,59.3,42.6,6.39,602.9,27.5,15.57,5181.77,22598.34,Medium,68.6,Low
+Punjab,Amritsar,Rabi,Alluvial,Mustard,7.9,35,87.1,39.6,28.8,7.09,435.7,23.5,11.43,5312.26,14816.84,Low,47.1,Low
+Madhya Pradesh,Bhopal,Zaid,Black,Sugarcane,8.4,97,140.5,44.8,95.5,6.87,1540.9,33.4,491.58,293.33,51473.69,High,57.8,Low
+Madhya Pradesh,Indore,Rabi,Alluvial,Wheat,9.7,67,111.4,59.9,54.2,6.47,621.5,14.5,24.27,2404.28,17055.45,Medium,78.4,Low
+Maharashtra,Nashik,Kharif,Clay,Rice,2.4,59,131.1,41.2,41.7,5.1,1592.7,25.9,28.1,1768.31,24505.55,High,72.0,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Groundnut,11.6,35,45.7,44.5,56.8,6.63,909.8,33.7,15.4,6245.45,25563.15,Medium,55.5,Low
+Haryana,Hisar,Rabi,Alluvial,Wheat,6.3,61,113.0,70.1,42.6,6.01,444.1,13.5,23.95,2340.74,21676.0,Medium,71.0,Low
+Maharashtra,Pune,Rabi,Clay,Gram,12.6,6,34.1,49.4,28.0,7.34,405.2,15.1,11.13,5642.23,18939.22,Low,62.6,Medium
+Uttar Pradesh,Varanasi,Kharif,Clay,Rice,19.9,86,102.4,47.3,48.0,6.06,1380.7,33.0,30.93,2353.34,25589.05,High,89.0,Low
+Maharashtra,Nashik,Zaid,Loamy,Groundnut,5.1,67,34.8,56.7,49.0,6.27,1036.4,33.3,14.94,5375.53,24997.55,Medium,56.3,Low
+Maharashtra,Pune,Kharif,Red,Cotton,3.2,52,110.4,49.6,40.6,7.53,1069.5,20.2,10.03,5965.2,30412.39,Medium,70.0,Low
+Uttar Pradesh,Varanasi,Rabi,Black,Wheat,13.9,35,113.1,50.3,50.5,6.95,368.9,19.4,22.88,2380.25,17105.54,Medium,82.4,Low
+Madhya Pradesh,Indore,Zaid,Clay,Sugarcane,16.8,100,143.6,52.3,64.5,7.49,1332.4,30.0,448.41,300.45,43775.34,High,68.7,Low
+Haryana,Karnal,Kharif,Sandy,Bajra,12.4,37,54.5,23.8,26.4,7.23,494.5,27.5,15.33,2222.88,10879.21,Low,44.8,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,7.2,100,130.6,68.4,99.9,7.01,1399.5,24.1,476.76,283.08,53798.22,High,64.0,Low
+Haryana,Panipat,Kharif,Red,Cotton,16.4,65,79.7,41.3,42.7,7.83,666.8,21.8,10.62,6545.82,33867.25,Medium,59.9,Low
+Punjab,Ludhiana,Rabi,Clay,Cotton,16.4,45,103.1,32.5,41.3,6.9,1079.1,26.4,9.82,6111.32,29454.94,Medium,73.5,Low
+Punjab,Ludhiana,Kharif,Loamy,Cotton,6.7,62,102.4,35.0,61.6,7.87,1114.6,26.7,10.47,6686.05,26578.86,Medium,75.7,Low
+Haryana,Karnal,Rabi,Loamy,Gram,12.1,44,20.2,41.3,30.7,6.95,604.2,23.6,12.4,5628.88,17917.21,Low,55.8,Low
+Haryana,Hisar,Rabi,Alluvial,Wheat,10.7,61,101.1,57.8,30.6,5.93,749.6,20.4,22.62,2294.43,20656.28,Medium,84.3,Low
+Uttar Pradesh,Meerut,Rabi,Black,Wheat,8.3,44,107.0,49.9,51.2,6.4,918.0,22.2,22.61,2421.54,21274.83,Medium,93.6,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,17.6,16,69.4,35.8,36.0,6.74,573.4,21.4,11.95,5313.7,15276.65,Low,50.0,Medium
+Uttar Pradesh,Meerut,Zaid,Clay,Mustard,13.3,20,64.6,32.6,27.5,6.98,676.3,12.9,9.56,5432.2,14304.31,Low,53.9,Medium
+Punjab,Ludhiana,Rabi,Sandy,Mustard,2.9,32,75.7,40.0,16.7,7.08,599.6,18.1,11.92,5576.61,16471.47,Low,73.7,Low
+Uttar Pradesh,Varanasi,Rabi,Clay,Mustard,10.8,70,90.4,42.5,31.7,6.47,243.8,18.7,10.74,5662.81,13889.74,Low,54.1,Low
+Madhya Pradesh,Ujjain,Rabi,Black,Rice,6.7,82,103.2,58.5,47.4,6.85,1464.2,33.7,24.08,2169.7,23994.95,High,80.7,Low
+Uttar Pradesh,Varanasi,Zaid,Black,Sugarcane,13.8,95,137.9,79.0,98.3,5.93,1309.7,33.6,468.53,330.19,47555.73,High,56.2,Low
+Maharashtra,Pune,Zaid,Red,Groundnut,1.9,63,22.2,61.4,55.9,6.53,809.5,31.8,15.24,5252.1,26045.59,Medium,47.3,Low
+Haryana,Karnal,Rabi,Black,Gram,2.7,24,8.1,63.1,17.2,6.69,401.0,17.6,12.16,5133.46,17483.1,Low,40.8,Medium
+Madhya Pradesh,Ujjain,Rabi,Loamy,Gram,19.4,28,28.0,48.0,43.0,5.81,472.8,25.7,12.41,5728.03,16380.99,Low,46.8,Medium
+Maharashtra,Pune,Rabi,Sandy,Mustard,17.6,59,74.9,35.2,29.1,5.99,455.1,24.1,11.85,5914.6,13232.56,Low,64.8,Low
+Maharashtra,Pune,Rabi,Loamy,Wheat,5.6,30,108.2,73.4,43.1,6.11,918.7,9.8,20.86,2346.09,20026.64,Medium,92.1,Medium
+Punjab,Ludhiana,Rabi,Red,Maize,17.3,49,81.0,39.6,57.4,7.31,1033.5,24.8,23.76,1779.24,21285.71,Medium,72.1,Low
+Haryana,Panipat,Rabi,Loamy,Wheat,6.9,38,92.0,63.8,40.4,6.19,679.5,17.3,24.68,2140.75,19684.66,Medium,68.2,Low
+Uttar Pradesh,Varanasi,Rabi,Black,Gram,1.3,26,32.0,53.9,23.2,6.4,603.4,16.6,11.44,5257.36,18573.13,Low,60.5,Low
+Punjab,Ludhiana,Zaid,Alluvial,Sugarcane,6.9,92,136.0,65.2,55.7,6.65,1262.1,27.0,487.45,282.57,53457.87,High,78.1,Low
+Haryana,Panipat,Zaid,Black,Sugarcane,16.9,100,149.4,74.3,93.0,7.16,1167.8,24.7,489.37,280.83,47711.75,High,73.8,Low
+Maharashtra,Pune,Kharif,Sandy,Bajra,13.1,55,50.0,27.3,25.8,6.91,416.8,29.3,15.79,2021.55,12594.15,Low,53.2,Low
+Punjab,Amritsar,Rabi,Loamy,Wheat,5.1,58,132.7,56.7,34.5,7.17,485.3,19.1,22.36,1998.24,19640.2,Medium,82.8,Low
+Haryana,Karnal,Zaid,Clay,Soybean,11.9,38,53.0,50.0,44.5,6.69,748.1,30.9,11.13,3773.78,23295.92,Medium,71.8,Low
+Uttar Pradesh,Meerut,Kharif,Black,Soybean,5.2,60,52.4,46.2,30.5,6.56,816.2,25.7,12.74,4219.09,22247.52,Medium,65.1,Low
+Uttar Pradesh,Meerut,Zaid,Alluvial,Sugarcane,12.4,100,114.7,81.0,73.7,7.28,1879.8,22.5,498.96,340.56,45708.03,High,64.8,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Gram,13.1,36,41.1,37.4,28.9,6.03,370.2,22.5,11.45,5165.2,17895.48,Low,59.9,Low
+Haryana,Panipat,Rabi,Red,Mustard,16.2,28,81.2,40.6,25.0,7.0,386.7,18.4,10.56,5076.25,17800.82,Low,60.4,Medium
+Maharashtra,Pune,Rabi,Sandy,Mustard,5.8,36,72.0,46.0,40.4,6.73,840.8,26.6,11.3,6196.36,14997.17,Low,57.8,Medium
+Madhya Pradesh,Indore,Kharif,Black,Bajra,15.9,20,70.1,36.5,40.9,6.46,472.4,30.9,15.4,2170.29,11297.93,Low,45.6,Medium
+Punjab,Ludhiana,Rabi,Loamy,Gram,9.2,41,37.0,42.1,27.1,7.46,494.2,14.6,12.44,4913.23,18425.25,Low,64.9,Low
+Punjab,Ludhiana,Kharif,Clay,Rice,18.5,100,109.2,45.0,57.8,5.41,952.1,33.7,30.0,2257.15,27838.82,High,74.4,Low
+Madhya Pradesh,Indore,Zaid,Clay,Sugarcane,6.9,68,123.3,72.8,56.9,6.29,1678.2,33.4,443.19,285.2,50930.69,High,77.1,Low
+Maharashtra,Nashik,Rabi,Sandy,Gram,8.7,47,32.4,50.8,24.0,5.91,662.9,12.0,11.24,4949.81,14008.05,Low,51.6,Low
+Punjab,Patiala,Kharif,Black,Sugarcane,1.8,100,131.3,67.9,70.8,6.56,1764.8,27.5,464.58,346.34,48617.98,High,72.4,Low
+Haryana,Karnal,Rabi,Black,Wheat,18.8,35,101.8,63.9,49.5,6.52,552.9,24.0,24.7,2361.01,21323.94,Medium,84.5,Low
+Haryana,Hisar,Rabi,Loamy,Mustard,13.4,35,62.0,36.1,40.8,5.84,497.8,9.7,12.08,5782.67,13039.68,Low,60.7,Low
+Haryana,Hisar,Zaid,Clay,Wheat,2.2,31,106.6,42.4,38.3,6.03,828.8,22.6,20.27,2332.05,18877.58,Medium,74.6,Medium
+Maharashtra,Nagpur,Zaid,Alluvial,Sugarcane,9.3,77,133.5,80.2,91.0,6.29,1694.6,28.3,499.9,314.01,45986.98,High,77.2,Low
+Uttar Pradesh,Meerut,Rabi,Red,Groundnut,17.7,38,12.4,35.4,53.9,6.77,966.1,24.4,13.91,5501.24,26759.85,Medium,50.3,Low
+Madhya Pradesh,Ujjain,Kharif,Alluvial,Maize,14.5,60,91.1,48.8,29.1,6.47,1055.1,31.0,24.59,2056.16,21342.5,Medium,82.7,Low
+Maharashtra,Pune,Zaid,Red,Groundnut,8.3,22,30.6,54.6,51.9,6.5,783.4,27.9,14.9,6009.8,27628.95,Medium,69.9,Low
+Madhya Pradesh,Ujjain,Rabi,Alluvial,Gram,2.3,9,20.6,53.5,22.3,6.51,307.2,22.3,11.27,5401.89,16379.34,Low,50.1,Medium
+Maharashtra,Pune,Kharif,Sandy,Bajra,7.2,30,60.6,33.1,38.2,7.81,624.4,35.4,15.47,1916.71,13838.41,Low,58.9,Medium
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,7.6,79,131.9,54.0,74.1,6.17,1317.6,34.6,481.12,325.74,48048.39,High,73.0,Low
+Uttar Pradesh,Meerut,Rabi,Sandy,Mustard,5.2,40,79.2,34.7,24.4,7.08,493.8,13.5,11.62,5830.59,16370.76,Low,62.7,Low
+Madhya Pradesh,Bhopal,Zaid,Loamy,Groundnut,7.9,18,27.9,48.0,54.5,6.77,619.1,25.6,14.35,5606.53,23803.5,Medium,54.1,Medium
+Madhya Pradesh,Bhopal,Zaid,Clay,Rice,5.8,87,134.7,51.1,56.5,6.58,1480.7,25.4,28.39,2039.39,22296.64,High,100,Low
+Maharashtra,Nashik,Zaid,Black,Rice,1.4,64,104.0,57.2,35.3,5.69,1523.7,25.4,25.87,2229.5,27439.23,High,72.0,Low
+Punjab,Patiala,Zaid,Red,Cotton,13.6,59,118.3,35.6,46.3,6.97,823.5,28.4,9.83,5378.91,29805.81,Medium,68.6,Low
+Haryana,Hisar,Kharif,Alluvial,Rice,16.6,85,92.0,35.0,39.5,6.09,1535.0,33.7,29.6,2205.12,25312.37,High,83.9,Low
+Uttar Pradesh,Varanasi,Kharif,Alluvial,Sugarcane,1.2,59,109.8,76.3,86.6,7.33,1421.7,33.5,486.1,317.01,47063.13,High,90.5,Low
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,9.2,79,103.3,45.6,50.0,6.74,1944.1,24.8,30.55,2135.3,29827.6,High,90.0,Low
+Uttar Pradesh,Meerut,Rabi,Red,Sugarcane,13.0,67,141.6,51.5,85.8,6.34,1500.3,28.4,406.09,281.76,46752.18,High,55.7,Low
+Madhya Pradesh,Indore,Rabi,Clay,Wheat,2.1,29,112.4,65.8,53.8,6.84,661.6,23.5,21.64,2192.5,21676.71,Medium,79.3,Low
+Haryana,Karnal,Rabi,Red,Maize,18.1,73,75.1,60.4,36.0,6.89,970.0,29.5,25.06,2019.39,23827.95,Medium,75.6,Low
+Haryana,Hisar,Kharif,Loamy,Sugarcane,1.0,74,157.9,70.0,67.9,6.07,1478.4,32.8,482.03,300.14,53290.72,High,64.2,Low
+Uttar Pradesh,Varanasi,Rabi,Red,Sugarcane,12.7,76,147.2,66.4,79.9,6.64,1127.4,31.3,428.22,322.15,40231.99,High,70.1,Low
+Uttar Pradesh,Lucknow,Zaid,Red,Mustard,9.6,47,85.4,34.6,38.4,5.63,587.4,17.0,9.66,5121.71,17506.64,Low,55.1,Low
+Uttar Pradesh,Lucknow,Kharif,Loamy,Maize,9.0,29,109.8,43.9,37.2,7.05,1079.7,28.5,25.86,1882.76,21729.35,Medium,84.4,Low
+Punjab,Ludhiana,Rabi,Loamy,Gram,17.2,16,26.0,52.5,14.7,7.29,549.8,23.7,12.25,4986.85,15838.22,Low,68.1,Medium
+Maharashtra,Nagpur,Kharif,Sandy,Soybean,16.4,44,46.9,56.5,46.1,6.33,1041.7,21.3,12.89,4076.66,18559.34,Medium,76.8,Low
+Maharashtra,Pune,Kharif,Sandy,Bajra,5.0,6,46.7,31.6,24.2,7.53,375.4,30.8,15.04,2204.81,13579.89,Low,49.7,Medium
+Haryana,Karnal,Rabi,Clay,Cotton,1.8,25,87.8,53.8,41.2,8.17,1033.9,26.6,9.48,7090.96,30279.84,Medium,70.0,Medium
+Maharashtra,Nagpur,Kharif,Black,Soybean,8.4,67,22.7,33.5,42.4,5.99,1001.0,25.7,13.12,4343.02,20835.94,Medium,61.0,Low
+Uttar Pradesh,Varanasi,Rabi,Clay,Groundnut,7.5,55,14.9,41.1,55.1,6.61,1047.8,24.3,11.81,5572.98,26449.86,Medium,59.1,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,18.5,100,132.7,60.0,85.7,6.09,1322.5,27.2,465.02,315.82,48475.01,High,70.0,Low
+Haryana,Hisar,Zaid,Loamy,Groundnut,2.3,32,43.8,46.6,51.8,6.47,927.9,32.6,15.85,5005.22,27649.84,Medium,56.7,Low
+Haryana,Karnal,Kharif,Black,Sugarcane,5.8,70,162.3,82.9,64.5,7.47,1799.3,27.8,477.79,301.59,45876.82,High,69.9,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,1.6,10,77.2,46.3,29.8,7.75,464.2,23.1,11.79,5330.21,17815.43,Low,43.7,Medium
+Haryana,Panipat,Rabi,Alluvial,Gram,8.8,69,26.4,46.2,40.3,6.61,372.7,23.9,11.71,5376.58,15245.53,Low,66.2,Low
+Punjab,Patiala,Rabi,Clay,Gram,8.6,37,31.0,58.0,25.1,6.81,426.4,21.7,11.01,4832.27,15811.47,Low,52.2,Low
+Maharashtra,Nashik,Kharif,Sandy,Bajra,6.9,26,46.5,23.1,19.9,6.93,398.4,32.5,16.17,1892.1,13516.54,Low,55.0,Low
+Maharashtra,Pune,Rabi,Red,Sugarcane,2.3,83,126.7,76.0,65.4,6.45,1656.6,35.6,398.83,319.14,44136.62,High,74.4,Low
+Punjab,Ludhiana,Rabi,Clay,Maize,10.1,66,105.4,59.8,38.3,6.48,705.9,24.6,23.34,1628.32,18527.55,Medium,74.5,Low
+Madhya Pradesh,Indore,Kharif,Black,Cotton,6.1,61,99.7,48.9,45.1,6.26,696.3,25.3,10.97,6068.65,25415.98,Medium,78.2,Low
+Madhya Pradesh,Indore,Zaid,Sandy,Groundnut,5.5,28,8.7,39.2,51.1,6.38,994.8,29.9,15.26,5276.72,22749.36,Medium,55.0,Low
+Madhya Pradesh,Ujjain,Kharif,Loamy,Cotton,19.5,49,101.4,41.1,57.7,6.96,608.5,23.5,10.45,5765.79,33331.09,Medium,74.1,Low
+Haryana,Panipat,Kharif,Alluvial,Sugarcane,19.1,100,145.5,61.8,89.1,6.89,1192.1,26.1,464.58,310.09,47783.38,High,79.1,Low
+Maharashtra,Pune,Kharif,Loamy,Soybean,15.3,84,57.2,66.2,37.0,6.63,1071.1,22.7,12.65,4172.65,18303.39,Medium,70.4,Low
+Punjab,Patiala,Zaid,Alluvial,Sugarcane,9.0,83,141.2,61.1,95.4,7.23,1574.1,34.8,504.09,296.66,41267.93,High,85.5,Low
+Punjab,Ludhiana,Rabi,Clay,Wheat,9.9,41,100.0,45.6,33.0,6.84,560.5,12.7,22.45,2194.49,20783.11,Medium,80.2,Low
+Haryana,Hisar,Zaid,Sandy,Sugarcane,9.5,86,145.9,59.6,82.3,6.66,1275.5,34.5,427.23,297.76,51844.66,High,74.9,Low
+Haryana,Panipat,Rabi,Red,Cotton,8.7,67,79.6,38.5,45.2,6.46,888.0,32.2,9.71,6446.54,31350.98,Medium,78.3,Low
+Uttar Pradesh,Meerut,Kharif,Clay,Rice,4.3,85,127.8,42.4,47.0,7.01,1512.4,29.0,30.66,2105.54,24217.41,High,90.0,Low
+Madhya Pradesh,Indore,Rabi,Clay,Wheat,10.8,30,118.3,60.4,35.4,6.33,781.7,20.6,22.19,2016.36,17861.36,Medium,75.4,Low
+Haryana,Karnal,Rabi,Red,Sugarcane,1.4,76,145.3,67.2,63.0,7.25,1699.5,28.6,391.25,298.15,44863.99,High,69.7,Low
+Madhya Pradesh,Bhopal,Zaid,Clay,Maize,6.2,51,78.8,39.9,36.1,6.78,761.9,25.1,21.1,2229.45,18452.21,Medium,74.0,Low
+Punjab,Ludhiana,Rabi,Clay,Maize,7.6,53,79.5,71.5,36.7,7.38,1107.5,23.4,22.39,2151.23,19383.68,Medium,85.9,Low
+Haryana,Hisar,Kharif,Loamy,Soybean,3.3,44,44.1,58.5,32.7,7.2,928.4,25.7,13.48,3824.2,21642.68,Medium,61.4,Low
+Maharashtra,Nagpur,Zaid,Red,Groundnut,9.8,48,26.7,70.8,42.6,6.85,963.9,30.1,15.6,4906.91,22892.8,Medium,64.8,Low
+Madhya Pradesh,Indore,Zaid,Sandy,Groundnut,16.2,24,33.5,40.8,45.5,6.9,992.2,29.1,14.74,6069.55,25965.03,Medium,65.2,Low
+Maharashtra,Pune,Zaid,Loamy,Sugarcane,8.2,91,141.1,45.4,89.6,7.81,1782.5,27.4,456.84,294.56,46991.65,High,70.1,Low
+Punjab,Patiala,Kharif,Black,Bajra,19.1,48,46.4,27.3,21.6,8.23,329.7,29.1,15.01,2079.48,13616.09,Low,57.1,Low
+Maharashtra,Pune,Zaid,Alluvial,Sugarcane,18.0,100,140.7,56.8,73.1,7.5,1585.9,33.3,466.13,319.67,40485.59,High,59.1,Low
+Uttar Pradesh,Meerut,Kharif,Red,Bajra,14.4,48,55.1,29.5,27.7,7.62,602.8,30.8,15.81,1989.69,10692.48,Low,67.9,Low
+Uttar Pradesh,Meerut,Rabi,Red,Maize,13.5,67,119.6,50.1,39.9,7.3,761.5,28.1,25.15,1745.9,20350.37,Medium,89.3,Low
+Uttar Pradesh,Lucknow,Kharif,Sandy,Groundnut,1.5,42,29.8,56.5,52.5,6.75,1051.0,32.9,15.14,5405.68,22915.62,Medium,54.5,Low
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,4.0,76,120.6,50.7,40.8,5.92,1375.8,30.9,27.56,1825.02,27274.36,High,69.0,Low
+Uttar Pradesh,Lucknow,Zaid,Sandy,Groundnut,7.4,37,16.8,59.3,57.5,6.68,628.9,27.1,14.68,5322.25,24841.81,Medium,55.0,Low
+Madhya Pradesh,Bhopal,Rabi,Sandy,Mustard,1.3,52,99.4,23.7,21.7,6.25,283.8,15.6,11.85,5639.52,15665.07,Low,54.4,Low
+Maharashtra,Nagpur,Kharif,Sandy,Rice,12.5,71,109.1,41.5,53.3,6.59,1562.5,28.0,28.01,2242.01,25026.92,High,71.6,Low
+Madhya Pradesh,Indore,Zaid,Red,Groundnut,6.5,50,20.5,42.1,36.2,7.12,566.4,32.1,15.45,5507.98,25817.09,Medium,50.0,Low
+Punjab,Amritsar,Rabi,Red,Maize,10.5,61,90.8,39.2,48.3,6.82,821.8,23.1,24.32,2058.51,19888.21,Medium,89.5,Low
+Haryana,Karnal,Rabi,Loamy,Gram,12.4,34,16.8,51.8,16.1,6.34,396.4,11.5,11.84,4752.73,17738.97,Low,64.6,Low
+Haryana,Panipat,Rabi,Loamy,Gram,1.3,29,23.9,39.2,20.4,6.66,638.3,13.6,12.47,5038.89,16035.02,Low,59.7,Low
+Punjab,Ludhiana,Kharif,Red,Bajra,18.7,37,49.6,26.3,32.2,7.3,366.1,27.9,15.36,2201.99,14040.62,Low,57.6,Low
+Maharashtra,Pune,Kharif,Alluvial,Maize,13.4,55,101.5,52.5,51.3,5.81,1099.8,29.2,26.15,1738.2,19021.33,Medium,76.2,Low
+Punjab,Amritsar,Rabi,Red,Rice,19.0,89,117.0,49.5,56.8,5.67,1669.0,27.5,25.54,2288.24,27437.65,High,87.4,Low
+Uttar Pradesh,Lucknow,Kharif,Alluvial,Sugarcane,16.1,68,137.2,63.8,86.2,6.18,1517.3,29.3,500.96,332.14,42321.56,High,64.1,Low
+Madhya Pradesh,Bhopal,Zaid,Clay,Wheat,18.7,58,129.3,47.2,47.8,5.93,552.5,14.6,20.55,2392.5,21753.75,Medium,79.2,Low
+Punjab,Amritsar,Rabi,Sandy,Mustard,9.2,39,67.5,46.6,34.0,7.36,354.2,20.8,11.43,5870.84,14314.87,Low,51.2,Low
+Uttar Pradesh,Meerut,Zaid,Black,Sugarcane,1.3,100,140.7,50.2,70.1,7.08,1629.6,33.9,429.26,311.37,54473.18,High,65.3,Low
+Punjab,Amritsar,Zaid,Alluvial,Groundnut,19.7,45,13.2,48.3,42.4,6.72,578.7,30.1,13.62,6115.34,25760.8,Medium,54.7,Low
+Punjab,Ludhiana,Kharif,Alluvial,Sugarcane,15.1,68,126.8,73.2,78.7,5.77,1561.8,34.4,448.06,304.41,41103.65,High,67.5,Low
+Punjab,Amritsar,Rabi,Clay,Cotton,12.9,56,102.7,33.6,40.5,6.05,938.4,20.1,9.18,6523.39,27586.84,Medium,73.2,Low
+Maharashtra,Pune,Zaid,Alluvial,Sugarcane,16.7,98,157.4,67.3,81.7,6.19,1313.7,28.5,506.47,296.97,49996.38,High,65.0,Low
+Haryana,Hisar,Zaid,Black,Sugarcane,16.3,66,164.1,66.5,77.8,6.22,1765.9,33.3,458.2,298.68,51401.81,High,71.2,Low
+Haryana,Panipat,Rabi,Clay,Gram,9.3,60,36.3,49.7,27.9,6.02,479.5,18.6,10.54,5166.95,17908.68,Low,68.7,Low
+Maharashtra,Nagpur,Rabi,Black,Wheat,4.3,57,114.4,65.9,32.5,6.39,722.6,12.1,24.28,2086.36,19211.12,Medium,80.6,Low
+Punjab,Ludhiana,Rabi,Sandy,Mustard,9.9,32,96.2,37.6,27.0,6.88,606.8,22.2,12.42,5500.69,15397.42,Low,58.7,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,19.3,100,126.6,45.0,70.3,7.2,1257.1,24.5,465.53,324.85,42192.29,High,71.6,Low
+Haryana,Panipat,Zaid,Red,Groundnut,5.2,65,27.3,33.0,51.9,5.94,669.6,29.4,14.81,4893.25,22802.41,Medium,68.0,Low
+Punjab,Patiala,Kharif,Red,Groundnut,16.8,46,19.4,49.6,54.0,6.05,570.2,25.2,15.47,6186.34,22194.17,Medium,58.5,Low
+Punjab,Patiala,Zaid,Red,Groundnut,14.5,61,36.0,41.1,49.7,6.05,868.6,25.7,14.96,5083.17,26915.65,Medium,55.9,Low
+Uttar Pradesh,Lucknow,Kharif,Sandy,Mustard,3.7,78,99.4,48.7,35.1,7.66,372.3,22.6,10.4,5741.84,14392.24,Low,62.7,Low
+Uttar Pradesh,Lucknow,Rabi,Alluvial,Gram,6.0,26,31.4,45.2,15.7,7.35,395.9,25.7,11.74,4624.97,14479.46,Low,53.6,Medium
+Punjab,Patiala,Rabi,Sandy,Mustard,2.9,40,84.0,37.5,28.6,6.43,717.0,14.3,11.79,5534.25,14520.8,Low,52.5,Medium
+Uttar Pradesh,Meerut,Kharif,Clay,Sugarcane,10.4,60,160.5,69.0,63.4,6.09,1368.6,28.4,437.24,308.05,48074.54,High,63.4,Low
+Maharashtra,Pune,Zaid,Sandy,Groundnut,1.4,46,27.3,66.2,48.3,5.73,924.7,33.3,15.17,5829.52,24207.86,Medium,56.2,Low
+Uttar Pradesh,Varanasi,Zaid,Red,Groundnut,1.9,38,20.7,39.6,57.2,6.23,877.1,30.6,15.62,5284.27,22856.78,Medium,65.0,Low
+Punjab,Ludhiana,Kharif,Loamy,Sugarcane,19.4,80,144.7,72.0,88.2,5.62,1681.4,33.5,462.06,303.76,46489.34,High,68.7,Low
+Punjab,Ludhiana,Zaid,Clay,Mustard,17.9,9,53.6,44.8,22.2,6.19,663.9,16.1,9.7,5656.53,16167.01,Low,68.1,Medium
+Punjab,Ludhiana,Zaid,Black,Sugarcane,17.8,80,118.2,83.7,88.5,6.13,1638.1,31.8,465.77,335.5,40128.29,High,71.6,Low
+Punjab,Amritsar,Rabi,Black,Gram,15.9,21,44.1,46.3,33.2,5.53,459.1,14.2,11.98,5152.94,15488.59,Low,50.9,Medium
+Madhya Pradesh,Indore,Rabi,Clay,Maize,18.8,59,109.4,65.0,30.8,6.5,931.0,29.7,22.38,1915.8,19885.35,Medium,65.0,Low
+Madhya Pradesh,Indore,Rabi,Clay,Soybean,8.9,68,40.5,59.3,36.0,6.31,530.6,23.6,10.32,4373.08,20327.58,Medium,72.9,Low
+Haryana,Hisar,Kharif,Clay,Rice,10.3,69,117.8,45.7,50.2,5.85,1094.2,22.2,28.1,1764.64,22695.99,High,77.9,Low
+Haryana,Panipat,Rabi,Loamy,Gram,5.5,21,24.3,42.0,35.0,6.5,456.9,8.8,12.06,5555.9,17551.81,Low,55.1,Medium
+Maharashtra,Nashik,Kharif,Black,Cotton,9.9,57,77.0,50.9,45.5,7.39,709.8,26.6,10.59,6437.85,31591.77,Medium,67.0,Low
+Punjab,Amritsar,Kharif,Red,Bajra,3.0,42,80.5,31.5,28.4,7.0,505.7,33.5,15.15,2118.75,12903.16,Low,75.1,Low
+Haryana,Panipat,Rabi,Red,Maize,10.5,67,85.5,44.1,46.2,6.54,997.0,22.6,24.4,1997.85,22948.86,Medium,73.1,Low
+Maharashtra,Nagpur,Zaid,Loamy,Sugarcane,19.0,59,129.1,79.1,79.4,7.29,1348.1,26.4,481.17,320.59,41007.03,High,65.9,Low
+Punjab,Ludhiana,Zaid,Black,Sugarcane,6.9,96,113.0,57.1,65.4,7.08,1584.7,26.8,457.0,313.33,53797.97,High,56.5,Low
+Madhya Pradesh,Indore,Kharif,Alluvial,Cotton,1.5,52,99.2,49.4,32.8,5.98,721.3,30.8,10.44,6127.1,29819.03,Medium,65.5,Low
+Madhya Pradesh,Indore,Rabi,Alluvial,Wheat,14.2,53,111.0,61.5,56.4,7.54,753.8,18.2,23.49,2350.31,16078.85,Medium,77.9,Low
+Madhya Pradesh,Bhopal,Kharif,Clay,Rice,9.4,81,126.9,44.6,53.7,6.17,1555.7,25.3,29.91,2085.45,25828.41,High,66.5,Low
+Maharashtra,Nashik,Zaid,Black,Sugarcane,19.1,97,123.3,56.6,69.0,7.27,1684.6,29.4,479.37,311.48,41117.98,High,69.3,Low
+Madhya Pradesh,Bhopal,Rabi,Alluvial,Mustard,8.6,5,60.9,43.7,36.2,7.2,286.7,12.8,11.54,6058.17,17983.54,Low,65.1,Medium
+Haryana,Hisar,Zaid,Clay,Sugarcane,2.6,100,146.4,53.3,82.0,6.44,1075.4,29.5,445.55,321.47,45505.29,High,56.0,Low
+Punjab,Amritsar,Zaid,Loamy,Sugarcane,10.0,87,135.4,72.1,80.0,7.06,1532.4,31.0,483.88,291.37,53877.31,High,76.5,Low
+Punjab,Amritsar,Zaid,Sandy,Groundnut,1.2,45,17.1,52.8,57.0,6.59,798.6,28.5,16.0,6076.02,24840.23,Medium,54.8,Low
